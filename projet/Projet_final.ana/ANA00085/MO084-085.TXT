@@ -1,0 +1,3 @@
+//MO084-085.TXT ANA00084 TO ANA00085
+Analyse_rapport		NFI		nouveau fichier
+Contrainte_Rapports_Analyse_rapport		NWL	Rapports (IDRapports) et Analyse_rapport (IDRapports)	Nouvelle liaison entre les fichiers Rapports (IDRapports) et Analyse_rapport (IDRapports)

@@ -1,0 +1,1100 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Gestion_Menaces_et_Vulnérabilites
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Gestion_Menaces_et_Vulnérabilites
+ identifier : 0x25ab1b3f5d73fc40
+ internal_properties : CAAAAAgAAADWUNcYEoVp9Zq6dYPT4uZIQDEl7c17KBxBGweWl9ezdySKaZwJc6zBsf3EQRfeMMnAF54oPNhAmk96yRdfA3SoKNu4+bjSTEfWT6AtF8OccLrUd/wo5qWT/5hQq5tr17VwfI8Ed7oiPCeWvq11BW9dufyWY6ThY3mOGtFDtB2qZYUervJRNng99aJ+O7cDGNliD+zBOY7SZGvsNkExMTCFRSTY9ITvIV6d3hVRpA8QkASiBdCRjoV3RBi2JD+dPF9ge4wyuKWM4ahJGIJV4HUBLbt+SsGLMph1xttfTF3phRhroEVdn98PU+pWUf9nDi4TAzZy6mETXZxZiiPdKe5h7O7H8se3Dk1vRi86R78eWYiokbLV6idV7OXhhMX0VBDR0lG9nvcZO3UBL5cjZEhLpeoL0W84q1HyLLEhY5k3548dWfYze5K06vwj2SsNGocT8PC9f6nO8O23qVXwswJEdWRjW8mwgnmcdet18zErQ/FAEAUneCZQJXc1/eHZuldFfotMpA0qO42iHpSYDxWw2tT/SJqh5mD9x7KTmH7NfGARyjbXojJeOZIrlGz92X+cTr/J/phpKQeTY32eONZMbyJbaHKt1xAFqJcaLuq7B5Ipynj0N5m5VwjgeCsDgCnwElrdn8sZsYjy8JIS8lxjrjxluPSaUdHciHsIr54XGbbOXaAm0bIFHrmO/IyTHVxFtJF3lREJAiw0Cka+gJM+IMuoBk95Nhn5OQl6cgrWcIg7P/AV+MuK28VnrsR283L8umGompeuZYYFW/Qj6A0RB2FpPO/MjKqu7trQJ6tXmdEyr6+VQEotOcuGD5kSjI0gaYy3OmGf0ASyK0N8BGnkpNFWIGC8A74gv10JrQ==
+ properties :
+  width : 514
+  height : 647
+  heightMin : 728
+ controls :
+  -
+    name : ONG_SansNom1
+    identifier : 0x25ab1b3f5d79fc40
+    internal_properties : CAAAAAgAAAAH8hjO5oLqHrKZ0DpQh6gR1Y1J9FMKvxZemL5U7b524SjBhseFtEkbQIe09+G6vvCj7tBEmeo8WUCFpjpADyGylSC7Mab9JQhR1NP4Hzt1SMJyxVB9fGr+Wl8jt5X93rHHZXllSG5QIp993/4JPFZflwZr5o2TrGTbYDi3hdlyHbS9d6FDL+1+XyS7oVyv5bdKVIdaKcAHsX9FL2/HnwvkNcTZ+SjLNYVLczPW5YDRn/LX5NGl8kNb7QutbRGAf+I25hlHACdSwLR7ICgP05+wkGKnP/OQMs1SwHvqbNlFC54PPTCRBlHHl+IfeSFI4UfXPD/rH/fLeE862MtFbqWIESh4QwmxZ5+h3ZKXV2XByUo9FWOk4bAHwsbDeq+j+W5lO5NtCUnX+VJinU/pNNg+1opHfL3YTcIHlHg+L/TGcecqkK/lxc3iM/LrAwfjh/uL3ueM4hWYmw7pxO/DIF57gd4aS91K4tjBQXeSGEPBma0jn92htCCFz1qucGlVDp52aVdbc/Knez+ItC91uL+gx7yDq7pmlYW8vGhAAHJUNw8DUdfKyxP9VlXqrbRUlr4n23TR9il84N60RLbvTIxuU1++iURFdERRSfaX7XEPaYs19fc/G94cWqXydwmkHlI7wz4QGzF7XwGbhmV1b1Kk4afQ/bmPSI/rMX8te/jyxS4w/9gMdb1kKDPICqXj+O0bcOjGrDgaFTK6caeWhX5FeF4BmJWVIdiF+uSNFm+bjnMrYsHnD5HinAMDW2fnHH+wlM2vecfK8eoBEOEhcqrlNGmBb4F4sD5l5gnqUP91dzADq1LlBKMVb2izCVfAs0/hAA/x7CViNkAdEbe2/TMGLdKxTAMuGccbaMO+3ce5siEzZrRG3kUyK2V4nU9Q8TAGrrDcM5xs5ChypaW1LqhvEOF3HSN+CXTCTXOGSeXATyuD/ziiiWEb+W2PrZjnPBOB0mDpBbRJ12E4JW9M7DgcWxXjlgK9Bx1vhr9r5iijYUzedJazf78HivNRfE6/aMiEBjFM7a7T6zXxsyiQXlM1JGjU+eZ0yTh9DY2nxf8/JEz1bKE8EHhSObT0K7u8LuGyxqqJyAclsXMpYWOJt/Yy4w==
+    properties :
+     width : 514
+     height : 647
+    tabs :
+     -
+       internal_properties : CAAAAAgAAAA5TgEhkaIHgXtW8mVcKq4KDXsbp3JW/+Le0tqOF+x1eWLyyuheWCCTMjpoygjW/z64z8E3v55EYiINZ+Ib8nq2EV0Kh/615ksJXLRQa/2jtm8+F/1EDqZ/FFL2pMYjn0rBTD1D+cKmeIwWVkBHTHhEpAkYPsidc5Qu+suIoypxyXi63/wWUCQgtEOPesqrvT+sqA==
+       controls :
+        -
+          name : LIB_Titre_de_fenêtre
+          identifier : 0x25ab1b3f5d7cfc40
+          internal_properties : CAAAAAgAAADbzxrx9Vhqc0sEwb90NjjJmVC/PCveS1Gq5uEhHHY+puH8/XdiGy+/aWXcJQZTn0pUoBCYGWA+R6N3Edh4MFArnHhcaN/OUn8Mh/rHj0G3qDWXq8OdnlAwaCWDAVb3+5Ef1SG1j9frVtMgj+BuYLPFivLi+bfIvlUnE7aG0cp+NtJeaO8/aPnS4Eb55LFwx7YMIBrvh5PSpTWyCfr+/7jlY/z4ZcbKDmdfObKtv/DXJhY1MQZzsR509a2udAF+jyo3v8P6JKDtPAEdFJrfBXE0x4gLRfmv454Rekulq7m6vX3n/W5LigFc8JbRaL+ZIIwDP9jqH9MGWfSncsqegkHLcvKEiWnaceRuNgKr6z25VEkI6UnprwDXTRyvd7EeJcoY4jUeTjwHbV21Sm6TGDLeoG8SDy5c5SSQlO0Zp7qMHRaENk/KrJNcONj5Wtn93knMnU4xwGhzHMUZRKA5NLBYCyhNGIZ6VvsqefSsdDEK+5GkbRcr59Z9noOdzxx77ME60k34HGR9jAg2I/FszGKnW+Y8WXY0jJWwMv2qJVDGm1U1V4p5uPUmsWHRAKOmzs31RjNuEgSBAwgBKEPNtmWEJIjol9/39MNg/LWQT9uT0tLeeVI/U9HvSbQxQE29Pd1Xz4p/Lpf84C2z8zGxoODj4dH5BY8noA==
+          properties :
+           x : 8
+           y : 15
+           width : 498
+           height : 55
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1+
+               // Version 1
+               // Description 
+               // Libellé pour écrire un titre
+               
+              type : 14
+        -
+          name : BTN_tableauAM
+          identifier : 0x25ac11a0732566cb
+          internal_properties : CAAAAAgAAADXX1VvtF1+wX10MOSQHVdkUxCkVP35cv2HLP00cBJVAcQipKTQ+BK0qgJXtNfW98kETM6KaSxyuhgwZ48JlTs6Q6m5oVSal0sfyd9QYaW1o2SaTQVFoAKG3vvGN+Ie7WnuGx54jpFdbpvDXbby2Kt7tBjC95j9pX7To2rwzXMaWiTThz1arnEtkMfOATEXKxxTrtpUO5WP7talwJGJ8mie+HnCOimLw1uueOgAeo4OF8jzkQQ2jj3+AIkzMrQAMuI046oSMhfBMZ/lYz9WAb7WqdBtu7yi8rR9RxGWb4iWD98iiLlJ1Aw9sAVZG8y7zs0w5wTZ2n6XGplDeFWEfUn4v8hD/RrE6BdxxxwGIH2pj96/0XwIfIf8TeCqjnE3289ZW3oI9NVl7MFQuqQsqlLcfRhn3aqw/03ph4ebPbsEZI56l+XEbTGSgvkF1+V+QNTbORPYHRtqfQ7NcYR1zuRp3ePwN16muQwSspICi0XlFRd3Zmym4pbWZFM/n5CqwTBEFvJF6PTPGKFOJ5XduAjEcu5Tuw7uSsbopv74845260Va+U5hK/ae+ZiE3LCXmWEpfu2+GuhOZzR9Q2FW1zq/6UdyBtskifC+Xw+fJMCJ7BplwNOT0+g45X72IsrQbR8nk5eidz55mvro82P9yASn820k5TppBCxnZ1dxP7CzH8sY+z/Jgg3GKy1PLk/IHPOf9p2e3o6Xt8mX5bRfXJNPeSf6x0mBqAvX9XI2g+qROHZhhEf9+4JzarPeqbVh1yJoIFYj/3pU1Mr6+LbF7YMl93MAghm+5TRc2YR4O88NnGDe2ScNSmTEFph43GgL+krtq5M+mjzRIPNcEWufHk7DGTRyS2pAMDGNkB5l8IeddJI4HKV3K6w=
+          properties :
+           x : 164
+           y : 531
+           width : 183
+           height : 48
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               OuvreFenêtreMobile(FI_TableauCorrespondanceAM)
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : COMBO_Client
+          identifier : 0x25ac11c973fa06b4
+          internal_properties : CAAAAAgAAAAgs2pStH6jv9jMRXT4xtZR7JaRBtC7lEgyDWrgzdPdUzMX12Roc/eRQKfeu6+8WhlqpQTkDbVAOv6O3YpQBRcfNVZO22K9RpQevomuHOAKtxNmlLu4hr96NOQwFSHKjegw0er6VF2eOmeTiWtoJ1bPxCuL4KV54TitZvDb/1s+ItPvSiLBnJQoF/ygDoc8j4Nixsfo69NKeYieP6CPutsT7kqPZhib4MAg1FoQfh0FhGop1iYS/TOO0XYKonv8pV2zDeYy5NtLOJRhNi4egddr+ikrXW4JTmwUmc0Knz1OnZsgCCgQ0GEzWbc5ZkNsI+JFw9QVEUbZJhA6bPw56M5MmRkp5DaxVzMX4B+tbbTh+zMvex2SfMCWeM6ctRlJY6XG0E8x3nWBkPGGpvu3C5Iwvb+xJJZ+L6cMOmAucmNG7kEUl5vXsd2nW4wV+CiNGDHYn29Srv3qenEBZr66PLs+XOL3G8iZKIzIENEI75TRFn//XwYwbwHW84yJKA8kzZxLtHpUHITTmkREjFYqywu7D9+9opQBDsQshd/5zRBZpyrIzZS8h+mIUby77OVWoKFeRjcL+K0nz7vu4rYMiN5r4IZClm0t2bSsY97Vv/3utHqj5qeZAOD5DQ9vt+IzbiUGRu0Vn3VB640aQGf9oy8OLtIPD/rMTv/9QNx8fBnu9CVCx1okUKEA8vEv6uVoP9T35ReFM7lsszn8WeExCWevlhRBPMxUCOF7zvyEfqJMEghO/zluvTk2WulYA3HMTUmTCaLDHCcFqXJubTXH+E4pS9TH9dodPLy68EUpoLxc8SzGbCNxow73eSTzMjf4i2/mrUK3tlpK787yYm7EpM2qfUd/lgdGLI5TsKlWmAnOxxrgdAftAmaBqSNsX98+w0B8LOMJ716HYVtNYfrVUqtw9LhzyfJnvw0krGjyLU/oDCYRvc3QUFE1wSduCV8YEg4LbVKnFwf7ZD78NiC1FculsNT98I5661jIvtWuq85HOhTFyndr/b09TL7sEEwbTK4WQprR6LrwGv5xUfpiwfGRzYuzmRHAiwWhXmuOCIPfv/n8xLxstw5qZIVuNvx7UXV8KVlz+ZBjfNPLbrNB6yjFUYaO+EHkZ29pBmV3FLLj2K4gdisUKMBPakF2t8BcBFLKO41AVjfBDmzN2nHx9Gy52ZfRzKEn6n3/GC+fsdZ5QGj4IKThCPuez77ryOSvW4Do/TZJx3vMXBHw4ksC5yCBfPkBAzwNTPGVf9ilFKp+K0Q6+rEBO7UVsaDf9ZUPW7aAAgHBYDuWzgqyC1RnKSnxJZADWf6DvPjz+ogNzoTndhdsW2WWTREkimWNuuG7noHP13fxwy+lJK1UbZ+7w46fNw1NVKZXJeO8hE7VwYvhe+u6i6Z7ffcnuzLyiMTBQKBXXFPKMOI/00pucclHI/UtIWi98or2cXbhv0UW2LHMGAHB8zHvlR5OHDQeJkcoMaelT+tv+CdUFPNnRgtkzS8SD421nmb/Xel169gWFAgHIbF/JTZ7kujdU6nwJ/IrONiniH3TZkEwWinnpDyUtCHaNcAUcdb3LrPo8sCZbw0KY+WI/KrV99lWz+gKjPAAiQJ4W8c7zeXi5LTOI85jhSBXIF13wsLO6CLmq4ojLlkme4wlAc6n0oRLxCmJPSqPRjllwRsV0iIisPjA/GcNKNchCgqOU8VLK0y2lZ2X1kfagPnljEnTnKCoEFwIEZgFugbVCHGzz10WWOnX55LxmxKGMRw+wMtA/RfCac1fLg9RDttbE/EsGvtCbU0+P0FEHz3+/tNkr7Abf4U4bh5vk5rVzIZhuWxo4i0pyDnzWGwtAjsOCnh/+QnJc2Q6NNCUEyA=
+          properties :
+           x : 75
+           y : 102
+           width : 364
+           height : 42
+          dropdown :
+           internal_properties : CAAAAAgAAACGCDMIJTLjc7i3D2C1lDHfOaGCTGaI5Ddg0vsdVcJClnjApLdNXdTugcff/6kpYOcJem82hnaO60Q4XRe8Ks8M8Lgu88o5CyV+My+8PW7ARxfKCiRJg/xhdIADt5JKDuMDnKCtt9VFTaEgM30Mf/+xX4KYX5ipmMRrukdoSHavqjhzxXXrDNXUh3XzbehS0dEaXjd4SwG1sSbxaMRrkOMI580x58bd2pUc/4BAMdsKNbiLblexy7DYD02GVSL0+dNQcAVWDCETTX/Gs+qWBR5QnnUoQm7LfibdvB/wLTRgvQglOwTNtYhTuOh44+NYMY4UKFnFtp74MaFHu5Kf/ZW1LzQvOLRK8mgkTEOMoOePgWCKeVjq0ARPc4xic9yfRpunudOtpeayHlMBbe/ozMfiqnPOY6oUX826RBiY84ZS9+aC9wQL30RZCxFqSochnultJzNW0d4XwcV36RToNZa7AmaYx0YFtaPUQyJl6h2hKqtqkmvSteW6miVnGG83PMFI3H/OK+bV3Qn7oOZ08Ou2j6lFpjuDL/8cb2Bh+sOZDOtXIxo9Unl90Jg6O90Y3NSRYRfAhzIftAuUp/btkrUUvk4V/I1pJLzKa0bxSCwOvpoARdMupkluT+6EWuoCNVCxwz4OisIV
+           type : 7
+          type : 14
+          code_elements :
+           type_code : 23
+           p_codes :
+            -
+              code : |1-
+               // Version 1
+               // Description 
+               // Combo liste simple
+               InitialisationCOMBO_client()
+              type : 14
+            -
+              type : 35
+              enabled : false
+            -
+              code : |1-
+               SAI_client=COMBO_Client..ValeurAffichée
+               //Initialisation combo actifs à chaque sélection
+               InitialisationCOMBO_Actif(SAI_client)
+              type : 33
+            -
+              type : 17
+              enabled : false
+        -
+          name : COMBO_Actif
+          identifier : 0x25ac14337c2674b5
+          internal_properties : CAAAAAgAAAC1pI6bjsXgOWfnvJz33/XmTGKjFWROSBI973sqkMbVF36yZnV9wsan4iAeJuwF4e6jbyjHH6pmbzBiXr13obalzlNc+ij4/xEeDQRd21ZkGrktcwKcuufkNB2Ugo33BB+SMQXJHV41VlkA0vguQI1MZU8y/bMJY1usgk4vUT/2G24Lp5JVqS0w04++FZUBzwvtqUrf6bHMb/xu4Ez2ghQFABsEbymV4cmAhdz64PPs9OqO9ljjNVNq72K+15VMxzlXBdms6ip+tWc4YxYNVc1TKhmcLVHVkuyz32pVx0qwWH5up+LMVIyN+ygKq17TClH3HIwjBc1o4/jbFuPBe6nJBGoq+mT/zqyegJeHQsF+G5bGmHG6YScSzludhMq/xmRrG/VRGSxRA/SXBsKx3aneyxTH4wtCZREltlbpLQ2zWBqYb0PlLf7fn8G5c4vPETpYopnftEKHgNb9nSJoNniWc7iDjcsT4r5ezr/MctWACauJAuyA709JYluAp93ArKVNWAetSrRqxEQ7GHldZN4AiEGE6UKhGz8gBCAUipHcI7Emu6EiHIpxij8+GRqdAOwKi6UREOEpkXjgdW0xfyfpsw2+V8Gm4F+igyfgKIOAfaOvNvXbehekC4TpAKHDxUtcCxBMkDwHLCrwYdQ+VTCXnHinDLqEPlmxvtBAegwt07lTANdxhcForLiL9qS/SSxMcV/e37omiLInCgsjur5WOMCg+dfs0rGg6Tdp3dzsEDpqagebhqrg5aXp6THKXeJTp62ccLFhgcFLSN+3HKwPZnRsqHWECFY9UXTLvhxpgrlmEaYibx+zZv6AGikRFLI7QPbKGBV2nYAaxe+tgHDUuQVp8tWVN8tpSvndkavkF6KMOvpgL0rCJ15NjpDob5gcNNjqTOXSxhLSCX7AuDcWde2AwjFuCTv5avkiMkmcta0RaGc2YKRAwJfx+br8MBnWW5e1YU9YfWkiiST2a3vMVWhUjIbEirdrtnKuZjodbTXTq0GZ/QA2dRzbgKHHVkFVzmNtKMTnNSX9fsbjocuy4j+qM38EgFoqQGyot12X9NhkjdIe0931PR8tMo37G5w71dxBa1zKR4Znp88I5Vjmdmor9qN4QCqcmFAfKYyzbx+KvzHOxBnq0UsB3emc6k//KT72KJs2RRHNNclW0L5yHM9K5M1xH07mymaXzHJ7SdV09zLrXBhfiEi8KsNRzyshmZ9ha1HHm77CNdn7NSzSB/fEU2gbd0QGe9GNUcxeCJmqn/WZzW427siiv3JjXd/fnvqz/od5E2EeSlQyDxmcdPgoEzSrVVsAWovBbzqnD/pG/KEOJ3px2afmgIpTpOYeA/bTSadwOYwagtPc2fJyAJ+ebtT7pKy3fgdPHgcL8Grc5ggJlZBWzJSvCC9lYkNEWAIyzPzWhHkGcPt0H1Os+Gr+VJjiLgF6tyxeM4X+PcwPct3HA+fx1YYHbnz8y+h+O5hFystf21Rh7+FlQ0snyhl48i4Vzpo+FRfyG4r3dnIlnizF4lmOOruR8f9teJvAzvjLkgeX3RYj/1q17C/BYkxfxa6ppWZ/jE03sD1cjlI6bUJ5VRhjLHxJni00L5HvJcRbmctjxbWSbhjwz6DsUZt6fmIsi2HbLfV7uwvatGv/tm6zcJcE6aOUm4373OiIGbJpkuzt6Q2EQQXITAGYvUx/myHV3OHZpeo34+GywXKRdeeVgPvDfwJNJalrPrdW5hCndy+vsUjDqhKObdoljL4pSBeiuG4bF5BhDGvE8uH03S69Fg/YVM6R9WtjZBhMmEsqEkl2YmPHmLUx3DkOUzaSmYoFni7dD0HnimOTJ3nhnSkuqMFU1E6dJojHvECR
+          properties :
+           x : 75
+           y : 166
+           width : 360
+           height : 42
+          dropdown :
+           internal_properties : CAAAAAgAAACGCDMIJTLjc7i3D2C1lDHfOaGCTGaI5Ddg0vsdVcJClnjApLdNXdTugcff/6kpYOcJem82hnaO60Q4XRe8Ks8M8Lgu88o5CyV+My+8PW7ARxfKCiRJg/xhdIADt5JKDuMDnKCtt9VFTaEgM30Mf/+xX4KYX5ipmMRrukdoSHavqjhzxXXrDNXUh3XzbehS0dEaXjd4SwG1sSbxaMRrkOMI580x58bd2pUc/4BAMdsKNbiLblexy7DYD02GVSL0+dNQcAVWDCETTX/Gs+qWBR5QnnUoQm7LfibdvB/wLTRgvQglOwTNtYhTuOh44+NYMY4UKFnFtp74MaFHu5Kf/ZW1LzQvOLRK8mgkTEOMoOePgWCKeVjq0ARPc4xic9yfRpunudOtpeayHlMBbe/ozMfiqnPOY6oUX826RBiY84ZS9+aC9wQL30RZCxFqSochnultJzNW0d4XwcV36RToNZa7AmaYx0YFtaPUQyJl6h2hKqtqkmvSteW6miVnGG83PMFI3H/OK+bV3Qn7oOZ08Ou2j6lFpjuDL/8cb2Bh+sOZDOtXIxo9Unl90Jg6O90Y3NSRYRfAhzIftAuUp/btkrUUvk4V/I1pJLzKa0bxSCwOvpoARdMupkluT+6EWuoCNVCxwz4OisIV
+           type : 7
+          type : 14
+          code_elements :
+           type_code : 23
+           p_codes :
+            -
+              code : |1-
+               // Version 1
+               // Description 
+               // Combo liste simple
+               InitialisationCOMBO_Actif(SAI_client)
+              type : 14
+            -
+              type : 35
+              enabled : false
+            -
+              code : |1+
+               SAI_actif=COMBO_Actif..ValeurAffichée
+              type : 33
+            -
+              type : 17
+              enabled : false
+        -
+          name : COMBO_Menace
+          identifier : 0x25ac149f7d8817b6
+          internal_properties : CAAAAAgAAADVehfSGXLQWKj/j7nriaVnswk9UyL02p3Sd9oqj897oFcqw3pmCA0hDyclSihwKzx6mw17JgyliGzBRGjh+ghk9r+37BUUGSGMu463ezDWcQq6GbZwWsPMlhtjztwwZ48iZnQq2ll/kq4933RYNKm5RIROvDNwoIRnUrXu3Ll8VY7Z0fGKbAUdpwR/qWGPc29REwk6TO8I1yXzRfbdohJl1RUWkulgobejFzds3Us1uTjkDj7FrzeZCmDRCIVA+hO3O5umm4zZUgwUm5EVv0UFImKNIMK8D8ygbIAYILaOoHgvAaEU3QSY31c4m0VQr1/dDlKzhXnIplf08uZzbfiFzqwtfytmTdeKvcvHb53EXOlP39dqXMG6MCNxXei3bbGKNuiXsmnPQIdEdJsguTfv9waGvBSmAPtetQzjDTFrIGhLjzKJic5oEH4ayIUrTfTLm03v68oEt7wXL2+HEQGGAdLfsmQMmeaDwGVCW2sJ4JVgI8woUiXQIb3jPpva1al4nduEQgI49sO0K8S73Y4wlDg7UhVjYjElfuiS1mx2yj0gj+ihpjJVvhxc3Aaqt6CKFhbammHDFc3ViCpiFF4W5ACqRT5j3Vnswz+EJscelrNNEKWHJpzMVXI005J9/FKkL/fE/2Ckae/ysOFblA4QfY6UbH5AR4kCtuCH/gxRqvZFAt6BXhU0qrlcDgIIy0m2hfPHgBIjqs5GBqIx/n4Kpd7je4aSPP+jH9J28cpZombAkxpVh6W17YdR9dtSo7g8eK4WxGAxqgvP86N4T7r0iNLuloWkgYWe6wzjv2bqETiIingwy9U4xmt+u9Hfhd/BNAyVyDz35qWSRW5RwIp9K1L8ohno6eT0Lghki2mZML0hbHhJUKX69bGYGg88s71aPeBpZxJyRhSm27gJSQ3TxWR6fpW3sQlnfyFGVTjxVmIfUi7sMnDkx9OcpvNlN5pnGQUSDVzLBB1hbPMXA+HMHwklD6+jDNblpXOezQAQLaenZPzZuOM8XSbyeXiKQw1mIqp9E6TMs+uXEBWbIq0sGhkpTjOm0nT1gXhS5Hnwb2VF5nYmazv4QYP5A5Echv3dizcOr6LznF7EMt2hfsD81UHWRQlsUeSESoC3yvn5WGbxMBOxAOMKYjlKsTFhtL6GZBqr1SxszcfrNYbbDIFiYtZ/efY8T6bHpMeI6rZIFojR0W1O4TK16/iFikSR6awma6bBB38dGDUbUgTNwlVyyJf3q+G7tatNpjGjo2EERUlcUFsDnRdCzHdvSGVFL18G8XqRxicPkOH8qJglEx3dnimg/MnXqMMXS7KsNssWS5MktQOiyVwilb1tPTDhmMgfkDSRgeoVm7EUScQ90OVvNSuinx9DB7FjkZFLEB2dFToxIBzkgJVQKaiN5gsbWxWOwv16qJ8nJ3Yosdn9RWI6cRiGOvEq0LI1+BBoSrFumTfRB51MOsv+opjnIy0XFTZBvolvGq7ddkVBbifJgIwTmvnRi0PGOw/IdypILbsYl+cqAyMuru9oSaKYfaK92//+vf+bOFvb8XyqLrdf8I+a3m3pF8vvCD7uZmi93hQjx9uPjpuJXHARSES0DGb75MOqRBqYmSc8ymvh5o8eWS4CEowIyaqX5/aTR6oJ7gIPEPptHrWPqfHt0ERiuvi1ssWa7+z0nxvsQ6TTk1K6GfYPUfw47Rd2MENFvqjcpKOnQfG1n8NDrFSyfYWqShcZwyAyC4kNjCcKiYy96glkhlFn3y+tUeH0gby+1h1G1WJpstXtcmhaOnRehyWwgHYOBRoby5dlDQQBWBc/
+          properties :
+           x : 75
+           y : 225
+           width : 360
+           height : 44
+          dropdown :
+           internal_properties : CAAAAAgAAAA9CRPMMABEk97rm+CO6vCsgjOc8cIYyTyp4yCuUTMBnWyo5eM9jlrol6n/MCfnGRonhF37JG7sb2Z8+/4+RaisVeS7TbACXRje5q5m4Lf0JWSArFHAJzmuMf3qwfoQoXEGoHdb6+hjH2L327SY7RrxIoZbt33tI+ssEldkR/ifeKljqnOCQV4eyMpE68ucOB8kZM6KdbWsnokUyXdE/f8hugB8iwEVO/33KL307DwmGaQrN8by+M/YNiks8OZTpDPscGcjNSIBFJBOxDd9ylzfhh5ZsqODf5RFxGOPMCxT8Q7GP3TXFwpDibPKAZtWzi8Ivm8FQEGS2FORbI5/eHK8l0XX5ko4tLr6HSWfxlOsgYF6zqVbqlfbrSBRiaRZpSq0GR4KnswRSEdptMcKqLL9LzG9GCuozDPy8iPcrf5ngIGu2t2YhT/tDdHRjENrd14IcX+SuicGlkSS/PUy4cbbSGurHhCamrm863kfkanlpYTi6Zw3aWaoms12sncHYcydWszBK60Z6ELoApv3509uT7wT2GmiERQHRsYSCdAF1kXIAaz7rUNAhYXYeZyvXgUgI4xiOd2LGyZCoih603CnWq9voq0iS28YqLDp1GiVqbP7QP3YaxEEkkOjJgI76Yp12g7pZ+flu/krIyzaWgpsytfA/8XjPPq7ZXzMWyDlNukHAFifGMX/waNyYgACv3Loim1GxMKfXU9W31N+cQ6n1yo2
+           type : 7
+          type : 14
+          code_elements :
+           type_code : 23
+           p_codes :
+            -
+              code : |1-
+               
+              type : 35
+            -
+              code : |1+
+               SAI_menace1 = COMBO_Menace..ValeurMémorisée
+               //Info(SAI_menace1)
+              type : 33
+            -
+              type : 17
+              enabled : false
+        -
+          name : BTN_Nouveau1
+          identifier : 0x25ac155c80c6fa6c
+          internal_properties : CAAAAAgAAAC+uga43w6QqtssyVTn2u/4JD72EglkAQ9TFCGU+dT+8RoQx0NMAq7QuuX3kquLJ1jL8oi36y0bDnUt9c6xOo5GAj6NIk/PeveZy7RBQVtR+bI4ReJbRsaMqrVj86I1ZxEJK3R8USTCIGcKk1bbJWjMieoWmZu4PTybkQoQAjTRgU+AfXG/dReQkbvGiHTzFyXW+7Mlfr//fRw+KI+jpdVBo8HRvH4jit52wh6ZvIeXSMtrPF+Kf1teBLmIyol2uxotvOBd3pPspEcYRHEiofHj2k12ORLyQiGzY0K6GkpwBKg1B/6NSN6x5nm3wxAT38CjtmJs8hrQLnO7o1T6QRY4vbHiG2VyBYuHigJHeVPu6MgKqiZSHfij3wsYUG6yX+uuJAp+G+rR3lk0M4AhSiGThntGGzmghOXmZTmdLOMIrJBtsnbkV65mp4ROrDNAOvlr/YLb7XPUOxTewwtJQ3Z671lqQNJyE59x0IH8F/ZvwiV0NBLQvDmBIKymcCHdX9lE/9KP05HgS8av4PqShFJUD2d4W8VfXMCQsafbnWJgQP08gGDtr3U6CO/AvN5XxQqjwfiC32eYChDe2PLdxLWgjcDzckx437uv7/pY0EpCtf4MpDvwkQt+vbJ4S5jW+w2aFie8tuFuiAY1pWsR71ETABqSrDNmQ1cfPELjLdq+U6I8RLWEBHirjd+VM0QDpH+NTYXAFV2fr+nKNnvNYRj/Z2rh1i793pmCPJMNbnAHQfNCsVVo+Zj7G0r0+6ciizRBF92Zj/AMqaN5xShTfbMA/nYR0NGq8u0sY+tfSk3xPayn2Q1v7eh/HxPteGzl0h/xXOzip5PupkZjx+sLTuNLLot2LSkgbYasfREZi1115+E0m5QOaq4Y3YRUCU3h6S4L+tNj3h2Q8oxo6CJVurMfDnf+QCRMTeEO8GXdFYI=
+          properties :
+           x : 43
+           y : 299
+           width : 194
+           height : 40
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               // Version 1
+               // Description 
+               // Bouton au style Nouveau pour ajouter ou créer des éléments
+              type : 14
+            -
+              code : |1+
+               CreerLiaisonAM()
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : BTN_Supprimer1
+          identifier : 0x25ac155c80c8fa7b
+          internal_properties : CAAAAAgAAABF049p4yAXxQH5CKWKUsWdynlaxfXUYjZPENJSQ93dy1vIkpHZ3E6t+CDHIKxnP7IX4svVCC0PZMiRd5qaz47tn1Bx+ITGWArzUApupg2i0kxPUr3Pka4kJYS4KdS8yE/VdEWfrwMPbY7OPfrNfV+HiIwMfESnFWIM5NVgY+LJRDKjct1OVltyAOrtu3uvbCV8yooULKrNJNz8P6yCq6DegxNbGrtUtX0RldrluNcIj5N5iZZMK3CWXHnb+JkYX6p3/vm9Gf7zBn3ca8azOVZDpHkRLZ1Qbs0iU0Lol3zvhBgJKv6SKfKETpsA9bPCsu8BaK1ZiOJyqzoaeehzVYdlKFkG4EiBAO+l6iLCKd51v1UsS729RPbmVAmbZAoCbpB2X7hAVZptdHNE2COVLtqXTqnz+u7lmX2WYdEe1nKth4awNIn3PpBCbw8pL0DMITS4nwO6mLIJoODua7aLNFWYAwCWlTu8ZWCswOpeVU6vbEhlKB5HZE3LrsV3mU2HivYh17ISsUXqAmA9Bwr9nOuA1lveZmPjvHmpYkl9sdEb4kPZzzYHsoMw7zs0hq3YZR68V1/gEKKTgVxHHaMkIXz2cC1bfUJfo3fjKtaRZ31rf7NYqpTh3obERniDu/cfWzQzhGVgAXkVIY21aQYy4T7ZUFoBVo0WoA9qfCFG/lxbSa2tW1x6BSOxT1M0GZt2Zmv/aac8RWtC7xl9ipaLnu1jjCxJhEtaxihKuVziz5RR0q3uuhFAg21Tj1n5PK6P3IPVmgyX+Fc3xSy0ciwjc+JQ1bhgW4K1AKa0PsfBhdhCaxyPeOaejzky2cvpQi2AhD/x8i82BxySOMQMmCdzrAqTO5XW88HJN/68qMCWFdFUu/1ekuX4wdsgeRulUipzkEtMx0ck7PiaBVSjgdQZ7mieW0lfSYALHeVx5wHaocHxuWvExR5e0+GlRE9FIaf7v8H5aqY=
+          properties :
+           x : 290
+           y : 299
+           width : 194
+           height : 40
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               // Version 1
+               // Description 
+               // Bouton au style Supprimer
+              type : 14
+            -
+              code : |1-
+               SupprimerLiaisonAM()
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : ZM_SansNom1
+          identifier : 0x25ac3cea16e877ad
+          internal_properties : CAAAAAgAAACZAO/UbAMcOOVYrhscVgSUwmqs6B2ZqFMM0zlwbHQO3aDktP0PIt8ybJSuNnyOhpMRF/5/lsayKm26gDGz4tvrkD3jrMKfwS8aKZoXwk+ccyd8VJwCs8Mbfj1NViN/9dADlxEL97BSU/Al1XNB8frWpipl4LTwvsN+DO6Qam1eqZkSL3gQMVxuapD6p7gGCFVbSz24ZjyRbkQq7y3uiVIo7thz3xSHSrR5h/cVpv/056qGDLn1xhGm1TTW/uZgXOeP8ZP+R3NwQLUGBTnEBNl56co5Dp4Mb8l1rpKLQ43vsMhBth6lQtUUCDvZe7eNpXaSfeI3jt/7VT2/o6xRf6YznDSNaRth2rw/kUidD5Ha6umHf8ZaDFt9P5UQ7m99dVh2m5V++oiGIjQg87IzgokryH3aHXPWRLlZUhd8XdPDXQ9nsviovpqcTww9YmgHraLLPW/cR9oJXluWCGBZeojx95Yd5cVvnzsWDVPAMUxAn/6/0QE2Qdbo+dImsyIuAR79ClzaUAJ3M/OVDxMFsRYIu9FuurqNfNyGKgMU8XTIeA5ua7rvS1p9Oi1ZD7MIZn+R0pwKPalohLh2NAl5avW1cfcfSqFxOmBKe88vICYdicyPkuXD6GcZXRMPngZdkXvN+PPjRvq4y10sm9kQgxv0oC+Hbho3bZtlTK7VOlhw92ycdWpAfR6wMP64NCRqi/Fm/YTIzKGcYkxCgBSaAvlhipcQjF34Y4Q1eSvlZ3Pxl5rWSEdDYy0jgmZjYgeAkm/oIufpQe2eSeK0ycwsNr98c61FCiI0V9PLzx3VCKs=
+          properties :
+           x : 9
+           y : 360
+           width : 498
+           height : 150
+          rows :
+           -
+             internal_properties : CAAAAAgAAABorua29S0/4N4h529w4DC2AY75IgTpD5uDytCI1t3oyERraMMO/01XNfPgtahI8uFiqcl0x5G+14f8dp/5MpGBVD3DLatBIbt5oiGyOnVK4yLeknd4rXelwp2CHbyEn3t+NQPjMW1kXD52XO96dLifDXH22y8=
+             controls :
+              -
+                name : BTN_lienAutoMA
+                identifier : 0x25ac3cf516eba322
+                internal_properties : CAAAAAgAAAANtZAipQSRuH/jvbJA8DyRuF3Bo0F+tOqvJiDEkMER6VMyERCV9a/5qLxaHKHek19EcuXOpouwN6YdK/fkF+PIDqV8WQzGnc8aQiSf+HySfKdKO+IaLmKvE40eyCd+BA9tU70fuvB7/HeuJLE8mulwEDwDVucX4yLPdqvcAO7HJc4H+F0daxqI1okOL6hirXn1GfVewzVRimOb4mQ1trfhmjc/e3v4h3Yrwuu4JWOKhjQCQAwvVJUDKzjCA3eeoRU1v23/tHJqGf06Qb5tHezWME24e+M7zQfWhz5rlohaCc6q/M79m8yS0NDMF4RKOZNU9micHtjO6QV44toHJ1pKaN/J0lxwWHJfnirt4qsffjOiM1JSu/MBxB5djuXEJybAZ5QzCFFPM8j584VY9Bzteg9AvDs/JhDNlRB6ZPF5TJKPvHvvTNyU4ZD4nLln/Y+/vkAcKZ3F2jBcUvXStFF2vNluZbV7xnp0V2Cw568Wr2n7ohvmhguLJlKAG5sOxmGXy+6hY+0wCXwFccMaZS6u3hTC8Tmo6MnLikhpAdYv9wTQ5Ghd2+BnpdsG7y5uAvTOPGr2IUV+ZeFtp7OoAhZf8wp8hk+A9HGwM+8PcUxfw0CvV4B+tCZ5EC9eFqYD11GIxLNkHkS5/yG+KKolZq57mr7fFWt1c9EzGAmuk8BiM3N5pPk1PskzcoACGekVqC01uQTsJlGNPlUhPosku5tSzVL1D8jxNZrJ0vQgeLzQJt0nE0GZWctkThUlQOCU6hDlFyC/EtBzyvX6Uw+WKF/ohpsxfJ/NV3Hep4XIGyecDCYwjeAK2U1znfpNopuepOrmVWaC8bnBo6tPj4adSdw6fLruOy6vJOU=
+                properties :
+                 x : 158
+                 y : 98
+                 width : 183
+                 height : 48
+                type : 4
+                code_elements :
+                 type_code : 4
+                 p_codes :
+                  -
+                    code : |1+
+                     CreerLiaisonAutoAM()
+                    type : 18
+                  -
+                    type : 161
+                    enabled : false
+              -
+                name : LIB_SansNom1
+                identifier : 0x25ac3d451845de32
+                internal_properties : CAAAAAgAAAANrlhoV8Bc4QwVLk7ebT47f9SoLEcOu0r9A9MkKxUWEIWqb8kKhcl/1k95wdBu+kuC6AhvLNQJAbOc21EW1PH6MIIceJgsOlgymTv8O2E/0ynGOSwCpmdHJG6A6ZzUxrD6Vw3k71aEKSECC9omLXNoHAKcX1HPc8SPXNdR1upodCJbSPaBTHeH081cmIL4W25mM1SabTAfx/oR3dHuhkSfrFnf9l5QRojzFMp2Qyf1fW5+pdQtB4MDiC9/GO0gkW4GdoneXbB4mZ5/hVh+tI+Ka3H1YDIc+SqLnspEiTYpv5IzdGEjSkY++Hb5zM9HvXACfMw7Zx8w8CA4Q6QW3Sjm70iTiJvpAehYUtBg6LgZ+N9hI6oFlBh35KAGtOciQP+T/NMQXbbeQxN6IScQsZIsF8v4siAF5hUkJTGoecMGSIGLKBb4vWkGowqAiz8jh31jNOSOpiLDm09+12fIpZd9JIrVnp+BxpyOnVSGw4B7rbsCmS4eQ97o3L4ACNXhNnncZ2cR4w6pQKb7riJBc988028Dkyvc6DTmectdwsr3QbPNrjieO/ri0maRHLj0BMllxomNSPkQYHmH9fx3DOocJoIRUEF5YSkHsZyr0OeZA/yDW4fOn9AySENVc+bFx4FiJr71eucP77SCIqFuB2374bNr2BTiZityjS5vJ6AjoIj/ZH0NM2AUatQm82EYCy6Wc9QycdXg74BDSx0KAk25UJeN6Uu3xknBUNDtfhk=
+                properties :
+                 x : 12
+                 y : 10
+                 width : 475
+                 height : 76
+                type : 3
+                code_elements :
+                 type_code : 2
+                 p_codes : []
+          type : 97
+          controls : []
+          code_elements :
+           type_code : 126
+           p_codes :
+            -
+              type : 222
+              enabled : false
+            -
+              type : 223
+              enabled : false
+     -
+       internal_properties : CAAAAAgAAADeKTF/p6329pIeVB6psAnG+nfutmwTQr/An624KEmJrW9gpjBKrXls0fDzBUZM6GC7eQcxCQG7b+WgxdmxSt8wrrPSeX7eG0k8VQSs78Itg+jQqNlo6V9L9aVexmRKfZNCTBR3x/XPQmd7ngbQGDuwXnCCv0kj6T1YXngl8XUxIcAHpDKFVuMxPmSV3SYGPqsXqS4ryqZjfg/h9Z7E
+       controls :
+        -
+          name : COMBO_IDVulnerabilite
+          identifier : 0x25ab1b3f5d7efc40
+          internal_properties : CAAAAAgAAAD+8bMUGvWmrk1ZSXkO55RsGv+WVTmbDfB3tuyWT9mX65KMYdueOkr8b4uSRxqz+DRcVKU//a13S1TbnyHrtd1TXkdjEc8JH7jSe9s494wyGE4L80LY1CDw9yYOKwGYKzPjbuawr0SI/5t2wVitWr04ekkgDH/FIHYA0GwGKzzE4Al2c+5sdV92zhWZ/TcTIVjBvq5LlCI9lK2uc4b2buhArGDBFzqTTweNzxZnGWkLIwmssuY9uAlGJ3LE+mGeCuhEgOU+YILg424hUrnapjhr9I9ktmM/4NUJdLGLvsn+auDc5pTTLFVSjhGlYYqMT1HW9aDIZhHB24BY2AMCH0NbZe5nMbHhRJCZRFCuuw4/kcrL6jO0cPZUcZnzHsxkFmJI1Z2hRXh5jzpb34/WAQ/CfmNktzVx1SnlyhXVOxqJ5avF3nznbjxxmxLoLSbSaVlLVLn5fvwbTEsolhjs07z/nRyhfA6lkik/Iqf+PfhkjIjZeSDBu86RnK2Nk96F2LjnQgWxktAQGMldDk6n1vlweO/gTnHrgVeJy+MhmGlFJRRk+xJGw6ylGqVlUHlQCHR2GaEIuBQzd0//eWw5qFdLpersbXCw1A27bHenwtMstzOmbnr+qcULqngScJ1+6ylAqgc9IqpiJLMzoXbBzXJsiQF/BB8FGTin8vwvbKn8fwMqAyayNAGPIHKm8yJF0clnOwRRJir1Ljg2jxGctsM5xrHSyOBghojAvZK0M5SHMW7FfNKBkHX7hDSKf6nEIYO7c7j5WuepDgRyhRudRe7j/UoLWDJGKetD7mLdpAHfuv3Pj+D4VgGflCfp3iX09oz8Zp1kIzrZz2siU7fFPT9OIhdXihbxcu5EFIIg4Sd+O0K5PzVkK0MbBogq/v7yJuCPJQzTFMYZxK64sPQFiAxSNAqP8dAwniWmgzWWChMay/WKQXbTiAuNqz7Yhpi4r0OxvWvZervqgTnuYvFHNV7ww3r7wHFE3uWCfHojO4RODS8GZhj9ICEKAFJbFFfWldiwu9cyoGSVBARBB27sU4Z8EP6CQSc02bKJuYYntz8lYI2i82oYjle5aYw/RTlhjAFj9+xVn8gQ+dTLGxKrBUL76KQ9sY1bxi+MDhSQdckTBKOgx53YFFLw1zwAc3+9MUxniofDsxc9taf59TAEZIvAl5MW6Ppjqj6aMf7KBsAAHuCt7HOgyDacy24gFDDNuQDv79E9gD0siPdlFaCV8MrJYiW7H4BDaOuyxCZKQsCcf5Tc0FZs1PE750Gg9LyI9FqVMXlKkFtgn1VgE0hZ5BSCW8gVAOYRtmvinqbFDMUTA3+vXgJr7+u3vkLdZrLfr9YCAh3JmyQ8zqERC9waQriySb7LuQO/rwvaLmqN0cq/RiY0Aa4OXtjuv5G3yUyVQ4JURv2VmlYncnalxuqYdYpcN3k838X5543k3gdjLIGerltzbbxQfkKoGis1IQNdqo7fpIr3XaPeKADSETQeXYFxrdyMW0L9TTtvV6pbJN2RDmFlSFUhQ0HzYvlz2aFBiucaGNynFoBD5W8YifrYacV0YR95OQ+D2cd56LNfcIZYIxLyNbJ81TIzOvNcMw1Y0WwloKMzQ2lImCASHPCiiI6BNbIWhDDYWuoTyxghFxVFQIx8Q30pjtfE97jfucJsp87CaO/BcqmboGGsPA1wHT1GKT8mcw4ORvyZFFvxSyvdstKDb/cPPL0QGXv78y5vdxlgsJ7CHxQClo9j0cH3MY57+Tcw8gkXGWLGflgqTp+aS7ewZQIaJkLiAu1yBwVT98nPTxVvD5bTicVH53gy4r9N6G4=
+          properties :
+           x : 4
+           y : 184
+           width : 502
+           height : 40
+          dropdown :
+           internal_properties : CAAAAAgAAACkkn9ACY6pm38+ET0nZVkCAbrk56BhB+lqS9sIVnh/ARCqXyY1sibZ6251DhEV0oBWV3aby2l/beWRve28RwmL5djFFSC1CVzb/RgvPw1W/g8lbuxvpVvzh9cm6mRft5EMgkJ7XzynMiHVQePDWwM44fhFskoS9qVrp6y9eA4t2Z0IOegkL9hBzprhKZBxK+cesZNH3N1c6V9PKh92k+bbFwcFoEKZEfiD2E76XgrSo5zt0Ovkj7Fd0DTiyHi6uSqFk8yV7s+1/R9AlBtoo3tXwDugqqO+fRbGOzjYLpRz9he5WvmlNGX96GkVwNx0uFxN6/1LLJ09CuIFX141vP/A+eChqdHdZUofaaSm3LRLNuEXU+ziQ8nlxt1NrJVLYX/py0SvuhP21bnbBjJyvfrMPpN3tUn/UTiqeIcNLZF3vwDoNMxuBmpwb50vwe8OedPhc2F7HGz1Pey0pJLmAPxcKU0tRyrRp0pYn6Ve5yS1RMe8pdtBwHstGgkOVZVc4SVqenReu4TGAX5K4GJn+gljkAbXH9HvoJudFBBdy60F7zbMIQFXsuozaeWayubmXE7tM2bt77pa5rJ2HCW+Tij2NYuZ/5OhCKwYas78NtPPmLaN/oX391laCwju4lE7fHgkM3RGdkqGgX7ecRbORX4aNlH3rcrC/0341SEpAzL15nrxP1mTfgqaxCevVhudH8x19P13qeee151QGNdamrJjcNo07h4bGk3IchLmn50cmlopUSCKglewfC91BiCgHn1RlQ==
+           type : 7
+          type : 14
+          code_elements :
+           type_code : 23
+           p_codes :
+            -
+              code : |1-
+               <§rad:1§>
+              type : 35
+            -
+              type : 17
+              enabled : false
+        -
+          name : LIB_Titre_de_fenêtre1
+          identifier : 0x25ab1b3f5d80fc40
+          internal_properties : CAAAAAgAAADxcBXXtzEkaNLsfa4E4pCpkKCwf0s4c+SCHZ7kHzk0tIsJqYZaqHlHWxrgKm5JgLGPWrsGoT0MCyf/2a5SxGsLZn6zlV4DaVJkVQNtd/mDxFC2+9q2hIHDG2H3qYKd4Fw7WyZxNycQPtSvH9Z12rxclP3uQLflv5oHIOWndDjvXhCQj3LaJZOZsfnh9Qf8Og+t67U8nXXlXsYXxyBVBL9lMGjodojFyzffAS+C2zC6+o+tT8fkYwfAwOyYvDehUdYzVIQZtZgZF3R+cE6r5Zq3ZwXgNh/DfqySEC8Pp8uYWLQMm7uwfOpLcWBQ1wCGAxshMlIS6fbRqIuQ5ZCrEYKWwMlffT9hCF3hWq+Z9hLF+TSIZaq60PcT4NxtzFP5lar8Koy6yf9tce47lcRvTW+nDNCJA6cvXdDdbjLeDeOzyRZodNjyzIQxYlMl6oiV6dwqyHxFaSYRQ7RVwOcHozPdWinekY4SYjzJz6X6hhb36MB8AZOPxMnR7zo62vgXY0xL0hTmF8owkQHsrpY2+vfVhasbDH2Z8xe3zOWReIHqtBeuVOagAkKthdMECDXdSJScO5InxNx7z0GHZGHr7SnAAVHkgw==
+          properties :
+           x : 8
+           y : 10
+           width : 498
+           height : 55
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1+
+               // Version 1
+               // Description 
+               // Libellé pour écrire un titre
+               
+              type : 14
+        -
+          name : COMBO_IDMenace
+          identifier : 0x25ab1b3f5d7ffc40
+          internal_properties : CAAAAAgAAABr5Kr5SGJ05ainJmO+2PqHwSd5epmVSqGFGKMDKulPAVH5P72PKxbz1Fz+WvNU+U4n/DwzORTd5NHFtSf6kc/ajUXqtsEmd6yPfkBefCJPGlqhDBO+MJ5jJs45gwgw91lho6fBH0xzmLoG97sM9SgY35jODAALZzl07XbJOxb7/SyKYnGBNyMF34+9a34gb1/We4foPyuuJcxLA653+sKh1lqHYJ29GPOy8eJnJvWYJd+zIbRPzvRPXTn+bA0Wvpk9Rl9QiRE6pRaPi1hopRXjstvTcqsxsbNdViJQiOVVGAEDJqxDhL1fplMgpxJo0/j4DnsoAnJ1faE57Ur/XaVbZOqbW7cs9YRJFddCP3jX/e8uAlYeGTEpVkNWu5qesinRr/cIzsH7g5SfgtOSHeV8NQf7+pOObiWOZuwUORWQXvzmoHhvPDoD4igu6h0WSgFmdhaS5+pR2EHe3Ps9RnJ/iscdmuI/AiDaKYM3EUjJhms7dOH7MvkyKGMHFxrRxmb//0KR9yClxgJmMAXiCqevMjMa8L76dmEaBsXUuCOrVpBeQuVbOYZWnmwCcdnPOIO+oJH/GklraoMyvzP2x5dQnLSjfHOYYUGl5/yQc3XgaXCXWH4AtMoj2WPqeJKCK8xWLmMlQ0903kK4Z4kWEUJ2RA0RGWk7q+ZN5QBAPdwkE3KRLFu3RRkA4zwxL8jfG9BPyH73DhkCgjes08Z3RWbSuhJl0fh7ZygCQlO+WgBU6xUNNuDomH6NdibWshZjpy/w2lXBKw4o54xNOUCoNKHpl7CXsXzKRr0JfhFuZLMrOWkS/wMWylRDEm6R1U8B6k2VYjaOtWk03jqikqJGJ2i8JgBtXAb2lykfFnuMe4fl4Jja+bUB8ebn9t3zPcDw7xiuH8g46DOSLH8a2PSgniJAfW6sVr/wB9YFuc3mr9EwWQbSrF2YHvYQVgIi9I9g3XG+/U7Mw4HRkDZmtoXk53AitryuxzAOESRnMPTpLgTmCfbS48EsaJbH/bhH8EYGnazX1bZNUyTmpQn1o2I9sbYgURpNALouiGl0LTKbrImbhnp+XoUjEu5w+JB7oXqtzhs0v0HOaLpV6kP5RVAww+Q9hZxoBAp1LWZ9onJSNtX3HLrAHoAnatvhNiKyQbjx1xJKGogkgpXkcMpHH2b1Bnne/Is7UT2R32dn7UruBzLCILdzJwr7+m3vZniqQtG7h4ZKM8raNfWh+eQVm2Iq6AbRRS16PiNX3YAnrMhoWQiiJR3GUX/jDEbAjgcO9tsIOPIoE2LD1YlfCs54S9ig4OQO9LK0O/2JgyTVKO5dC1eXi5SfhfHIm5xc6YqRIjPtgYCLdtx4MPadj/o5zbqPPJQqyLI+9HZRYNDvkPyjZNSnsl8M3DG9eh0/8OkXMfdHraxDwp4aYwBO6W0DbOSd4bA6aIU/KkY1qkSnlvXFt6fOur5VkPvxTj0TNWONAY5DHu6cXidgluUTtWn2zfBTW1VhQoiPosP77sha21wRWwPFBlrVl2xq9Xo4Mb1/TYTPzHmDRkXEQdCwEjDuO9Apycn0iF2i5gILwLb0zq9r6Yogh5ksAqPNd5/Qt+VazSr4Yw5qgPi4crNhcf+mqqIbvi4FvpyFN+uuDeWCCwixojuvumGAJPbUoBoPmJovibHaQ/qzbVLcUXJRBThAOQKtGwq1nZQEIrtEGB6m1Z7ntK0NuCdFHO07UYvTh78ivqLpvgrK8DKrKpLx49BT9OtkGa6n6vH0Jr1vCKbPeGntQd3uMf6lpFwq9g7MOJu4MBNOiZUbTIsd64Ge69Y7b//43w==
+          properties :
+           x : 55
+           y : 101
+           width : 423
+           height : 42
+          dropdown :
+           internal_properties : CAAAAAgAAAC+n0VGEuaVGn8ZdSvl9pRshJfsXw1PNiNOVv7IpwivX0QPIQOtbXj7MJ/AKNAcBEP0htzd+i6XYQvuKQPT//lGWFVipalSz6J+1VkYaYDJ7zWRgtesAN795bDG4aN5cxDhpQ0JIAa9WsfFspTeCccKlYCrGkuU5AM6/MvsgSntCIppNkbRO3Qfhxy6zxLH5sH5eBxBdY36YVgxYbCuBTJj5kZv8Ub0hOBkXDTRPLabH5/oZvuW3EBasjqHZG6/ZU7MzzgTv9uCi20lffhPi95BHFx6Lc/gQlibQEMtUfNW0w1OztxCbTtxwgH+mAkfd2cSO560MHyG8LN6xEEc6gA6QTUvWD44LjfocwWsqJclN3gd24XKJTYRun1T8ej9hbPKNhASuq8sPmjmQsEASqzo4xyn6H9tJbc1r/u+U7CRUy3TAM+2AhRtVmyN2oXVUVVO3v8KLmaxtHctsH1O5XbcbGqlEA7phaGjdj+7WWXNYqizO/LZPMneNyq8Do+df0FdT8rJ5/SUmDXXhHVdl1Mf+cebnAHLZsya39CSlba7Ix3N6Zod4KYwrrwG6zKV1NSuSpZsz+YUeWGptg40C8QILLqhpIP16qGp34pPdkhh2AtibtMSVqgwM+ZJiEjt29cld24Be8ZkzbT6zQS+1ip1JFKUpV/U1dZoOhJyDQo3W7Nasij7i1QZzFLS9JY8YW+CD994bMANNcAunvcaFtZfaKX5n4VJDShG/xuxL9FXpbg=
+           type : 7
+          type : 14
+          code_elements :
+           type_code : 23
+           p_codes :
+            -
+              code : |1-
+               <§rad:1§>
+              type : 35
+            -
+              type : 17
+              enabled : false
+        -
+          name : BTN_tableauMV
+          identifier : 0x25ab1e4b6509e1a9
+          internal_properties : CAAAAAgAAAAnJ8RxT8isx7EGQ8EQGsjGJFF1S+XVkZ92dGLsIAPeIXr4z+QJrlO654aqMX8GrikwQRQwxOzvkz2zklkxcQuW7086WQ5u1JQ5X4PUSLEz6SOUS5LsgiHeOxiav4S8YuQBX94Kie+rNuzUm4gV9otjc6YDBlBxIfkDLRKF+aS53av61AzqN9iuvdBXDpn+R2ZFZRGzU7OeMsLZhTk2lIQhrPNw0DrVaCdB39pGQlhusV+mwzyMakmHlDhMxY9/8ga+rDsVkMTs4DEHSfCYOHuv1AGPaGfD35RfuEmgz6VG1oCO8DTnhZO99+mtPz1S1vXQAkYIlf9OpUKEo+8qR3AtX1tOXZHBo3h+B978tO4GRGhznyE8KIcYO5zuyatk4oWNpJqUtMZaeyLnTbc8VI/IYrirrLFYtKf4xsB058kQReLeNyiic6Tx0IXNz2bq21fnoZdAiYaefhyj8xlYaFdwa2/IY577M2mi5joZGDv+xm+fCjZsfXLteDPL1Ec4qDk0gkL/jqVbmWV8+cRysBWbDs5nFSyvLN0gdqplpqgJzOEII5Zd0qLl1972rZ/D/sQd4Lt+poXwwJJTRXIBF3kAM00kbg/PWXckDdmKiT7UmTrrYluHvAI/o4RoJQtCyl4Rj/doOVOBU7xAp0C0/EeIgcuWZ4gwzKlnKX3YbGBWVnlIbyMRJ8ML2ZHfs3rqVTz1XHemMiP/6vNpaz9cJLjEvx2Uk9mcpKoVybp5VJYe1yaH/uW3dAhMIgeGUPaF3GWaVjC5OWsAU5b+0PvZ7Qfr7v9c2vnm9dRem0QhOBvXub6rAFFY7TxotUzC4wBHn88FrEpjU0WZG2HxHCXB82IGQROkJDegN4JmetTTduTXhQP/63EhlT9lDw==
+          properties :
+           x : 150
+           y : 474
+           width : 210
+           height : 48
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               OuvreFenêtreMobile(FI_TableauCorrespondanceMV)
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : BTN_Supprimer
+          identifier : 0x25ab1fa967c7388b
+          internal_properties : CAAAAAgAAAD8LsSdfGnH3RwVA+t+4XXQfPdNsIGgrfY09847pzt17H8DNZGWLityG8EKk01BdptcpanXRflnxORpOha7Wdw9gfs4IY7e6STnI7jA5M+wY5+Snx8d7732ViqvUyik9CJYIYNSNo7ew3Dc8XUF5Skg37Iqd+EKJqAB1jJYHefnCaQ41dBFyfqqwJzIaqBEbOZTjvbO/K4FGV2sIuCODYi9cJJ3kLLM1HdVj7n5FZ4qxhcMRhNeu6VRoexj250HP4jIAeouW4UilNjI9PG2yfLqQFRoZZ24kD1lCbC9zZlxqZauDt0qE3RmBv+KvSSnsXqY6HX0W+sCPSL2creV4BwpRdXZnkoolUwDmOv1vW4lBtEuiiygHobUigOje/hYZMeIqWJhHiSvGLDWw3WlF5MPW7Y7qmSjfHKs33QWjoSYh1499qevM5UcIxN9awE1WXGUukkk2ri7T+6K7nx3+uQNM4PzDJC9F0gNpDAEKPUVDd3Pp+QwFojzKk6Gd8ep+JtDT1QofTrgGSkIP8uV2mvsH3YX9DhDi9Msg871melAUwcml7DdfAw2LRh2DCPlXvmyNo2mm5kJ9EFu9xMn/S2mozUL3ShVAr02WxFfTkty6NDDSpy1SM60jKIiSUcck02QwNhzrHboT/rEAu6suhicfJUVxw0mRmmpuNf+wUHBjQS5nzlzvaVIxUhVa0oxYZPvwudKkaydbK7fTXgwF6BJsnFVrbTqhk0/VaLG9EmjFhGgmLvhqnE+yZ/v70KRCbj9BBgETzHVKSrvjoe4MMJhUAqQtMvDVq1lE/14GO7VBs+pKatVQudrY2LiABJ5sLvxA2dqXjoGJTm4ZGmVZp5f7JzSw2YuJm3FfnBNHznDu/bqciB9UxNF8HQO3ldBl9KpwGDrDYsyj8Bo9UXgGIBPshtwO4Gj+yON++NxAa2dSNld1K8kTMCSsLzGujuXkNnYNZ7cbMy0LeEq4goZrjcv872P1ZgtFrpL6neLyU1jqzZrj4l8wBRKvEj2PkmmnjDMJUqv0Irvcg==
+          properties :
+           x : 274
+           y : 263
+           width : 194
+           height : 40
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               // Version 1
+               // Description 
+               // Bouton au style Supprimer
+              type : 14
+            -
+              code : |1+
+               SupprimerLiaisonMV()
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : BTN_Nouveau
+          identifier : 0x25ab1fb767e56db5
+          internal_properties : CAAAAAgAAAAuy8Y4hwA+sZ/7TGmYP8VBNRIFvvaj4GCcWInJ+9Ydp1nP8W97s3MZQjLdrKpKPVCxjFr2W9VO6VB7QT3agU+MGntBS9R8/jqb4XdJX2aEPqFnRoGlc5vkH59ZCbItucXT8QOSFShanQcgVy3UwFT/yUYVDYeMDsNEuuRqXiwhIJRF2205RmGHflimY7KHCxRjkyaagvloIvrkNy1Dc4fNDl0gn4QYf2D1BAe9n5WvIzDIYKrelEce8Yiq5e5ibRPzrRfsVjKxlu+rcsnBOouPP+d2+n6dO1iRLgPz8z8MagpE5Cs/NC+SABhizJcDdhDCYDZiCHw11kqkbV8NsfGS7ViR2kxX/e7aVGBgK5ZC3epfgGY1VsuCBmEglMfTCU8ExUEQMILJkV7jn/q0liA3cTob3v12wR3aHQIKGTr9GuydVK5Q2CwU5YzVzDDWKkkwpuTsedZXlLYUJqZXrPEpJxycM5lP58ilnoPyoYgQ4WEOxaSNrNWXn/JiOcm1pmXpXJbdmWOzOn7MRj5yPax7FCRG9iREWdFXRe1r1rfi9aUEc/K+spVP4/8J/yEEX1kUeAyvNexysno6L9wEtpr9D8H9REF220ZN0R+E9LQI+6rdfebecrs1TNZHZdv8J/laBcdZdxx2zwzl1kt4Wijpw9zNeZ9sRhnPHokEbqLkj37a3j0/Og867DNuZ5hOYONCBkBAygTDhU+fCd8gmZppPrUXucJyT+i/GcnBoKYjME9BjGftDaL87NhFO58yzV7kfpRiZpIYFwyHFwWVrJ6ei6BYJJjSb/kYJZiWCvygAUUYozKApDAZiR9rXcBfVXSB8I7Dl+yeLfp8+iqdq+pkfKFnfJixGjNeGJH7WoU2FuPy5HxsiQXqThlpmPKUnuAZjmsiOnnswhGtuBUQ4XMiPbBb8i0SZKU4DSy+oSfxJ6SrY1YEIqATGVo2oiEgn7OxW/1tgz3BZm0DHj+eCFrn6fpeJk6NVfnLol+u7reiBH++9bld/ycm
+          properties :
+           x : 41
+           y : 263
+           width : 194
+           height : 40
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               // Version 1
+               // Description 
+               // Bouton au style Nouveau pour ajouter ou créer des éléments
+              type : 14
+            -
+              code : |1+
+               CréerLiaisonMV()
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : LIB_menace
+          identifier : 0x25ac358effb1b985
+          internal_properties : CAAAAAgAAAA2e+NfHgonDSkAU0XL9eyvaMys64DNA76yTC3R9FWlF6In0pI/0Kxw8VJhrA7EsVx/zyR7RBqyGX4FJ9zblo5wsJDZgHqFxIHYS7BJJ4xtnmngKEDVbKDtoX9w1+Dj13sJnLc5DcMhKKeNpn9oGHO/Ua5Zaj7nJLrsfdV0HhZDWxc7QuIkuP99F1oVQPxEWKCTWIZOG+xJkaiVp7r+Ll84Tg+d5TKV9tUf1kHizFwDgtuEH0UnHKMuAyjddPxaiLXwXlAy0EgeVHHE54RZXWZJZap2HM3eok98On8EiuaUX6+BTiD7t2nsBb9JSO/ip/eiZ3XYqYRelgTGpyptNuYeJtDBDZsHJ3y5AstwRb4B7INJxKapEIKDG6mWE/1YpziUCt7Y7XFN/7wKVRoN1QL7n9PMWIbHBI8Ll25RHmU3ZJIkOZ68J7Qr54TZ9oO2kTwN0SiIagl7rnyAVDmTSLUtKC412UYJMil2GlLApGGhAl6Au4Vx
+          properties :
+           x : 231
+           y : 73
+           width : 70
+           height : 19
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes : []
+        -
+          name : LIB_menace1
+          identifier : 0x25ac35b9ffbd60f1
+          internal_properties : CAAAAAgAAAB0SkQtSxJXXWqRquYiS3r5Sn+f9dQAK3jNVT3GGR2Jx0Jgughn0aUk1Sio3rvJ5xz4nTQDOgneY9K+At26xSPxMJMI6qUsaQsGNWrxQAdot00xQ6Ur/32BWastVeG7fzCKfHoZCT0eCSikH3lSKMUOLMN8WH315aFeidE5e/ryOdcfLnKAG5QzOK9eNeQUoZ70q+a/4pdcmzn2EDNsMSFRNwEoOmMuLLWv874drWZXmbPnomqxXzu+zbzjZKupcGj4sD/tamnbAJRcAWPQy3Smp4dHJpshxNBReNHaFwXlAACS6jqUp5Ytjj8jZ1XdW1Cna+5vSwc2f5mYyHrjXRFa6KAhy4QFGnXhSI6SNItta41tlOqWdFVwDLdmTb7O1ls7Y7OemTHEpK8zwJxK4aNyrZKFPSoPSAGwPWO29OUcvJk1k0UBFloKsIt+DQLxeeUeBHyU2/LuXhyL9CxOmB72Gvmw2ogPg3P1xsDW3eH4Sv+QKMBMxv2xBNUyzQ+4
+          properties :
+           x : 214
+           y : 157
+           width : 104
+           height : 19
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes : []
+    type : 16
+    controls : []
+    code_elements :
+     type_code : 24
+     p_codes :
+      -
+        type : 292
+        enabled : false
+      -
+        type : 293
+        enabled : false
+  -
+    name : SAI_client
+    identifier : 0x25ac137b77d7a568
+    internal_properties : CAAAAAgAAABlrDHUS18dGfrl9tESzxXYLa2QZxx8Hv1TRGfj9UpA6UCP55mBkK/SJ7a/2CQ209o8kuQcGVY9VYoBPAxS0nn1l8nXgNhLx+KzgC3+7wHONMYLtY5TIRctsDKyl18fIMWEK9PifCb0Wv68e8ssDU/DruUerj8pbLIsmnkibA2jYzROshLiP+DfHK8wtZ8W9wjsWMg73jECt5xGUMHfEL2F2J3R4m7o8/FwQtcsAvj50RON0ikDjzVl/7m36fzesKvoWUMrIJiyNeUavid8RyEqtJseGgCC4y2Hlsm94KTm0f8iJ4QUKT5uEjVrzDhz5YxBwcLebvFSAqEcXJHpdDkO8JpiwFHw3b1G7ZCqcIjX1E+JtndbQgLjCmC4/JQZK2LR7iNSXQ+2KyrTLPT0FgioFIZBfj+3OVOzmw5gsnIG+vAaPV/SqZ6bDiSSqJSbA5si9qoqGUvQe9OnweZTyrDJUKEPhvvIG9R8B0mud0Ei2SV0qKDV8SCqcspeUpLVxRZn6umVfYsOegCGZ7i/a8Astng4VLDne45tpKULl7SjnPIFe9Xy20baQGMZC4al0j4ssVhYtK5Vo84GyUYQOjxq2TFN029UoQqhJrJJQM6G4cE/PecRcDoXcPgGVIsJlkKpHaehEXPZhNsMJuMYws2eG0EBOfsWIzPE1NDk9H5IrcvIty1fKmSMIS8Uror5LKyZRhA1C4bVXBy410zeptOg0l/+VySVYkFwAxe0RWe7o/xYqBHULY4HYcDrVLNLcjRk3d6XuMiC4JYjfnuoKzjX5UQkCYaGsFQPtllt4fpdMdrGs7TZVLaV2wczUrXpbTiNkTDXKpj/EJjoIekiCZwSN/WylW8m30SVIWO4ss2DmJqUuames1M5SO21kM5m0lKCyZBMTbLWRHSuD5EWTHjfUkuOD9a7TTzCMnYtnFujt76d7OL6l6g0JKcot1Y5DM4Ibh17eOBQ0sJ10ODkbvycqzen22/vPV7UPFNR4X2e0OFmIuzriS12aTbyY+3hp4eNu9TssDqYu7ZTqwn8wOKFdwn44id1TqcOdTfcS5azR92MDI6vMJf8O7CjgWW4UiEEcM3zq8Ev5UA6NnTVI8CgEqnUzgTCufKUd/YMeJZJIfUDW0L63ZOwBaD1Ctm8lyXiwkR2B4pSALPsG72nbwhASesVhKG5zNK44K+UfmiS
+    properties :
+     x : 507
+     y : 199
+     width : 360
+     height : 44
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_actif
+    identifier : 0x25ac152b7fe43baf
+    internal_properties : CAAAAAgAAAD7EreaARaYmufyJ2rBEMbnwgpjFNzIekXLXJ1Bl6DeB64FTe9v0v1cfWyd5m48OSBKAOoap/D7gYDUR8pfF9nVtym3oHib0Sfw1gIamHNIOhwx27jR3wk3DtgU1YeLZIlYX8f2KJKgtsqoR8cwCbvvmvEq2tM9sLYgnk0mWAGXN/iSFsb+i7y7+MtcjUdmvzAkKIBLnnFaJ9TuoLG/eD316HWhSkYgkykQQs/k6ihhOYud2glTr82Vl/GXGXy2MBs48QMjmCDiPZWqBg80p8linLvGekDyaw2vrsk9IAyGQU9KpwyMYS6G8kWj5MBzTXQ5UZpOznGashl0vMEZHGm+gBJiqFn4jeWGPViS6BgfPIfZHhf7AvqTwkjI3HThC2IRllP69feG87rjlJzcdhAQDJapjg/nQdPbYz5AIopWGvCCLZdKAV7TXlRqkIzb25NqtvI6GXtoO7u/sebj4nD5YBlf7kOwG6zst2E2b1GKwX20oLBFYYi6GoK+8nLdtYY38kkthWPeIgAGn7B3e3j0TviQRPA3s54VLCUbN+xjbEI9292Kw3bCQMNxo57FaiYkQZC4JN7ts7ZuSabAorwmlQVR/xuYxfZF6tblPArCnZ0jERPdxK6T5Gya8FdVwi4F4Tt9XUetgI9Q6t90LrlKJ1Ul9TdaZ59IuCTAkIqkaQeMi0k7nsg41bO4elb1GPjVasRh9xpJ2NAca2jaEg98PsNSI1Cppn209xuwkTOXH0gcrC2g4RLjNfSPYO8HLhDwYVLDVPyW7PrnshcEt2SDofgoRZK61HBjqr1JzaYJvUaql1AlCIpRj0uHPlFV2eSpteQzJhyDjAwc5SVONbiOM9mmMctqEyD5RVeUbsmvpJaIrYVqF8f1TEEpHDqiXh7+TSToaabKUJiCY00iWFT7zs8yWzLvUTj2Fhr5iEfvIzoBgI72u8yQGDuME8K1uJpk0iGXFHTEvuaJ5ByAOqjI5+sbdysDcToI4Pf9janKXP169ohPbQlSNUKOj9EN81P5L0BwPLYcPwrnP72oNHYZ64V8bqvpuhO6oeNo3+LvAxmwEAr30Et0+3z/7VHg7oHk7LI8z62QizBa1pQ1w6CAcmwScAEqJTRqbazWMvyTzzMxySQ0m1XyGyYbrMvagTPgMPpw6XA4gnmebWEjI/JIcZVP6k/N5lY0puVeAPYM
+    properties :
+     x : 505
+     y : 243
+     width : 360
+     height : 44
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_menace1
+    identifier : 0x25ac1605849b8fad
+    internal_properties : CAAAAAgAAADaD3qJ0kHUE1uM++yWR/dwOQg4qdqrOIlGuhcOjTJ2XgYbeBCIYrYw0eBU8pyQuAlqdhzKEjmSTmqvtlSs0tsdmVr+96+gviq7tzDBZZfdlwd2yM0ICFGnlYEBBrfgR27r42peW06nOoF2RKDOwr/eqKO0Mn7wjQQKVEDRefBZHUafG3No64MtjF0cEE5Qx4nwhQD5V8NXcLX+R/qnwbcfI6ZWWgu5AJrVT8FL0h8vCw7Ra9mT2/JkhYmtEX0iBdpHNYehG+uYvPhxINgm1JZMUSdabkb80p+w6h+zRiwoOrV7cHNIcy3VCOsVVvRun9M5HDPOxkDRj34TGu5+HKhMYkrtC/mA/rpenacC3Dz+pcC5aJQwGWSIrwlaL8APpCYLtknfGLSw5OZ4FNpvVxXCjdf2wt0n/OgM+uQqbGfKR5VdIt4cETtjotW7+bUZhQPprzQvdBMdlc50iknn2ySjjS9pdzz76Ff2JIE1tdL8NDX6DDtiHzZWzBB/8lMVQ2wLiJprsw3xRmkm08A9xh4FGPAfgacpmJqFzh688aP34jSuHHWLP1srAJykZ24G6wHyP2jr04Z8FbO3jZA2164QC/t78nDmXrFdyPgN6JFW9qXT7UYKRA0o3i4g/Aduyje/03EYJpHOm3/ODNHC0y/TgeeTqra2hmCA7jaY9OXiAP+S/aRIdJ0jE9+4QspQVEv3JpTeAny6z0p4E5C2JbvRlu1gtJf91Uw4O+uILfwnrPJSjrq7a4k8+64d4IM+CCOiuVaiHeZVV4Tvnv+oeDSk36L+wjFmsy+x5g3bwzVL4viS4/EczDV+R4ujvLOS80XXeUy8xUCuAWScsevgrmw3WbNkFLz0srvLcwFMsvJJGb5Y0cDLQSKwoGkdZC4hiMfGsWxRtG6L2Ygc4enK4eIGmjVMcvP7kJX6puY7Rlw/1Ox3WvU7aYXXII0amy5wuGUQDF/WZYAHT5wjcj6mBXgPYReTIL7rKrc6bG/Dz7ig3+FE7MNw0X7xGzTEWWeMJXp/iZ5PGWaj4EQbP5Pag/pQwSmkQ6o900oQl5UcfxmHnCO8WFOCCIYFgYKpjY3J/LTokN0xqDd01NBgsIVylE4dgTvY74wstFWYaAshOzQw2CjbF5M3qjW75QzqpyMItI0zYMZW5r9Ksxv6YlcllhipSZMd6UeP27uFtWje6bGht1Y=
+    properties :
+     x : 505
+     y : 287
+     width : 360
+     height : 44
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x25ab1b3f5d78fc40
+  internal_properties : CAAAAAgAAABVFzpk8dUuI2Ht/G1ug6+U2qWmGRZP9d2XnxBdR2BEBV+HRZh0iQW9XFKfhzt0BQz2fdCuY8Qyi4xAtNg30F/v2ZJOLtPn772XZ5n3xF9fuQIHJP0rd48T/Q+sJaETuBrA6p3eZffBERQZy06FYznPMM7ZrbKOKKN+gZY6SvrUDvoWNHBEjIu7Bl9MyeiVt4Zbk2odgYzu+c1QDmcbAZoqEtWkYjnYenoODO9sEML0/8zzmOg9GhgrIWcwvryRafPWCZmQxtpUWjePrYHL+zVaiclWJrAxyXivSls294s1CIg7kBApDg6ol46N3Lop2F5R1oQPnrNW2w==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : MENU__Menu
+  identifier : 0x25ab1b3f5d76fc40
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAA1etd1LMC+dlxfnX0M6EgrCf/ide2p9PgAeoLuiXeZ8w2WdxX6rAuv3cFGlYDZQ26wXJBr6HpNSeUsNjteUhDcVbd44vF0bIBsUPi6Q+wkKzFSEi8BYu9Se/x0
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE FEN_Gestion_Menaces_et_Vulnérabilites()<§rad:1§>
+      <§rad:1§>
+      MaFenêtre.DepuisFichier()<§rad:1§>
+   -
+     code : |1-
+      <§rad:1§>
+     type : 34
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 165
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 177
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 180
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 2
+  procedures :
+   -
+     name : InitialisationCOMBO_client
+     procedure_id : 1561643949931781796
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // InitialisationCOMBO_client ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure InitialisationCOMBO_client()
+      	//np stocke la concét° de prénom et nom client
+      	np est une chaîne
+      	//Recherche les clients d'un utilisateur donné pour les affichés
+      	POUR TOUT Utilisateur_Client
+      		SI Utilisateur_Client.IDUtilisateur = Id_u ALORS
+      			POUR TOUT Client
+      				SI Client.IDClient = Utilisateur_Client.IDClient ALORS
+      					np = Client.Nom_client + " " + Client.Prenom_client
+      					ListeAjoute(COMBO_Client, np)
+      				FIN
+      			FIN
+      		FIN
+      	FIN
+     type : 458752
+   -
+     name : InitialisationCOMBO_Actif
+     procedure_id : 1561648433885236249
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //InitialisationCOMBO_Actif (<nomClient>)
+      //
+      // Paramètres :
+      // 	nomClient : <indiquez ici le rôle de nomClient>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure InitialisationCOMBO_Actif(nomClient)
+      	idClient est un entier sur 8 octet = TrouverIdClient(nomClient)
+      	ListeSupprimeTout(COMBO_Actif)
+      	POUR TOUT Actifs 
+      		SI Actifs.IDClient = idClient ALORS
+      			ListeAjoute(COMBO_Actif, Actifs.Nom_actif)
+      		FIN
+      	FIN
+      	
+     type : 458752
+   -
+     name : TrouverIdClient
+     procedure_id : 1561648833317811971
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] TrouverIdClient (<nomClient>)
+      //
+      // Paramètres :
+      // 	nomClient : <indiquez ici le rôle de nomClient>
+      // Valeur de retour :
+      // 	entier sur 8 octets : <indiquez ici le rôle de la valeur de retour>
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure TrouverIdClient(nomClient)
+      	valeurComboClient est une chaine
+      	valeurComboClient = nomClient
+      	
+      	// Extraction du Nom et Prénom à partir de la valeur de la combo
+      	Nomm est une chaîne
+      	Nomm = ExtraitChaîne(valeurComboClient, 1, " ")
+      	Prenom est une chaîne
+      	Prenom = ExtraitChaîne(valeurComboClient, 2, " ")
+      	
+      	//Recherche de l'id correspondant
+      	ID_ClientSelectionne est un entier sur 8 octet
+      	ID_ClientSelectionne = -1
+      	
+      	POUR TOUT Client
+      		SI Client.Nom_client = Nomm ET Client.Prenom_client = Prenom ALORS
+      			// Trouvé le client correspondant
+      			ID_ClientSelectionne = Client.IDClient
+      			//Info(ID_ClientSelectionne)
+      			SORTIR // Sortir de la boucle puisque l'id a été trouvé
+      		FIN
+      	FIN
+      	
+      	RENVOYER ID_ClientSelectionne
+     type : 458752
+   -
+     name : TrouveIdActif
+     procedure_id : 1561655632262520506
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] TrouveIdActif (<nomActif>)
+      //
+      // Paramètres :
+      //	nomActif : <indiquez ici le rôle de nomActif>
+      // Valeur de retour :
+      // 	Type indéterminé : // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure TrouveIdActif(nomActif)
+      idActif est un entier sur 8 octets
+      
+      pour TOUT Actifs 
+      	SI nomActif=Actifs.Nom_actif ALORS
+      		idActif=Actifs.IDActifs
+      	FIN
+      FIN
+      
+      RENVOYER idActif
+     type : 458752
+   -
+     name : CreerLiaisonAM
+     procedure_id : 1561656774726249743
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // CreerLiaisonAM ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure CreerLiaisonAM()
+      
+      	//Vérification si valeurs sélectionné
+      	SI SAI_actif="" OU SAI_actif="" ALORS
+      		ToastAffiche("Veuillez sélectionné un élément.")
+      		RETOUR
+      	FIN
+      
+      	idActif est un entier sur 8 octets = TrouveIdActif(SAI_actif)
+      	idMenace est un entier sur 8 octets = SAI_menace1
+      	toutEstBon est un booléen=Vrai
+      	
+      	//Recherche si liaison existe
+      	pour TOUT Actifs_Menace 
+      		SI Actifs_Menace.IDMenace = idMenace ET Actifs_Menace.IDActifs=idActif alors
+      			ToastAffiche("Cette liaison existe déjà.")
+      			toutEstBon=Faux
+      		FIN
+      	FIN
+      	
+      	//Sinon on enregistre
+      	SI toutEstBon=Vrai ALORS
+      		//enregistrer si tout est bon
+      		// Remplissage des champs d'édition
+      		Actifs_Menace.IDMenace	= idMenace
+      		Actifs_Menace.IDActifs	= idActif	
+      		
+      		// Enregistrement dans la BDD
+      		HAjoute(Actifs_Menace)
+      		
+      		// Vérification de l'ajout
+      		SI ErreurInfo() = "" ALORS
+      			ToastAffiche("Liaison Actifs_Menace enregistré avec succès.", toastLong)
+      			
+      		SINON
+      			// En cas d'erreur lors de l'enregistrement, annuler l'ajout
+      			//HSupprime(Client)
+      			ToastAffiche("Une erreur est survenue lors de l'enregistrement.")
+      		FIN
+      	FIN
+      	
+      
+      	
+      	//Info(TrouveIdActif(SAI_actif))
+      	//Info(SAI_menace1)
+     type : 458752
+   -
+     name : SupprimerLiaisonAM
+     procedure_id : 1561672898055188806
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // SupprimerLiaisonAM ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure SupprimerLiaisonAM()
+      
+      	idMenaceActif est un entier sur 8 octets
+      	idActif		est un entier sur 8 octets	= TrouveIdActif(SAI_actif)
+      	idMenace	est un entier sur 8 octets	= SAI_menace1
+      	
+      	//Recherche si liaison existe
+      	POUR TOUT Actifs_Menace 
+      		SI Actifs_Menace.IDMenace = idMenace ET Actifs_Menace.IDActifs=idActif ALORS
+      			idMenaceActif=Actifs_Menace.IDActifs_Menace
+      			
+      			//Demander confirmation avant de supprimer
+      			SI ouiNon("Voulez-vous vraiment supprimer cette liaison ?") = Oui ALORS
+      				HSupprime(Actifs_Menace)
+      				ToastAffiche("La liaison n° " + idMenaceActif + " a été supprimée.")
+      			SINON
+      				ToastAffiche("Suppression annulée.")
+      			FIN
+      			
+      			//HSupprime(Actifs_Menace)
+      			//ToastAffiche("La liaison n° "+idMenaceActif+" a été supprimé.")
+      		FIN
+      	FIN
+     type : 458752
+   -
+     name : CréerLiaisonMV
+     procedure_id : 1561683068550796087
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // CréerLiaisonMV ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure CréerLiaisonMV()
+      
+      	//Vérification si valeurs sélectionné
+      	SI COMBO_IDMenace="" OU COMBO_IDVulnerabilite="" ALORS
+      		ToastAffiche("Veuillez sélectionné un élément.")
+      		RETOUR
+      	FIN
+      	
+      	toutEstBon	est un booléen				= Vrai
+      	
+      	//Recherche si liaison existe
+      	POUR TOUT Menace_Vulnerabilite  
+      		SI Menace_Vulnerabilite.IDMenace = COMBO_IDMenace ET Menace_Vulnerabilite.IDVulnerabilite=COMBO_IDVulnerabilite ALORS
+      			ToastAffiche("Cette liaison existe déjà.")
+      			toutEstBon=Faux
+      		FIN
+      	FIN
+      	
+      	//Sinon on enregistre
+      	SI toutEstBon=Vrai ALORS
+      		//enregistrer si tout est bon
+      		// Remplissage des champs d'édition
+      		Menace_Vulnerabilite.IDMenace	= COMBO_IDMenace
+      		Menace_Vulnerabilite.IDVulnerabilite	= COMBO_IDVulnerabilite	
+      		
+      		// Enregistrement dans la BDD
+      		HAjoute(Menace_Vulnerabilite)
+      		
+      		// Vérification de l'ajout
+      		SI ErreurInfo() = "" ALORS
+      			ToastAffiche("Liaison Menace_Vulnerabilite enregistré avec succès.", toastLong)
+      			
+      		SINON
+      			// En cas d'erreur lors de l'enregistrement, annuler l'ajout
+      			//HSupprime(Client)
+      			ToastAffiche("Une erreur est survenue lors de l'enregistrement.")
+      		FIN
+      	FIN
+     type : 458752
+   -
+     name : SupprimerLiaisonMV
+     procedure_id : 1561683120090480971
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // SupprimerLiaisonMV ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure SupprimerLiaisonMV()
+      
+      idMenaceVuln est un entier sur 8 octets
+      
+      //Recherche si liaison existe
+      POUR TOUT Menace_Vulnerabilite  
+      	SI Menace_Vulnerabilite.IDMenace = COMBO_IDMenace ET Menace_Vulnerabilite.IDVulnerabilite=COMBO_IDVulnerabilite ALORS
+      		idMenaceVuln=Menace_Vulnerabilite.IDMenace_Vulnerabilite
+      		
+      		//Demander confirmation avant de supprimer
+      		SI OuiNon("Voulez-vous vraiment supprimer cette liaison ?") = Oui ALORS
+      			HSupprime(Menace_Vulnerabilite)
+      			ToastAffiche("La liaison n° "+idMenaceVuln+" a été supprimé.")
+      		SINON
+      			ToastAffiche("Suppression annulée.")
+      		FIN
+      		
+      		
+      		//HSupprime(Menace_Vulnerabilite)
+      		//ToastAffiche("La liaison n° "+idMenaceVuln+" a été supprimé.")
+      	FIN
+      FIN
+     type : 458752
+   -
+     name : CreerLiaisonAutoAM
+     procedure_id : 1561692397229472264
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // CreerLiaisonAutoAM ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure CreerLiaisonAutoAM()
+      	//On commence par supprimer tout
+      	//HSupprimeTout(Actifs_Menace)
+      	//Vérifier si la personne à sélectionner un client
+      	
+      	// Permet de créer automatiquement les liaisons Actifs et Menaces
+      	POUR TOUT Actifs 
+      		si Actifs.IDClient = TrouverIdClient(SAI_client) alors
+      			SI Actifs.IDTypes_actifs = 1 OU Actifs.IDTypes_actifs = 2 OU Actifs.IDTypes_actifs = 3 OU Actifs.IDTypes_actifs = 4 ALORS
+      				// Conditions pour 1, 2, 3, 4
+      				CreerLiaison(Actifs.IDActifs, 1)  // Malwares
+      				CreerLiaison(Actifs.IDActifs, 2)  // Ransomwares
+      				CreerLiaison(Actifs.IDActifs, 3)  // Lenteur ou Indisponibilité des Systèmes
+      				CreerLiaison(Actifs.IDActifs, 4)  // Défaillance système
+      				CreerLiaison(Actifs.IDActifs, 5)  // Problèmes d'Authentification
+      				CreerLiaison(Actifs.IDActifs, 6)  // Perte ou Vol de Données
+      				CreerLiaison(Actifs.IDActifs, 7)  // Altération Malveillante de Données
+      				CreerLiaison(Actifs.IDActifs, 8)  // Accès non autorisé
+      				CreerLiaison(Actifs.IDActifs, 9)  // Attaques par Ingénierie Sociale
+      				CreerLiaison(Actifs.IDActifs, 10) // Phishing
+      				CreerLiaison(Actifs.IDActifs, 15) // Injection (code malveillant)
+      				CreerLiaison(Actifs.IDActifs, 11) // Keyloggers
+      				CreerLiaison(Actifs.IDActifs, 12) // Adware
+      				CreerLiaison(Actifs.IDActifs, 13) // Spyware
+      				CreerLiaison(Actifs.IDActifs, 14) // Cross-Site Scripting
+      				CreerLiaison(Actifs.IDActifs, 15) // Injection (SQLi)
+      				CreerLiaison(Actifs.IDActifs, 16) // Attaques DDoS (Déni de Service)
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      				CreerLiaison(Actifs.IDActifs, 19) // Cheval de Troie
+      				CreerLiaison(Actifs.IDActifs, 27) // Cryptojacking
+      			SINON SI Actifs.IDTypes_actifs = 5 ALORS
+      				// Conditions pour 5
+      				CreerLiaison(Actifs.IDActifs, 3)  // Lenteur ou Indisponibilité des Systèmes
+      				CreerLiaison(Actifs.IDActifs, 4)  // Défaillance système
+      				CreerLiaison(Actifs.IDActifs, 5)  // Problèmes d'Authentification
+      				CreerLiaison(Actifs.IDActifs, 8)  // Accès non autorisé
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      				CreerLiaison(Actifs.IDActifs, 19) // Cheval de Troie
+      				CreerLiaison(Actifs.IDActifs, 27) // Cryptojacking
+      			SINON SI Actifs.IDTypes_actifs = 6 OU Actifs.IDTypes_actifs = 7 OU Actifs.IDTypes_actifs = 8 ALORS
+      				// Conditions pour 6, 7, 8
+      				CreerLiaison(Actifs.IDActifs, 8)  // Accès non autorisé
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      				CreerLiaison(Actifs.IDActifs, 19) // Cheval de Troie
+      				CreerLiaison(Actifs.IDActifs, 27) // Cryptojacking
+      			SINON SI Actifs.IDTypes_actifs = 9 OU Actifs.IDTypes_actifs = 10 ALORS
+      				// Conditions pour 9, 10
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      				CreerLiaison(Actifs.IDActifs, 19) // Cheval de Troie
+      				CreerLiaison(Actifs.IDActifs, 27) // Cryptojacking
+      			SINON SI Actifs.IDTypes_actifs = 11 ALORS
+      				// Conditions pour 11
+      				CreerLiaison(Actifs.IDActifs, 9)  // Attaques par Ingénierie Sociale
+      				CreerLiaison(Actifs.IDActifs, 10) // Phishing
+      			SINON SI Actifs.IDTypes_actifs = 12 ALORS
+      				// Conditions pour 12
+      				CreerLiaison(Actifs.IDActifs, 8)  // Accès non autorisé
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      			SINON SI Actifs.IDTypes_actifs = 14 ALORS
+      				// Conditions pour 14
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      			SINON SI Actifs.IDTypes_actifs = 17 OU Actifs.IDTypes_actifs = 18 ALORS
+      				// Conditions pour 17, 18
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      			SINON SI Actifs.IDTypes_actifs = 19 ALORS
+      				// Conditions pour 19
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      			SINON SI Actifs.IDTypes_actifs = 20 ALORS
+      				// Conditions pour 20
+      				CreerLiaison(Actifs.IDActifs, 8)  // Accès non autorisé
+      			SINON SI Actifs.IDTypes_actifs = 21 ALORS
+      				// Conditions pour 21
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      			SINON SI Actifs.IDTypes_actifs = 22 ALORS
+      				// Conditions pour 22
+      				CreerLiaison(Actifs.IDActifs, 19) // Cheval de Troie
+      			SINON SI Actifs.IDTypes_actifs = 24 OU Actifs.IDTypes_actifs = 25 ALORS
+      				// Conditions pour 24, 25
+      				CreerLiaison(Actifs.IDActifs, 19) // Cheval de Troie
+      				CreerLiaison(Actifs.IDActifs, 27) // Cryptojacking
+      			SINON SI Actifs.IDTypes_actifs = 29 ALORS
+      				// Conditions pour 29
+      				CreerLiaison(Actifs.IDActifs, 1)  // Malwares
+      				CreerLiaison(Actifs.IDActifs, 2)  // Ransomwares
+      				CreerLiaison(Actifs.IDActifs, 6)  // Adware
+      			SINON SI Actifs.IDTypes_actifs = 30 ALORS
+      				// Conditions pour 30
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      			SINON SI Actifs.IDTypes_actifs = 31 OU Actifs.IDTypes_actifs = 32 ALORS
+      				// Conditions pour 31, 32
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      			SINON SI Actifs.IDTypes_actifs = 33 ALORS
+      				// Conditions pour 33
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      			SINON SI Actifs.IDTypes_actifs = 35 ALORS
+      				// Conditions pour 35
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      			SINON SI Actifs.IDTypes_actifs = 36 OU Actifs.IDTypes_actifs = 37 ALORS
+      				// Conditions pour 36, 37
+      				CreerLiaison(Actifs.IDActifs, 8)  // Accès non autorisé
+      				CreerLiaison(Actifs.IDActifs, 17) // Attaques sur les Réseaux
+      				CreerLiaison(Actifs.IDActifs, 18) // DNS Spoofing/Hijack DNS
+      				CreerLiaison(Actifs.IDActifs, 26) // Bombe/Terrorisme
+      				CreerLiaison(Actifs.IDActifs, 19) // Cheval de Troie
+      				CreerLiaison(Actifs.IDActifs, 27) // Cryptojacking
+      			FIN
+      		FIN
+      	FIN
+     type : 458752
+   -
+     name : CreerLiaison
+     procedure_id : 1561924484236017227
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //CreerLiaison (<idMenace>, <idVuln>)
+      //
+      // Paramètres :
+      // 	idMenace : <indiquez ici le rôle de idMenace>
+      // 	idVuln : <indiquez ici le rôle de idVuln>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure CreerLiaison(idActif,idMenace)
+      	Actifs_Menace.idMenace			= idMenace
+      	Actifs_Menace.IDActifs	= idActif	
+      	
+      	// Enregistrement dans la BDD
+      	HAjoute(Actifs_Menace)
+      	
+      	// Vérification de l'ajout
+      	SI ErreurInfo() = "" ALORS
+      		//ToastAffiche("Les liaisons Actifs_Menace sont enregistré avec succès.", toastLong)
+      		
+      	SINON
+      		// En cas d'erreur lors de l'enregistrement, annuler l'ajout
+      		//HSupprime(Client)
+      		//ToastAffiche("Une erreur est survenue lors de l'enregistrement.")
+      	FIN
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x15ab05d303be61ba
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

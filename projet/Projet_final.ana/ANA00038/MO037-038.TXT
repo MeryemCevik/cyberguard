@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Actifs		TAR	319	nouvelle taille enregistrement : 319
+Actifs	Anciennete	RUB+		Anciennete est une nouvelle rubrique

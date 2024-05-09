@@ -1,0 +1,4 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+Evaluation_Risques		TAR	125	nouvelle taille enregistrement : 125
+Evaluation_Risques	IDClient	RUB+		IDClient est une nouvelle clé
+Contrainte_Client_Evaluation_Risques		NWL	Client (IDClient) et Evaluation_Risques (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Evaluation_Risques (IDClient)

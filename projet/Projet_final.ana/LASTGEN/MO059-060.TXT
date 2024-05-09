@@ -1,0 +1,19 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+Utilisateur_Evaluation_Risque		TAR	45	nouvelle taille enregistrement : 45
+Utilisateur_Evaluation_Risque	IDEvaluation_Risques	RUB+		IDEvaluation_Risques est une nouvelle clé
+Utilisateur_Evaluation_Risque	IDEvaluation_Risques	RUB-		la rubrique IDEvaluation_Risques est supprimée
+Rapport_Evaluation		TAR	45	nouvelle taille enregistrement : 45
+Rapport_Evaluation	IDEvaluation_Risques	RUB+		IDEvaluation_Risques est une nouvelle clé
+Rapport_Evaluation	IDEvaluation_Risques	RUB-		la rubrique IDEvaluation_Risques est supprimée
+Evaluation_Risques		NNF*	Evaluation_Risques1	nouveau nom Evaluation_Risques
+Evaluation_Risques		TAR	121	nouvelle taille enregistrement : 121
+Evaluation_Risques	IDEvaluation_Risques	RUB+		IDEvaluation_Risques est une nouvelle clé
+Evaluation_Risques	IDMenace	RUB+		IDMenace est une nouvelle clé
+Evaluation_Risques	IDActifs	RUB+		IDActifs est une nouvelle clé
+Evaluation_Risques	IDClient	RUB+		IDClient est une nouvelle clé
+Evaluation_Risques	IDEvaluation_Risques1	RUB-		la rubrique IDEvaluation_Risques1 est supprimée
+Contrainte_Menace_Evaluation_Risques		NWL	Menace (IDMenace) et Evaluation_Risques (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Evaluation_Risques (IDMenace)
+Contrainte_Actifs_Evaluation_Risques		NWL	Actifs (IDActifs) et Evaluation_Risques (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Evaluation_Risques (IDActifs)
+Contrainte_Client_Evaluation_Risques		NWL	Client (IDClient) et Evaluation_Risques (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Evaluation_Risques (IDClient)
+Contrainte_Evaluation_Risques_Rapport_Evaluation		NWL	Evaluation_Risques (IDEvaluation_Risques) et Rapport_Evaluation (IDEvaluation_Risques)	Nouvelle liaison entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Rapport_Evaluation (IDEvaluation_Risques)
+Contrainte_Evaluation_Risques_Utilisateur_Evaluation_Risque		NWL	Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risque (IDEvaluation_Risques)	Nouvelle liaison entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risque (IDEvaluation_Risques)

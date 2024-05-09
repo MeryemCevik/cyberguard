@@ -1,0 +1,471 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Supprimer_Rapports
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Supprimer_Rapports
+ identifier : 0x25e1f8ca15d7c54e
+ internal_properties : CAAAAAgAAACl5d85VewbLeBCKmFFKi4Yc3bl8g2p/IF94/oYcJBPqoEB+RMQQAnlrxJs2VNP9ArLVn6Z9sUzgm/K0PJbldXN4tipAOE6aMdqvDzKXcJsoEeRrkjg0ZvgN/gRAioLZrllpdpUblsyprNsVfbboZ07iiR2iGN8VdHi9I+54ZiJUvGnGBME8jXP1xYMfdU3um0hd+SahNiNpWQOytMgwArRS+OMiUE4FhtKxbeekMYq9Ct8b2ed6tt5BkduE81Sbx9SweEjNDcx7J30uNeYv7Vxu4/zGx15cq5SeJGIsc9uAo4WouiLFBuZ5MsTTS1YZJz/4Mgt/YlndNm1H2TyFeCkEHObSf4zdn8zOhEIinYvk+bIsP5AmemmhTzrv0EnIcdg9pr5An1HhXTVM6W4+B/m4rx3NYRPSpOsf6FqVcHbgVZrS0v3sX8z0M9+wuZ4vBZWctlJ4frp0m7EGaMC5tq3sC5I20+90TGZirnZM4bj5FKQhfM/ixcQFqo7ga9SzgC6aOLODnaNYyDm70lHqYbaInPV3+l/RAG3q/vI29J8VNpo9LlsZET/Q6YGP/M/iFOOf3ECv87OwRpW8xuCiYjdWyBOekD9cm4QS94RO1ZCl+IbLZrmUrKLvof+5J9kJFYVqkHrgRr+HcxiSYfLft/t/h2RESsvCAXDSXuPCNq0z5NvM+XccKqMtLNfNl1L0C4YKKCoumVl1MEWMr8qitWJm+Xt5R31DLll17TnVQD7Y4FDpY4QKCs6hahxXiIH2ezHQzsUrL+fYZO2crZqFzwLxkMQElEK+kDT2g6AkKMNSyBfBelKJAuBNTsfShGCVlSysg==
+ properties :
+  width : 402
+  height : 569
+  heightMin : 650
+ controls :
+  -
+    name : SAI_Client
+    identifier : 0x25e1f8ca15d9c54e
+    internal_properties : CAAAAAgAAAA48eGrBxpksZqI7qYCevlt8Wq0H5yV1U2Fc1XJcBf9wbPpNVzwHJ65wMgrkFQrsUwkSVDbCN5rbni4/DRuiWm8U36aoWEL3wkZw/ukiZnLtaKhmHUGtwcXp5SLc1c7IZe0c3lKpinY9/9ymBpaNwa+xhpKUFvwuBY6LxVxuWzbwnx8oVU6tZEJ17fK9TktdY+U06KByR2uO6rQeuE9VPE8WAxpoHgS6yyinPZIm7K6kamoem3sRTQ6llHicKbO4HHf78F29AI7uLKDegmjcI6zDYNfavm5FtXTik7GiMGyhz+BX9av3S8M9Fn4LhvryFqTqJf4MxdT4izO0/h2905FJlCmsrzjCGwJLRJvYSL+PAxOuZILEta20x56hnQJW2d+8zmfCK7nICmhUNa3SkkivUgmufpDcDldgVVejlNrjVadrzCu/ElJfLRVuB/VSxhf/5Lp5aDo/D7rvf48nwX3keHNKPb3tWAfEIRyFBL1csAGKNGSlYQrlDA8ZoD9TT9G5lSv3T8RYa+rRNGk3u3yKhdLjqva0pVAKh8ufizRHzAwOwoG/7MKN5clr/GbRygz3vOgtlBiSwjikWRGoZEFEB8FYPJCI/8pVrzpSGapyHClwSETmDelSMOkJYZ2OBe0v3oj4Z2j7csqnvmm6fPJkQHqbfWgaEm6i6eRfExeLvaRBOU4lGNbjBuzNwTUbWoBNpMAHw9eAFxx6wx5Qdk/870Y0GOeMAA7d4hEK4l5SdkZEkJ56K4FzSsza81rCEHF3oGhtsOMICJ6BmGh/JnDdco5IeOep2ERP//Ci6azEpzw19PCpiCYMjrEi+/1O+PbB0oR9sgT/7wCkd3c4ESGRte++yK3ekVJwQodvHCbCgpE8EyLpE0pOs7YVQ/ktJR+ev3/UpZfnVMeqMH5r1MJWmmOquSIGVmXUE7KTXIHUKGIrsa7tL73i9QnwHXYbRKRUIq0UN3LS4LJRWeYgJX8lm4g82ZDnVOtGjtOZnon5hC8Wd7bHjs0dc+wzCvx1fiQey5qu6UhSfwsudOFieWNa0c035FKCkrspiyIJUPlvCPSgRQL91zqFHLrsOxqHYP6ftpOYpLrrdB5SpfyBPbovsrTVMUy5aY14UYDgyO0hjeTxJoBiSAWmmmf+RE3ImAXbtheX/Zy2Hz1UWEqhcICPBWEhOWuU4ObqCHoy7P3TWVQNcI=
+    properties :
+     x : 537
+     y : 281
+     width : 356
+     height : 44
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : ZM_SansNom2
+    identifier : 0x25e257a607be5f73
+    internal_properties : CAAAAAgAAAC3RjeA16xDLHA+ENclHPCq/129ojJbBvS9eshbXsZ0X9ovmauXIkchYFDXuUBqJlMzjQ2Je8oZHv7eUO7NaZrk8JIfgOBFFl5hK6I5REsOpt00p05LaCjxydd/Jx6LyYAj2DpAP84dIPNoFiXMAhlfGFNafxrpUob96uFX7a/Eoa/v+MHzUDKjRE3R1TZVrUIAlul1FNJDRD1rjPdNLfh7PSrQt8zcxzd/8UnXy97MzmlEajX/10cpbWeqb7rQAeIpqS3dHytgAt7W4fPiiLPY8xzNBewXiyD6PHt2ySw10xk0bI8BE2NoP7UWCXBB5l65tv35pZYqp7GccN+XWY66nyc0p+BqvezsTnvzP5Qd0bqO2lxaLkVkFoPpBuTYA63DpT6/PpM8rhvGuJLFql9nHbaya66adpGZ3nW6uGF+WQMvIfTtr36LEf5RwhueMTm7d6eqWyc8mpQb7HkcayrdumiU3IvY8Rge3V1hHz9Wad2+4SoViiNAJ6VyJAjMA+VLs7xmyqz1wAYO1hFpMfBD8ZKmHTSc2es+cPZVfwdir5pmrvyTIj7W1KN0MEuaOj42V89x8jXTyJ0Ozy2BLoZ6QOUnp9rQkf89UCZNUVVakHhBL3zlUQgz/faOApOW+w8qaaM2QHsAdlkztDS6VbowPe6Dtw49dNvQLwMyvYMgoB+ugDmEJSCN5uTGZk4+9EgfXYZa3DYXzKAQpPyImStJbMRhIr+ZDOFvM2OpAElllssLToyLDyej9bK9JpoOStuGaaOzUnWj3Gl3HeO508Grc3Zm26nQFIbjkmd23jlYmw==
+    properties :
+     x : 2
+     y : 31
+     width : 398
+     height : 184
+    rows :
+     -
+       internal_properties : CAAAAAgAAABdXRFNohx+cZ+S1kxRkSGXUknYHf3wdphQOz/w7q+uBnx16GHq21sn5WU6LvA7JZERYe90qfuy5fH4HQ5ih3JGm3JAYJftYictGwqv2fQNpmel2awnOIyqxxJH2BeZwKof1qz6WGbLNcc/ZeZRrUHWuqajrlo=
+       controls :
+        -
+          name : LIB_SansNom1
+          identifier : 0x25e257a607c25f73
+          internal_properties : CAAAAAgAAABjCuPuwHrYV681uFlKdjj8dIp7iqhLNwatrZi5+QfL3ahnTubqyqQt2YmSKfYafnjMgNWA0C2qohs5Xoprbu6IM7pnX0mNYYs3idc1yvSh5Z7AXeABqO++IQJKa3begZ5HKicKKSAG2YDVm//7UpYloR/Gri14OU00wmaejHqzdXUMqU52/Qi68+50F/jltIGoyf0wctle2NWEGgv49bf56MQAUrmCvUzAf3S+DByn5wnP5TXhyO7erP7Qmwld6qKDfIr1jj3VGnp7Nf6QfZDiPVpMJs1UDdGZDvoFMPs43IRaJtsyst87S4nd5nEUkbkzNd4lElu7FI6DsyB++v21yB/WdDKw90NDZSOdJF6MOqZEbUsc24C05PNBWLMzEsKZX3rN1shWTJHbpkF9WrZ6FI9ubVp1NkDpeeZ7nxAk0bUiNcibTgaCJ5/eprcPSbyBI7pwubH9BlYIZEd0LE7VqWXsxIJK/o3SaHQ6Fd6XQDQ0gS2XqhVg9rf24RzS2gn+wpn3TkaOZz9/JqUkr821s14AbyJKAO5FSa2kuG6U
+          properties :
+           x : 12
+           y : 8
+           width : 368
+           height : 56
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes : []
+        -
+          name : COMBO_Rapports
+          identifier : 0x25e2566006586577
+          internal_properties : CAAAAAgAAADRlN+7VtQFjc4SAVnKV9y2B23rvP7pKq3ikkStmN2owJEKjDyiohhvNEw232XZGzPylcfTtbHg/raWLQ1koKZqOR6BM/JUV5EWX/S+D4q+WNQSMBsRERjhhQrhJB11MDXdKucD2/STthaTVeBPZVzJ9Ffcb8Js0/DKJQHiMQGTDttVpo36Zhi43G1S1NY87i5AmV51YB6SgBs8uYGX3AtolQGayd+MPP1q+bGYhV/F3+mW0pIGyrCcamB06TxMvGLV+FTuMRk/YqDEV/OJGz1iB7IWogANR88R1hPQlS4hs0nE1VD3B3fQTomoxw/tsDFhjEG9SUnZ5oSjvpTAIzdtcguwGx2OWfpmYGRUWNTClrfOgo0F5i0d8KapKEZqrhYatsGF3MEewpO2NqAWDQtBpTGczgo4q4G3VV2sCLvHXMV9r69iVxmAdg3WKLp//HagNPq5UK2RUk5lw+tL7uyPyvrrQSAZ4pOGFkBNf/rJCJcr4gmo1iTZY3JAJuED1lrBIsw2P2LISo0iDnFZOyKsF19BuAI5e4oW4y8M5SQqadLMhQw9ba95CLKVSSXYLTtqjTadZq3W47EYwVIRlITmCcaLqTNqtKbDJViGtYeyyYUgrUSIAkU0DpDU6J3tZ/iNA8/kC1JN33mympveK1FjA/VxapB7SaTgjjEOYeiMeLYNpCTviihKoLa3qVGCoNwPX95pyd/9YYmM7u6l8h5jSnuP7mM43jtYuj+YWMUWQP/WaXSnJvwywoQWkicHlWZoWCxO78T3CZ02M/M4AIQkRVwIog8pXEFElnIJQZCZtqd5Ev4MNKTYhP7wVmrAFUn8psK1pC5J7YsdBi+/v3AmQaAKDJqvUwAl5b7Y06l+MFBpIQlpbLJurCo7b6HjJtgu4yYauQ0ef5dVwbfHyjv24tVbOM/QF0p7UCyJY67aPg2yawYUyP6y7OOjGjEWrXuXCruW2J35KSbW2aOlDWxhP5qnBekgbfhLStMc1e0Xy8St95vl+vpbMURfq1n9jQ8dlzdMOmlLtBZ7+q+PR4R8vOl6LI2XJ77ozKK9EqH56H3e+BoNexvapbNcL69pthBIgNHCZQ89klMnabcM1AfZEaQVvNU4IZMO/f/bRg+1HH/lSORZ1+/p5YM49nnPPcYqGJssiGiKIpkC7qWdVml9gN0SojnvLl6b5XrzxIY2eNjZmx6HacsDKr/MqaPzIiMf6ABzMORfcoDSUq7moa+xVhxbwVecxayOLq3Vly9dXq+VG92lX5347pg8TU0+thkb0uVTkzkBP6PLcGdKi8XN0gqfe3qICHcKrt+ZYxZUCkmmJcZHi1XFnScAa6wcAfkexqr9gPXaNEmKx1pXdy7+fkbHbr85hRDdvaRO7qrQIKDT4gKFnNIjF5mYAj2W1rJ92C/CGorZjmqRe1k36wqsgG3tuwJU9WsbecLvkCeBwmg/4IdG2KerQrIhPz9d907CYe2FSrQvraYViKL6gNf9N1atLqGCeGTFX1w6HPmAbFTBTdL9S35pJKhjNOEHIxvL7tXNe7VLB/vcKNmnGEBKO8YivEUsNLr3rpgoC6WddGcnlqXhKE9cOp4Wkpc5RVO/grAxQNtMtrEIjHP/zZcojKkteKukUP0Lmfa46bQ+skJE9pmoZDlBFAIPaFx51vBGZyON8TAVMvFqzNFIH5XRCUvhX/n4pVTkK5L7+uewnpL/chmeUqh5FwvPdPzkxpz8q+x6KyeQFPxShR1CL5dxLcglNVGsXjhsJy9l0x5Kh9gDsxuK7hMFx+WtPkVv7P7lLaWHCrjOKZHI3bHXpMrZevz0lVCPqFifxnKvPb4w/qVPvXvOlQ==
+          properties :
+           x : 24
+           y : 120
+           width : 327
+           height : 42
+          dropdown :
+           internal_properties : CAAAAAgAAACGCDMIJTLjc7i3D2C1lDHfOaGCTGaI5Ddg0vsdVcJClnjApLdNXdTugcff/6kpYOcJem82hnaO60Q4XRe8Ks8M8Lgu88o5CyV+My+8PW7ARxfKCiRJg/xhdIADt5JKDuMDnKCtt9VFTaEgM30Mf/+xX4KYX5ipmMRrukdoSHavqjhzxXXrDNXUh3XzbehS0dEaXjd4SwG1sSbxaMRrkOMI580x58bd2pUc/4BAMdsKNbiLblexy7DYD02GVSL0+dNQcAVWDCETTX/Gs+qWBR5QnnUoQm7LfibdvB/wLTRgvQglOwTNtYhTuOh44+NYMY4UKFnFtp74MaFHu5Kf/ZW1LzQvOLRK8mgkTEOMoOePgWCKeVjq0ARPc4xic9yfRpunudOtpeayHlMBbe/ozMfiqnPOY6oUX826RBiY84ZS9+aC9wQL30RZCxFqSochnultJzNW0d4XwcV36RToNZa7AmaYx0YFtaPUQyJl6h2hKqtqkmvSteW6miVnGG83PMFI3H/OK+bV3Qn7oOZ08Ou2j6lFpjuDL/8cb2Bh+sOZDOtXIxo9Unl90Jg6O90Y3NSRYRfAhzIftAuUp/btkrUUvk4V/I1pJLzKa0bxSCwOvpoARdMupkluT+6EWuoCNVCxwz4OisIV
+           type : 7
+          type : 14
+          code_elements :
+           type_code : 23
+           p_codes :
+            -
+              code : |1-
+               // Version 1
+               // Description 
+               // Combo liste simple
+               InitialisationCOMBO_Rapport(SAI_client)
+              type : 14
+            -
+              type : 35
+              enabled : false
+            -
+              code : |1+
+               SAI_Rapport=COMBO_Rapports..ValeurAffichée
+              type : 33
+            -
+              type : 17
+              enabled : false
+        -
+          name : COMBO_Client
+          identifier : 0x25e1f8ca15d8c54e
+          internal_properties : CAAAAAgAAACTEo0txKXmXU0h3uwSk/h701eoNOAcLLMBT/UMru0fMUfzh7hRFYb6soKBALWv3K8J115iCUVOces2/3b3sxeL8i5ltIAChABg/SUw+5nI3oVAlbt3sY/SpadnWKTCJYxIbg2eQc5HR2W9255NRxcg6mDFGVTts6qoDpXPdw68NM9G4gkGPXEagOrGyYY+ovvvqYAtGNzBObS5M6/nF4S1n6w85L2jJW1JuEmHssvXQ6e+YucjjCwnOXp4RToC54rNz3NBUDFxL8LzEJ81+7C2l1VukbHakPCVNH3dsonhh+saOUmFDWco/r8dQSzwxG6XuYXyVg7VV9eNF3lDOnkf/UbOMvYxd6CYbIb0CCJlcft2+j10kSAX9lgJJlvT6jnkempt/iflFhWjs/7BaHBQn+AXHOs/Co0JIwDeDCTFovfoLwJDUJbdPXqUKPYdyCckzilzHNfktbvFO3R9lqD935zM2WKajxQZNtAbvljbnWQl7ybctj1z6Z7Jy4EyX5fT6M6ZIbGRC5PcxKAN9AwqXZtO+4Y1Zp+rIVJzoOrDhkUUFluTVvI8XbScu9rQLMvgjfHA4Vy4yJe0LJZwnlaDqjsW9tSn0Ls+feP0DzC/aXIBbFvE63fRKaOlTaQ9Ly1Yf7XjqN1K8BIKgB5gcJAJqTOpCSYJKdm0k1pi41Lpgs/jIiazzm5N8MSLUBto3X4bZC1yHxCc68twTb2e6Pd5nidcqrROmkv7Jw+gpJfM9GYOosR4IweMw7BZp8GmAstGrXMkDErq4OCb1vugOFCN/FKqtM/GsaQwXlcxiU0idFlEeMlDIiOKlohoyi5o0mLFt03YmeyopwwgmsHN/oCoqcBmTtLxtZg+uvp0uoHxw74G2u5Ma8xl8d5qjU+8uZOADqjxww+iB9dj3zAQnqUDFscd97gYOtjXZbX51pPyDLlJDZNfhKnAwpyYDAYR4XFNO1EJ3WOw/dj97Mt48AIFVwubEFI+Tmafd3R02jgjSQggfXSczKkNm2Go8y5aJS192H2fIzF8ymieaVtIUvBiKCqwY9KZsrSSv6nhSzYTNC2hTmFG4xC0e0z5VzwsqMCYn+MpcvUo4OEGROGzwTfD+3FlQ+pgGhmCUJ55garNQmFcomOWXXLRhXBJlILmg0JURTPrhUq7aPMRQZMYtd1/crByOxi7jdAvNM1dE4d6+sp8S5OWtUgD1oYH8yKO7Ofz/5riRSi8OlJ/CwaLXpsfsKNv3MyikoZCQ2aVlBy3ep0Cewhei8SEeE+vIa7nDgMxcfewAqu2/3W2nwUTbKGfwMMzitPAi/2U3+STSkP6fvt/cX0seYCFXfA1mSdPB3kqd+h0le2njJOTvI7GSjYIeHGPPaTd7OL90s06P4OSnI5+mDMYEo9rp5KVsEg3RKplCVXbzew2ZipkyoEy3j7qDFSxLhuwGvOP1FEBp/SptPg0aAKLXgSVSM+aZVIYe2D2RrWoY/x6jXL+AyADw/fTu3ld2UaqkRqXBg+q0fi+mHSYB0vwf6WdTtMiTA64G4HdA/1uWvFe/+156Ufi4cBQkRX0FaD0W84tocd+dGK5pj2ajmqcxHKccNtvuEiC8bFfqVKWU1nRNgkhof8enmVANpSLsziipc/5PMWUyJksEnDXngbP6NB1VHskqsskBGwAXBvUZrZq/J1ta1udYCXnf/6fWrogqqmvSQkiGTRyh3jz9jouKefIiFP0t5CiEWmjc9S4tQN3DrtWz0iPiPINsFQ2Gr9tEDIG5bimPQkAbAbG9M0oaic2pJwVh0raNB6eEz3nXSEXKtQE725+hWuL77jnryURznNVgVCpQ9o0gJU=
+          properties :
+           x : 24
+           y : 65
+           width : 327
+           height : 42
+          dropdown :
+           internal_properties : CAAAAAgAAACGCDMIJTLjc7i3D2C1lDHfOaGCTGaI5Ddg0vsdVcJClnjApLdNXdTugcff/6kpYOcJem82hnaO60Q4XRe8Ks8M8Lgu88o5CyV+My+8PW7ARxfKCiRJg/xhdIADt5JKDuMDnKCtt9VFTaEgM30Mf/+xX4KYX5ipmMRrukdoSHavqjhzxXXrDNXUh3XzbehS0dEaXjd4SwG1sSbxaMRrkOMI580x58bd2pUc/4BAMdsKNbiLblexy7DYD02GVSL0+dNQcAVWDCETTX/Gs+qWBR5QnnUoQm7LfibdvB/wLTRgvQglOwTNtYhTuOh44+NYMY4UKFnFtp74MaFHu5Kf/ZW1LzQvOLRK8mgkTEOMoOePgWCKeVjq0ARPc4xic9yfRpunudOtpeayHlMBbe/ozMfiqnPOY6oUX826RBiY84ZS9+aC9wQL30RZCxFqSochnultJzNW0d4XwcV36RToNZa7AmaYx0YFtaPUQyJl6h2hKqtqkmvSteW6miVnGG83PMFI3H/OK+bV3Qn7oOZ08Ou2j6lFpjuDL/8cb2Bh+sOZDOtXIxo9Unl90Jg6O90Y3NSRYRfAhzIftAuUp/btkrUUvk4V/I1pJLzKa0bxSCwOvpoARdMupkluT+6EWuoCNVCxwz4OisIV
+           type : 7
+          type : 14
+          code_elements :
+           type_code : 23
+           p_codes :
+            -
+              code : |1-
+               // Version 1
+               // Description 
+               // Combo liste simple
+               InitialisationCOMBO_client()
+              type : 14
+            -
+              type : 35
+              enabled : false
+            -
+              code : |1-
+               SAI_Client=COMBO_Client..ValeurAffichée
+               InitialisationCOMBO_Rapport(SAI_client)
+              type : 33
+            -
+              type : 17
+              enabled : false
+    type : 97
+    controls : []
+    code_elements :
+     type_code : 126
+     p_codes :
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+  -
+    name : BTN_Supprimer
+    identifier : 0x25e2584f08a7f169
+    internal_properties : CAAAAAgAAACM9Jr5kJ2v7u/yrBvVkT2OOVEVQa31GM3VGy3p3hfJxdN2nS8H66VCWZyb1GZQUJvSmId4hBoUkN9bNxx9Kg2ZzO0rCBxT0DJHLJtOXm+xgwCz+EPVFBrgnawe0+qdaTqtqTk7cxVS588KojYw7aP12SfBrhOxxrP/ETwkZvZHzLI1aVaULgzsU/GZeJC2h3VSJ1ihSPX+7LZvBcgnBNbjREkOl3hjaTS8delcr3ybk8t/EMmCLDc6F1dKuqBdjPjZ8bxh4/7DmHJQA6FYLVmZW6Ibpy4T4R/u7fxuONZDMIwuqvSg+ICSvzfDQ1wh68aAwknTf6ShsFXAsgjPKXNd0gmp2FoACjeaxdx0fT+eYrraA2h/pEHiIi15lqo2Gm+sluxBQ4zaCNY4PhS/9neJLBIb6amATIG/rOGDKE4uRFYYp+fbJBcbvGlaQbEUxNVYPzBocZYIfgYxAE1PeWVWSKxBA+51m0Ku0m3ASQkUFKMmi6Bv9ooNf2nK2doWNxMZn3nPGJZeVeRTo+CHg8sYZORmk1V5P8cHPjDkKzjgLzTqfsu0SkzyWhV6X8O+TLMb/uJ3qOctWBK/BWbdFl2EACEEupshGFcjyIO0HNp8tulF+ZeUbBgkVbv0cInfiZ/TpMlEc4SAO3lzoF8+0x5KcelQpqhIBoUmhXNDg0KXuXlVFiy+QUPi+JtjPCCKl/ngkv75qGKhVrc4Mc0UUp43bQP0yJXcjrU6oAj3Hkjd4OSaxxIsCnf2GJ45tKbkzTzcOoEd8vvtF2luEDQe/c43IbwdtQSZgk9MWlHl5vt/YB7n2twyuGPHFtWy57K0zCME9Tz/N0IoLfppuKQF934PRczFokEYuc/zuCODGOuiu3vZoUiMGGpXJvH9ShUTadQIIzTP91Yh9jox3P/fTEp/aTohdamMqIwxrzwxuEXIbU0OyzToKcdoK0Y/ipiZcfIw1vaCJF3FguTACCb+3lxQpFbziCHOeJGg35EMYtXqP5tlcE7Ft8MaV7NOdBTk3H+CFSj/Cw==
+    properties :
+     x : 120
+     y : 236
+     width : 162
+     height : 40
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton au style Supprimer
+        type : 14
+      -
+        code : |1+
+         SupprimerRapports()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : SAI_rapport
+    identifier : 0x25e25b6009b9eb34
+    internal_properties : CAAAAAgAAAATRsnw18Tz0pI+jNPrQubpSUzNac/13v6fMB5Sl5jw7/69YOK8HRCHiigGColGkm47Q+DlkLscdPTeGridC1asO5Qv/gdDpHqAMQFsn2S/oIB9ULdynYNzoVmg1UZ519IaPcmbDMyd5q3wJjgB1H4FkSyND988l2Sd+iJg7W+o13NbYdVB1KQcWa8c83n3V2LxxIzJdxQjepGD7aWj7hADS9aQJuIvgjIPmcoJRox9Q1Bzvv+jOCovyEyvfOtJqazboA+Ide99C99wKIOhkUWIkCFIShG0SOKuOIBuUFQPyetxyUwmeOLcbV9TaN7KVmWt08aWR5o6ooSfgXutPaq239eh+3sEeIhIu9yZ7gWNypP/qaT+O2YprMjhvTqB7R34k/+dxAvlcVcJObO9GUdkxoJBTAnrSB+UTwbp1JrfBEatLHfGOzBOOHFuPVa6mgPnP5jnVlP+kp/fFapL13g6O1MXPBMwDb7JyMTQ3gHCNKfL18FJOLNl/eNYuXmskuFXySUWsFjxgTpcoN6ic2yWNjZH9tqPEdBAWlWycnDzXDptHpaj+81y96zAgEZUV4z4da15wlMfsSAeizJ8dnQypKO1Yyl+mpkTNi20M8A0EP1DMXp+/tRt/NGnjPXSn1mN30D26OOwFR/c4V7DX4D3wvvSuqxC568Qq+SyuajRgoFDbMZLRlDjUJ0w0LOyWraohA9P1tlXnFw3mDWe2X4jsjXigaZoVUjn4f+HSi9KX7jPtglUOE05rV0MOLrjW9e+bj+6s/Fr0N6ot9TwGBzjzkxVGg78xp3RoaLPUDBiovOIPRCrOm+KTBZFTJahWmOeuxDg2UDMYVYyICKjlC8Oq91yvHmjKxFBf0Nu46iyYCX2ZMuuXEiTtO4r+CKCsTYlwOH8GeDYQdtEy6jAMdZPd7WAhwUG2Glb+pPBqJrIgpRE/HsuYhH5rVTykTx0DNAC8MTd8RneNRQpPA4zvFZywQAIbPf7FGkrUiwf/Sa6NAXCDTUk3k6Y/Y2bZYY/qIL5dT5TCMsOF4r4FMCCfcgn+EOKBmTWbYYcYO8PTqeORGTSQ83013km7OQ2OTu0ZBzLWOazpzt/h2IJ1yBxyLkCN6IZtxzwGqV2P2JD58jBViM23ti9gZgsyPBjJZBxOYC9QLx/Uk4Yo1eeXSsh3WhxbAzSIGTWyJlr9Jht0dS3ctbajoKy
+    properties :
+     x : 536
+     y : 338
+     width : 360
+     height : 44
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x25e1f8ca15dac54e
+  internal_properties : CAAAAAgAAAAOrPcpRBCVcDCcTf7fCjQNtzLTZp3iYOKKmkX9H2B+/buLTyo0+TkDMvj/e5eYczjyUS6UB8hi2ZrObFzDhAWLhc+Nxk7DF32r+yeBTuEjC6wx2KmBcfmjpS9KTyu1qAheBE3WT+0nAfTZbdwD2YVJFmjBXSR8NmcmmdBEqdvrJdWhSRupfzw8+XJJ1ONm3o1C8tu84lOjFkjLm9JOAqU9yURNGXK/ew+dm3Djb7/3grMiPbPmwQVM5Ir5rWOGeIYRxJKH6+UlSxqyTtgSkKTd6PBT2RmwQuFivcx9Dpya85XIJYusg3kVACcWSynaqa0eG0HC6WgBBA==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : MENU__Menu
+  identifier : 0x25c09bcc022ec72e
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAA1etd1LMC+dlxfnX0M6EgrCf/ide2p9PgAeoLuiXeZ8w2WdxX6rAuv3cFGlYDZQ26wXJBr6HpNSeUsNjteUhDcVbd44vF0bIBsUPi6Q+wkKzFSEi8BYu9Se/x0
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE FEN_Supprimer_Rapports()<§rad:1§>
+      <§rad:1§>
+      MaFenêtre.DepuisFichier()
+   -
+     code : |1-
+      <§rad:1§>
+     type : 34
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 165
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 177
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 180
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 2
+  procedures :
+   -
+     name : InitialisationCOMBO_client
+     procedure_id : 1576814891041277262
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // InitialisationCOMBO_client ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure InitialisationCOMBO_client()
+      //np stocke la concét° de prénom et nom client
+      np est une chaîne
+      //Recherche les clients d'un utilisateur donné pour les affichés
+      POUR TOUT Utilisateur_Client
+      	SI Utilisateur_Client.IDUtilisateur = Id_u ALORS
+      		POUR TOUT Client
+      			SI Client.IDClient = Utilisateur_Client.IDClient ALORS
+      				np = Client.Nom_client + " " + Client.Prenom_client
+      				ListeAjoute(COMBO_client, np)
+      			FIN
+      		FIN
+      	FIN
+      FIN
+      
+     type : 458752
+   -
+     name : TrouverIdClient
+     procedure_id : 1576814891041342798
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // TrouverIdClient ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure TrouverIdClient(nomClient)
+      
+      valeurComboClient est une chaine
+      valeurComboClient = nomClient
+      
+      // Extraction du Nom et Prénom à partir de la valeur de la combo
+      Nomm est une chaîne
+      Nomm = ExtraitChaîne(valeurComboClient, 1, " ")
+      Prenom est une chaîne
+      Prenom = ExtraitChaîne(valeurComboClient, 2, " ")
+      
+      //Recherche de l'id correspondant
+      ID_ClientSelectionne est un entier sur 8 octet
+      ID_ClientSelectionne = -1
+      
+      POUR TOUT Client
+      	SI Client.Nom_client = Nomm ET Client.Prenom_client = Prenom ALORS
+      		// Trouvé le client correspondant
+      		ID_ClientSelectionne = Client.IDClient
+      		//Info(ID_ClientSelectionne)
+      		SORTIR // Sortir de la boucle puisque l'id a été trouvé
+      	FIN
+      FIN
+      
+      RENVOYER ID_ClientSelectionne
+     type : 458752
+   -
+     name : InitialisationCOMBO_Rapport
+     procedure_id : 1576926044786702569
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //InitialisationCOMBO_Rapport (<nomRapport>)
+      //
+      // Paramètres :
+      // 	nomRapport : <indiquez ici le rôle de nomRapport>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure InitialisationCOMBO_Rapport(nomClient)
+      	idClient est un entier sur 8 octet = TrouverIdClient(nomClient)
+      	ListeSupprimeTout(COMBO_Rapports)
+      	POUR TOUT Rapports
+      		SI Rapports.idClient = idClient ALORS
+      			ListeAjoute(COMBO_Rapports, Rapports.Titre)
+      		FIN
+      	FIN
+     type : 458752
+   -
+     name : SupprimerRapports
+     procedure_id : 1576929540891878100
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // SupprimerRapports ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure SupprimerRapports()
+      	SI SAI_rapport <> "" ALORS
+      		POUR TOUT Rapports 
+      			SI Rapports.IDRapports=TrouverIdRapports(SAI_rapport) ALORS
+      				//Demander confirmation avant de supprimer
+      				SI OuiNon("Voulez-vous vraiment supprimer ce rapport (n°"+Rapports.IDRapports+") ?") = Oui ALORS
+      					//Supprimer le fichier en local
+      					nRes est un booléen
+      					nRes =fSupprime(Rapports.NomDocument)
+      					SI nRes = Faux ALORS 
+      						ErreurInfo(errMessage)
+      					FIN
+      					//Supprimer l'enregistremt
+      					HSupprime(Rapports)
+      					ToastAffiche("Le rapport n°"+Rapports.IDRapports+" a été supprimée.")
+      					//RAZ
+      					RemiseAZero()
+      				SINON
+      					ToastAffiche("Suppression annulée.")
+      					RemiseAZero()
+      				FIN
+      			FIN
+      		FIN
+      		//Supprimer aussi 
+      	SINON
+      		ToastAffiche("Veuillez remplir tout les champs.")
+      	FIN
+     type : 458752
+   -
+     name : TrouverIdRapports
+     procedure_id : 1576930507260072442
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] TrouverIdRapports (<nomRapport>)
+      //
+      // Paramètres :
+      //	nomRapport : <indiquez ici le rôle de SAI_rapport>
+      // Valeur de retour :
+      // 	entier sur 8 octets : <indiquez ici le rôle de la valeur de retour>
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure TrouverIdRapports(nomRapport)
+      idRapport est un entier sur 8 octets
+      
+      POUR TOUT Rapports 
+      	SI Rapports.Titre=nomRapport ALORS
+      		idRapport=Rapports.IDRapports
+      	FIN
+      FIN
+      
+      RENVOYER idRapport
+      
+     type : 458752
+   -
+     name : RemiseAZero
+     procedure_id : 1576933247451418732
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // RemiseAZero ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure RemiseAZero()
+      SAI_rapport= ""
+      SAI_client		= ""
+      ListeSupprimeTout(COMBO_Rapports)
+      ListeSupprimeTout(COMBO_client)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x15e1f31a0071902f
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

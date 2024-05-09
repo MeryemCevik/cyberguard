@@ -1,0 +1,3 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+Rapports		TAR	254	nouvelle taille enregistrement : 254
+Rapports	NomDoc	RUB+		NomDoc est une nouvelle rubrique

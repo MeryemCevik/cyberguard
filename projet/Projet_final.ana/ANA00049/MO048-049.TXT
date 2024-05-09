@@ -1,0 +1,4 @@
+//MO048-049.TXT ANA00048 TO ANA00049
+Evaluation_Risques		TAR	117	nouvelle taille enregistrement : 117
+Evaluation_Risques	IDVulnerabilite	RUB-		la rubrique IDVulnerabilite est supprimée
+Contrainte_Vulnerabilite_Evaluation_Risques		DEL	Vulnerabilite (IDVulnerabilite) et Evaluation_Risques (IDVulnerabilite)	Liaison supprimée entre les fichiers Vulnerabilite (IDVulnerabilite) et Evaluation_Risques (IDVulnerabilite)

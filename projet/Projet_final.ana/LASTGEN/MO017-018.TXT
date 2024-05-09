@@ -1,0 +1,9 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Client		TAR	332	nouvelle taille enregistrement : 332
+Client	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Evaluation_Risques		TAR	117	nouvelle taille enregistrement : 117
+Evaluation_Risques	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Utilisateur_Client		TAR	33	nouvelle taille enregistrement : 33
+Utilisateur_Client	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Utilisateur_Evaluation_Risques		TAR	41	nouvelle taille enregistrement : 41
+Utilisateur_Evaluation_Risques	Date_creation	RUB+		Date_creation est une nouvelle rubrique

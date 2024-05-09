@@ -1,0 +1,6 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+Rapport_Evaluation		TAR	49	nouvelle taille enregistrement : 49
+Rapport_Evaluation	IDUtilisateur	RUB-		la rubrique IDUtilisateur est supprimée
+Rapport_Evaluation	IDClient	RUB-		la rubrique IDClient est supprimée
+Contrainte_Utilisateur_Rapport_Evaluation		DEL	Utilisateur (IDUtilisateur) et Rapport_Evaluation (IDUtilisateur)	Liaison supprimée entre les fichiers Utilisateur (IDUtilisateur) et Rapport_Evaluation (IDUtilisateur)
+Contrainte_Client_Rapport_Evaluation		DEL	Client (IDClient) et Rapport_Evaluation (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Rapport_Evaluation (IDClient)

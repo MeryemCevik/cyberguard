@@ -1,0 +1,7 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Actifs		TAR	318	nouvelle taille enregistrement : 318
+Actifs	IDMesureDeSecurite	RUB+		IDMesureDeSecurite est une nouvelle clé
+Actifs_MesureDeSecurite		FIC-	Actifs_MesureDeSecurite	Fichier supprimé Actifs_MesureDeSecurite
+Contrainte_MesureDeSecurite_Actifs		NWL	MesureDeSecurite (IDMesureDeSecurite) et Actifs (IDMesureDeSecurite)	Nouvelle liaison entre les fichiers MesureDeSecurite (IDMesureDeSecurite) et Actifs (IDMesureDeSecurite)
+Contrainte_MesureDeSecurite_Actifs_MesureDeSecurite		DEL	MesureDeSecurite (IDMesureDeSecurite) et Actifs_MesureDeSecurite (IDMesureDeSecurite)	Liaison supprimée entre les fichiers MesureDeSecurite (IDMesureDeSecurite) et Actifs_MesureDeSecurite (IDMesureDeSecurite)
+Contrainte_Actifs_Actifs_MesureDeSecurite		DEL	Actifs (IDActifs) et Actifs_MesureDeSecurite (IDActifs)	Liaison supprimée entre les fichiers Actifs (IDActifs) et Actifs_MesureDeSecurite (IDActifs)

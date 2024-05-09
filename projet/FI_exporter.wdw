@@ -1,0 +1,259 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_exporter
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_exporter
+ identifier : 0x25e214302a38cc6a
+ internal_properties : CAAAAAgAAACOUQ7b8Qa4spFbyMaGkLRuq8AsTnkRi/bceHHXXMzeQio51kO6AoFZ6wLWLic6jWQvee82sUX/DLuQTVSFm1zDZk/OGq/KyR54uIgWG3ClJUl9141aBMsQk9QpPNvV4LNmwounflWbOx2gdTcwzaaoO8pLo7i9d8us7svZyl67XRrttZtfGF/t4PAD32WXYKS47Dk3uumoLqifAt82KPid2i/jZxh+uyIAG1WOWE+67bdZVPA2ynhuX5qSjol2FkU31f9xsieF0Vs5ZxQenzxJqcpOFz85FOvYipI+EW0UVfyGsIcvwOqmTttS3C5hFopdLnMSyhQzrVONPCRqiR8XZUDiWWkbe+yAVMXzXc2ivZgDTN4BjLrGoQwnuWhOz463ePC5veMAGkp0WI+tQbO981auTSaU20xzRJcvsALbsZwyeuWBqp8Ct249dE7zT7poGDTiaTe8ZLU7MrIuOuqQ6n22Ophjn1Z7ypFPYHjD5COV7P8/jaDTZo0Jts0QxCfhc6J/FeCHQvGP0MPxmVKZ7wx/MhlB4SebL1sWIm3ASa/U6675APFRg/HXol3HA/CjqSI40CIPwD1YzpDrouJhW4NwI/dH9U9AgExzIZ0O+phdsh1n2MmvGI1gUsRunMXxwyrIo2YyNYutgY6ZLU9zaWqAxlaA1UDZsz8qBbLp4RaL0is/EGnFt0HtLVOgO/HNh7OBtfZQr/dmGqiaIFF+9jBqxaYQvGHbQapiftqKI8Sz81pFcUN8lZZprNMjfW29qzI1nifrCjMYv0QfJndQH8k1fcznpV4aUoGQA5+RSfmdgYGmdkeC0JMaL8abWZYvp6shBme7n3DY/wRQf0EpG/+Cgvl5ZVuwtzMy6KouMNQtN+NbSF8bp204xAOJ9w==
+ properties :
+  width : 362
+  height : 286
+ controls :
+  -
+    name : FI_exporter
+    identifier : 0x25e214302a39cc6a
+    internal_properties : CAAAAAgAAACGFcLMWWNpb2zNNKbFwwi63JlPg9oIQsdwX4KSuFvx8+wRjoC2SrZ3ZUVnLRcIsvy5XqJpOfOfyyryUlQDhU9SpkVeMOLPG/1W9JmsbSGZr6ndXMOGkjW+vMdrlhlGUKsVQVXMAy0hxQi3QC+4HsHcjONzfTc+z8Vni3fk4kwTjhYbdxYTdWpH0+g2yjim3bumvuH3vj77bsNkOeAjyHWfRrBoy1dHiagPZBpeL7SaNF+wDmUwiLSeHJeg2XdUwxtRgXj1LPeceCxDGLiAix3G8h4gZwlu10f64WdHA/AFatkj5n2voL6Nc/TfG78VIrhlcwRZdQvocWwHJqy3tw6L2XSinCA/IlS7Rg0+IRZzfO0UTAvLSgRIbF6SboOouT/awa6Uu3UZ5A6CmIkTy7PZxAAWztu8AWV6L7I5TCihWfgejerr/UjxbAzVgPkgD3eWKzVmnIWRAx02xdD8pcezYg==
+    properties :
+     width : 362
+     height : 286
+    controls :
+     -
+       name : BTN_enrCSV
+       identifier : 0x25e214492ab92e31
+       internal_properties : CAAAAAgAAACI/HfX7Geun/cfC8QLOxzbeUZiw33XYst0qmBEuhLxOCU36gc8MsZv4JhhkCw9fkwAevdAiAZn+oP/lOPG+jVaGmHdpCCt+NaIFff/6F3lhyC0r3VBxwGTkscZ0gQkRkP/EceFzuQat+gRPIlifmx56NkeVaUvwL9BwrNOmU6ek2nZMJSSKiJig+FwXbBa4lKfrktMw+KIezosc6VWe8rGQj+G28C6ywL+nJEB7xOA0TGHNA/nt9n7wmpVFifkoosoDgsG+PZzGkO2HDzRyaJUxZpgyHF39Zp49JJ65bO0yYlf9GaBgBxIFJWvsijXsDqmQps4i4vOm6BkKnVZ9F4pL9abNXwm5ZrKCGdYHE/eliTn5kgap6SPpH+0ioIyzadCO5aj6LL3zcL3nOrE8pskR4CZWtzSbYPZNJvNVNxqz8V9CbnUo7jELQQA1s/YhkZMFhzhrkP7z64KFr6sL3SN44M4PxbedgBWNl6gYa6OvYFEy8Caghnl1uVnzbPXGz4fKjjyPwZUH4SC4jX+lNL0CuveGRSZ5tEpiqJj7oQmOhZgEzo9x+UlwVbGmhCit3DigSpiqhjwS9BdNC8gK+qPYCC75cf/SH/Po9QGe0WTqfn9LVUZoxb6Di7FwO2Y9Rri/Rg+TDI9tQryA/3rFK7/h/OVsEUR2LhWZGw7+B1LLp0KgRVklfrXflXCHWSpHHJb+vLeeZWWF/deqZAVdHaCtb+uF+V+LZA52LL9VQ75KNbasB4DJ2hs1ZsC4nuVzpvPEfaacYg18pIPiyP2BGoqq+Ar7DUy0XaOtnxnA+2JGIbXZ00VWtIedgY99wfOkREByHuW/cd0rW3Vk0UnIrs8dg+lG9IMGIc/2xEPuDf+zF+SVz+CdPM=
+       properties :
+        x : 101
+        y : 236
+        width : 160
+        height : 33
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+           code : |1+
+            EnregistrerSousCSV()
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : LIB_info
+       identifier : 0x25e2150d2d2f2b83
+       internal_properties : CAAAAAgAAAAU7ph4uGJ+fZNsdac3S3w2dMN3YhliL2fJoB+n9rH0GSf+kGnu35y7TsiZGaP3OF8dig3m/3HQzWYa+dtTxlop9lJoftY5JA5aj6MPL9hChGmmbw/zy8LH6R1+QR5qeUsd2XrEZ7r1Zn4CFkIIaFnHqAqEwSI5nPxrJK7uu6Yg2HF3qygjkHGSud1hAOaqOln5JOmUlJh913RA/M5vykq7wOAdLVBACIBnOou/TLckJBbmyVLxCOzH7/DYc5PhcH002fQR0qs8ZGWpQj5MCEp9JWY2iVefzjd4pRCGa+t86+cvGInvvkEe35hANt5Vn7Hon3Hj93/SJPqZrNg2ExJc+KCFlMsMw/BJ0eTy9OfpSn217D0r68i15TJdCc6VsXpKVn7pHVSra3xrvH5g4qy9/TEWHagmr5bvKXAMNjypTK7LiopEnkiHbIlR7skMETD7x7+KYHpE01Wn0vJbfZ1P4V+8ZWTTNgwNmEqBXJsBMm0jU6KQXXQDeEPEqEajtRLyMUWPQkaN
+       properties :
+        x : 9
+        y : 142
+        width : 92
+        height : 49
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : SAI_destination
+       identifier : 0x25e21a2f30003a66
+       internal_properties : CAAAAAgAAAAqHXBGHJdEOFMwILXbtOxuE77G9CJjMtZ//DAzpDKnrRtrssSE+jV8Us5qpr8eSGxgalJ1qp30OICMo7xiBnckzWI36NqhoyLRXTovSX30j5REhAZ/xb0URa2lExJbVatzotLefrE7O09HtkNvtk41B0TZ0DbmR0R5Ek0mgEXco/DFMaDzXtDb6HXUuVLPDqq9z28u6+1opwa+1SkzO0F2Wp+gW+pwok0eoiOV60G9kGzBct5XnSMbXiEfd2yGILcc2YT+3NrNE1xM2qipAclHNLFl3oNdgsESEwmzE+tWbdqgCmqhq4yQ4rj84NjwxMTx+6U5501x9xzYE4giYP4g3BFVhnjYknYYSv/esvh7JOvdhjEl8SIDxdICEDn3Uvm/txwDVDQaYyZJFhTJbFHmCuTltJvdEQH/NqRdCfRYJh3UQ+uWo+tdZG8OSihjgGrHBnTrR44/zJfdy1VEt2SwgQnulOzidVluBEeEgxm38szSbFHhVsvdAHMLvCcPcixKNctWVVGg+f1Pekec59mNGLabY2FJ616f208VJ9DsF18+PnCtS/rZdK119NzCg/dPXrBEEDH3q2faEg9ZUdAiQeXJ2W4Pgxal1ymi5CtEIc0n3QHAwLzE99AL0q6PCN2eKTcdpQvEq5bJ2K+AkJHcCUjHRYWP15YP2v8nNAu8CecwazfAtTPIbWoYsne25qmoaoerlu6rcj65eHnXzaJMG8Ezw6OBUWOWHKrBWLRBXflpkU2NBOJVcvousYeWGrqq3V7tlLeV6DbQ1f4cGkKBwbk6ycv5Xi5moFkdzkKcxWydH7Ay9Y2UZYhxxo72K0wImuNVx2fswY49TtaSIRu4bBowNtMwrpaY5o+kl6alIZVBvtZ0LSDpKtwhJRdw1Gbmpd7e03AvnLm94GSJOSBRfoSDp8GlWGTcbS8BN+00keqK7ISlO2lKV34NaiD1w6ZZ5IFx4r3jfksuWQeISIq6PLzwMZnE9GTlSwE807wf4sIeEhzfMUUV3PtqcV7Stw67K0jipGhVfseFf0V9dDQw07O8uDauUDunOmq7oaMHv/knsSWf7LuOzy0uva/m4JHleEU/eM719UUC7i0JahdqLdCaQxOxvpZkQFcTdoRl60SbJ8bImsUOpeEHeu3ecKRpkLvT12UCtJ+VXCAU7lXmlJ/huY0=
+       properties :
+        x : 101
+        y : 142
+        width : 252
+        height : 65
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+     -
+       name : LIB_chemin_source
+       identifier : 0x25e21aba3029576a
+       internal_properties : CAAAAAgAAACufpaA/84u/RdqKwi3Bo0KcEvkFtJwh6LH7zCbStH6WGTRU+GeqP8uN1LHwCiazPvdRV2I5pIScPBK5PX/a2ByWoYWNAiot30vYPNKCVx3WdTEsvURjA4YmkrUXNwA/mxVAt1F1DdN5Qf1IcKgcnWVmdHoQhem6Ar5RuTIhxZkBsbsOJhjmWCp5UrIRutT7nYYLpsczLji4r9pWksAPgxEnrOoVO4tUoBCHeFTG4IVy70LIqtMlLMO2jp+wIHV6Jpp34o8cb82mV71FcxnpsZ6g/tFnnkeXb8CEqCGwTaezrSWH151s1bPB+4VMFKjyJ44ldgeq8BzWfIkj2wvhW5WDgxpuUTCnxGF0NK3iMlV5C8bo6To+zR9a6r3D87lIVZTVRN5HruejWwbBelIdguEZMt5zm08VXbU85TCT6/TOmxSevJLRb7Ix2vM+NjHvc/VTWkr2P/WWMS+ewdZq/FzDrbZBlXOU9euyXdlcpxhxUJIqa0I8jU=
+       properties :
+        x : 130
+        y : 57
+        width : 223
+        height : 77
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : BTN_ferme
+       identifier : 0x25e220eb3a8088e5
+       internal_properties : CAAAAAgAAACZQEsuOV1T0PcDzokYYuEY0rjfUMr9S8Sp/dPbLOUqoICmVsmypYSF9Qe57rkXwNqcfLdzUXitg8jpiy8l6fU3FxpCv6TwJt7cnLlxvFjD0+9rfERXNKX7fkNzvsIAv4C6k81FNQ9kA15+sDriVuNnNfnJ/FSJVpfaqWWs/noCZbzJq+75muer47P4ugt1SG+jLGafAJMXIpCseSWPYl99XWQUVj2LVAhpHmAbBEcL42tYlsTs1sVTzsGnzMJa7rjSyzLsbSah4OUwo4fT6P2P82F+kkKCQZsqfkJA5R214ZMIu3QJQ09EZu/TZMaJw0I7xfvnC9TNEYStOKbkptEGJi70Z4L9bDXfgmvjTG3oVijTrAC4vBwkK9kbQuvqGJs+1ZBLySxx+dt+U9icSBRGywZIuMD6in7Z0acuYZTdQRB0+IS/k1qvHQD0UqZVnXkRNHOVQPlb72P1n6PQarZaVMMOJ7mrXKzHTuAQRDyUxHRv15opCnIBRgpbZhOkwwiUNblsux1BwS8IlDDhnfuIXkbY3hZHWgT7o+DRXwsmG/lvb0odYCvI3vQpc5lF/x9xjzlaul38U/AvR7e9sYmY/LFMc3/+YNmg9Zl/GqLyGA2p1joyEocsbpIWdiVIVQHdolGhccRARr5bDmPdz/TD+HN0V7ALL0sOSrQ1fse7W5efVR94L3NLYy2hx1Pnk/5uXBDjw34U48Cr6yTxbYKG5Y15O6usIWPAIvK6PCMc5HfOcFjFm3kuWbQgNph/UkTk6RrfEwREdJn13EOWKvyIZ+hVq6HmHquMWRRvkCrWn/64JGryOsEIasDpmnlkX2dd0jFenEajd17eC1RNDEMc8lp8+PVVsimWrVqn7uFIfXJOqoUpEM0b75N9Nb/o1j1TxZdV0WJziZAHcIcxIY/qps1/ZIWQvKp97TROCmGpAP6M3ftyXRhYZ3cmisAkx5+gmXq7EcH7sssJenkAE1BXFXHdGCErzYEWpBoNInN9XwcYUtJsrs9cv/hs/pZVWrqghH/vHtZ4tgojRGN6O69l+ynu7lNobVXOMR4z6VfiI5tDYBK07YJ0eb5PamKU7g==
+       properties :
+        x : 317
+        y : 8
+        width : 32
+        height : 32
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            // Version 1
+            // Description 
+            // Bouton flottant d'ajout. Ce bouton est épinglé pour fixer sa position par rapport à l'écran.
+           type : 14
+         -
+           internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+           code : |1-
+            
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : LIB_info1
+       identifier : 0x25e219c22f4390dd
+       internal_properties : CAAAAAgAAABLmfvyMsm6gA00D0OKuuOK4SZOwvHLAk+AEHl1NWWbUQ39CsenIB4WHSQww93TFRIGFyS1MtY+C/BI/2Cuw6Xq1mWZoLJspaeQXkSnaq8oZwWps715h52pJ6OUCwtXEwyytKIxT00qeUQgmZ/0yMV2OOfIvN9Z0bmmoR9X5QKGvesTqnYSp8DDuB+E8/4cpZLc44LTPFPUT8Ee3hlO+dEx19GgKkG+PCVDh0QfS3q3ObeLiiovN9+aFTy93vHF0KG5OeBoN37It0lxrOARdGMXNFS0ebA2eQcKsZgLkK5Q/QWnB8nhFEuYp+ha6IJy4tks6LP2OHSj6rZli78oGtArKWHyjuWGi+wKUR3LtVxwaLYWPaFDoUKX8ZzZmrtTSUgEtMz1Ml6xWyCkt61rupZXpot+pFohWvuCPGoOEqkbpcJmLfRy93nRyM9IT3YriW9u6j2DdmObJCVgklLDynzAKnOoygKPJY1tXtLE+3VqSOf7g2WpodKEK4x5hsD3
+       properties :
+        x : 9
+        y : 57
+        width : 121
+        height : 22
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1-
+         PROCEDURE MaFenêtre()
+         
+         LIB_chemin_source = TrouveCheminSource()
+ menu :
+  name : _Menu
+  identifier : 0x25e214262a35a73e
+  internal_properties : CAAAAAgAAABrXhurcpcOujfWjMXTEXNrfPwMLqdDxnUUEKB0PKrnzZDgPou0lg0v5SQnfBovQqwf9VYg/UXEVcPzAqPKzZ8GtoerG6WK/F/SNUENuxjylxRwt783AAeW1mBLyZ2a6QAgez8ge4Y/nE68lJ8JpR9zNUQrPxhk4MjjYcgWs/jUkQQmZbxmOa5OGbhQIC5C7cwKt6IODkGtryR4IuVUp8v5EE7guzaSSGbvtN0yB7tHBGMbh1ZukU60n1VAzZGqEEibVGyp9OVt1oDjSMiG+n9alykiM0nVOMA9mIMGbg==
+  options : []
+ popup_menus :
+  -
+    name : MENU_SansNom1
+    identifier : 0x25e220c93a6801e3
+    internal_properties : CAAAAAgAAAAGLnuu0tHdY5oPEjI+SL6NhF8zVPRS67Bk5Nm6FNiAz7x7ZrvXVO45a6wPpDQBZkqw/YIuzALwipfedu5jRMTkHcq3Z4ohVXw6jOFEwlRaIFWpuLYsicO15dS2ey3aaFaF0ge3uvf7U6vvWZcuFdH4RIqFrvliVI7BkDWI83g5XQ8lDGANMnNFoV+WOcS17cDjNsqtyYwqigWhTfsu3OVQt0NJfc82Zf3QaobXjo5WqjiPScHVkV6B/tn2zYDjsMhwtrDwsJzwnslCNrQeJjH41Uav86cYRnLN7BF7ONHHnr8I9ttIQ7iX1MVB+edYEWc/kxJ/v4oyvttQjIACoxu6ihOwGNWhHGURS4bvbnGmvVJTZPbn3+SYtx7xarV0lJQ3T/5r+3DK9ISs
+    options :
+     -
+       name : OPT_SansNom1
+       identifier : 0x25e220c93a6901e3
+       internal_properties : CAAAAAgAAABHPw+AjgX47/3TFD/Y0f60zqvy2j/7Qi/S1NntP2XiopXX7u0PqrxXFVjw1cOk6Q4cL43pLfdnv+i/WcLGUllMc48iG+ryUVMMptT8zl4HIYCXhCV8z7+aqnVwV9ymRpKwkDTGw1meB7cOM75mUcLqSOQ2Y6yuKGFDXrICTG/0ZcYy71m7bImh39raCuCll8bbGjXpxb8E43kp3Y0lq0z3M447lQ7Iyi5KSXPJdQmSdSGpKXfh4YdZZkK/MKu2C4FA/yU3kZKQGRHis8tRyG+3JqwbzlrmvOG5F1aT7w5G2WekIVDLDDICnkmZPK+s+dWo6mrz+9FqhG6ZE+z5uQxz6BNes0K3zoPkQHGDbgvQivp/fHsIXWp5pAdkt7rTw77dBKngES37JXip77lQ3duOTNQ=
+       code_elements :
+        type_code : 26
+        p_codes : []
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - fr-FR
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : EnregistrerSousCSV
+     procedure_id : 1576870811548873347
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //EnregistrerSousCSV ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure EnregistrerSousCSV()
+      	cheminSource est une chaîne = TrouveCheminSource()
+      
+      	NouvChemin est une chaine
+      	NouvChemin = SAI_destination
+      
+      	//	si PAS Contient(NouvChemin, ".CSV" ) ou PAS Contient(NouvChemin, ".csv" ) alors
+      	//		ToastAffiche("Le chemin ne contient pas de fichier CSV.")
+      	//	FIN
+      
+      	//-------------------------------------------------------------------------------------------
+      	EstDeplacement est un booléen = fcopieFichier(cheminSource,NouvChemin)
+      //	info(EstDeplacement)
+      	si EstDeplacement = Faux
+      		ToastAffiche("Plantage : "+ErreurInfo())
+      	sinon si EstDeplacement = Vrai alors
+      		ToastAffiche("Enregistrement réussi")
+      	fin
+     type : 458752
+   -
+     name : TrouveCheminSource
+     procedure_id : 1578700287181631248
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // TrouveCheminSource ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure TrouveCheminSource()
+      
+      	idRapport est un entier sur 8 octets
+      	cheminSource est une chaine
+      	POUR TOUT Rapports 
+      		SI Rapports.Titre=FEN_Rapports.SAI_rapport ALORS
+      			idRapport=Rapports.IDRapports
+      		FIN
+      	FIN
+      
+      	POUR TOUT Rapports 
+      		SI Rapports.IDRapports=idRapport ALORS
+      		cheminSource = Rapports.NomDocument
+      		FIN
+      	fin
+      	
+      	renvoyer cheminSource
+      
+      
+      
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x15e2142601b0a73e
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

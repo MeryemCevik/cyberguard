@@ -1,0 +1,4 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Actifs_MesureDeSecurite		NFI		nouveau fichier
+Contrainte_MesureDeSecurite_Actifs_MesureDeSecurite		NWL	MesureDeSecurite (IDMesureDeSecurite) et Actifs_MesureDeSecurite (IDMesureDeSecurite)	Nouvelle liaison entre les fichiers MesureDeSecurite (IDMesureDeSecurite) et Actifs_MesureDeSecurite (IDMesureDeSecurite)
+Contrainte_Actifs_Actifs_MesureDeSecurite		NWL	Actifs (IDActifs) et Actifs_MesureDeSecurite (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Actifs_MesureDeSecurite (IDActifs)

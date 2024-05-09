@@ -1,0 +1,5 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+Vulnerabilite		NFI		nouveau fichier
+Vulnerabilite		FIC-	Vulnerabilite	Fichier supprimé Vulnerabilite
+Contrainte_Vulnerabilite_Menace_Vulnerabilite		NWL	Vulnerabilite (IDVulnerabilite) et Menace_Vulnerabilite (IDVulnerabilite)	Nouvelle liaison entre les fichiers Vulnerabilite (IDVulnerabilite) et Menace_Vulnerabilite (IDVulnerabilite)
+Contrainte_Vulnerabilite_Menace_Vulnerabilite		DEL	Vulnerabilite (IDVulnerabilite) et Menace_Vulnerabilite (IDVulnerabilite)	Liaison supprimée entre les fichiers Vulnerabilite (IDVulnerabilite) et Menace_Vulnerabilite (IDVulnerabilite)

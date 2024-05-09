@@ -1,0 +1,5 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Menace		TAR	290	nouvelle taille enregistrement : 290
+Menace	Description_menace	TAI+	100	la rubrique Description_menace a comme nouvelle taille 151 au lieu de 51
+Actifs		TAR	419	nouvelle taille enregistrement : 419
+Actifs	Description_actif	TAI+	100	la rubrique Description_actif a comme nouvelle taille 151 au lieu de 51

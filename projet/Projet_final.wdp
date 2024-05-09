@@ -1,0 +1,442 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Projet_final
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Application Android
+    internal_properties : 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
+    configuration_id : 5230272189297428790
+    type : 15
+    generation_directory : .\Exe\Application Android
+    version : {}
+    language : 1
+  -
+    name : Application Android1
+    internal_properties : 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
+    configuration_id : 17820759757321900921
+    type : 15
+    generation_directory : .\Exe\Application Android1
+    version : {}
+    language : 1
+  -
+    name : Application iOS
+    internal_properties : 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
+    configuration_id : 5566153720725300375
+    type : 18
+    generation_directory : .\Exe\Application iOS
+    version : {}
+    language : 1
+ elements :
+  identifier : 0x4568661201f06317
+  elements :
+   -
+     name : FEN_Inscription
+     identifier : 0x4570d78807015e54
+     internal_properties : CAAAAAgAAACLh/OXFFHZgk4/3v8DOEAgDRpQkDk2FRFLbaHG/TndM8V/2wPzHPwrLxSOaiqmUkaOlg==
+     physical_name : .\FEN_Inscription.wdw
+     type : 2
+   -
+     name : FEN_Connexion
+     identifier : 0x4570d76e06c5f913
+     internal_properties : CAAAAAgAAAAEAmxIdyyEp71iEZjd/+Ka2m8Zib7TVmRDr8XS+wuJZ5W5Wq8BzUHu4kexD5dJMacREQ==
+     physical_name : .\FEN_Connexion.wdw
+     type : 2
+   -
+     name : FEN_Menu
+     identifier : 0x457c2c3d28fe4347
+     internal_properties : CAAAAAgAAABr51O3dDF5oq5b+6huP61D30za8jNAGjlDL6cw1z/f2SPtFC/MXNF3DzSuCopGMqZu9g==
+     physical_name : .\FEN_Menu.wdw
+     type : 8
+   -
+     name : ProcéduresGlobales
+     identifier : 0x457cab44068b0f7a
+     internal_properties : CAAAAAgAAAAgHhgEo5iQSxEyYarh6ZC1VBfTC02wCEdSyrI5wURQ2NTKkP+Pt01uNuvVI+Md5dslLQ==
+     physical_name : .\ProcéduresGlobales.wdg
+     type : 7
+   -
+     name : FEN_Principale
+     identifier : 0x457cbc0c08679efc
+     internal_properties : CAAAAAgAAABxzan9Snc/cHgpnW38LhQ8rQ74eF7JGuKiNv9qdLPjbUtBmYXXKTOJHQL8xEyEfGxU3A==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : FEN_Accueil
+     identifier : 0x457c2bec288f078b
+     internal_properties : CAAAAAgAAAApJRF1su/H6PDRBDHafJkX55omfsHW4Ym3ujCvSK5slFDsvVoy/u4RlYp0TNQM9OQsNA==
+     physical_name : .\FEN_Accueil.wdw
+     type : 2
+   -
+     name : FEN_Client
+     identifier : 0x4583f21f070f82ea
+     internal_properties : CAAAAAgAAADva8fb6JWdThoeE1ipJERWyaQA0Puo4iynVoLd3lg6xiKeboSIv6BCO+DaJu7inhL6eg==
+     physical_name : .\FEN_Client.wpw
+     type : 2
+   -
+     name : FEN_Actifs
+     identifier : 0x4592f2620a7d63b6
+     internal_properties : CAAAAAgAAABCOLru3YqivQcaooolQxbPxlft5UYTPQ2j1+e4zSnr5S/3nzRIwkCCaN3HMfHvi31Hzw==
+     physical_name : .\FEN_Actifs.wpw
+     type : 2
+   -
+     name : FI_Mesure_de_securite
+     identifier : 0x45a93d7e162a64f1
+     internal_properties : CAAAAAgAAABIxrBsWwAoMzkHRV4dhDMuqA9nP44rteKnphaJ6D7WOpoEzRcC3CLTXsM9u3t1DYNN1Q==
+     physical_name : .\FI_Mesure_de_securite.wdw
+     type : 8
+   -
+     name : FI_TableauCorrespondanceAM
+     identifier : 0x45ac25ef6a66b325
+     internal_properties : CAAAAAgAAABBPbnt2oevQAjpFoxgL69nkfDosB9E4jl3wghXPMpIsAjYb8ST13hJbdLMNPz0jHxEzA==
+     physical_name : .\FI_TableauCorrespondanceAM.wdw
+     type : 8
+   -
+     name : FI_TableauCorrespondanceMV
+     identifier : 0x45ab1fedc1044354
+     internal_properties : CAAAAAgAAABp5VG1ci+HqLCAPpSH1esCm/jWDr/kHt2DX39gp593uRvlkTLT7n9Y1Uq0DJRMNKRs9A==
+     physical_name : .\FI_TableauCorrespondanceMV.wdw
+     type : 8
+   -
+     name : FEN_Gestion_Menaces_et_Vulnérabilites
+     identifier : 0x45ab06468b402459
+     internal_properties : CAAAAAgAAAByyKr+TTpyrbeDiGAO/hOmuD93L577WKanlj4ZeI6GqqpUJf8wW1tL2E23AYF/e21X3w==
+     physical_name : .\FEN_Gestion_Menaces_et_Vulnérabilites.wpw
+     type : 2
+   -
+     name : FEN_EvaluationRisques
+     identifier : 0x45aae7576d694ccd
+     internal_properties : CAAAAAgAAABAPrjkw7jwKzEAYeFgn9UAjpH9/dCdCg2PHN6BZIIKzjL4kcuphMPUVss1gwP9hXtFzQ==
+     physical_name : .\FEN_EvaluationRisques.wpw
+     type : 2
+   -
+     name : FEN_Paramètres
+     identifier : 0x45aab49a22a718ef
+     internal_properties : CAAAAAgAAABFwa3xTmtDXBQjRYMSosLvk9YSyo0Ci4iPXJzDxELQWFRIhYMRCXFrOe7o0FCAeGhQ0A==
+     physical_name : .\FEN_Paramètres.wdw
+     type : 2
+   -
+     name : FEN_SupprimerEvaluationRisqueManuelle
+     identifier : 0x45b3d33027a7f0b5
+     internal_properties : CAAAAAgAAADnY8/T0I2lRhJ2bI0DxnzDgd4ktA2irulLTaEGnYmVox2XHNTMG1V6M+jSLvbqlgrycg==
+     physical_name : .\FEN_SupprimerEvaluationRisqueManuelle.wpw
+     type : 2
+   -
+     name : FEN_AjouterEvaluationRisqueManuelle
+     identifier : 0x45b3d0f9185b4866
+     internal_properties : CAAAAAgAAAAeBHYqmcZuAcv/Nu+D0S8DMlUB0eTxnYK3WpLNKM7GSs5c7mrwYOnnrJEL9b0zz8ELCw==
+     physical_name : .\FEN_AjouterEvaluationRisqueManuelle.wpw
+     type : 2
+   -
+     name : FEN_Ajouter_Rapports
+     identifier : 0x45bcd04505e7f3ad
+     internal_properties : CAAAAAgAAAAXc3+jAH01NoKvo6xnVDOr0a70JIS/fbaOXNAALMlVQ70XtD+5DGlb41hCvka6RroCAg==
+     physical_name : .\FEN_Ajouter_Rapports.wpw
+     type : 2
+   -
+     name : ETAT_Evaluation_risque
+     identifier : 0x45bceec90a2f2662
+     internal_properties : CAAAAAgAAACehPaqGUbugUt4HlHJya/5DHmLgygNcrGDH5cAqX2fuQfrm5uXqy6YLBGLdT2zT0GLiw==
+     physical_name : .\ETAT_Evaluation_risque.wde
+     type : 3
+   -
+     name : FEN_LecteurPDF
+     identifier : 0x45ccb61075123daa
+     internal_properties : CAAAAAgAAAANCWW5BnM7ZHx9+22JIf2E85Yy6u3iqomnLozTNNLAaISYcF22x2ktIQbwyEi4QLAYGA==
+     physical_name : .\FEN_LecteurPDF.wdw
+     type : 2
+   -
+     name : REQ_EvaluationRisque
+     identifier : 0x45cc8a1e4a2993ce
+     internal_properties : CAAAAAgAAACmrI6SEU7miVOAoi6xm3JbxrsFlaks3vNLCZrwzrdlU1GtYSL2XCIA9CmTbTWrV0mzsw==
+     physical_name : .\REQ_EvaluationRisque.WDR
+     type : 5
+   -
+     name : FEN_Rapports
+     identifier : 0x45e1f64e1d921236
+     internal_properties : CAAAAAgAAADoZtDM+6AIE9k/7gruBnNVrAlrsx8PYJlOK2OTTPkT9dvHs18m///rfqMdmxvVrSPtdQ==
+     physical_name : .\FEN_Rapports.wpw
+     type : 2
+   -
+     name : FEN_Supprimer_Rapports
+     identifier : 0x45e1f31a0dc38ff1
+     internal_properties : CAAAAAgAAABAPrjkw7jwKzFHg2KYqQCEstfh8UZTUwiz8/nmB+8lK9Fd9Js7irATVss1gwP9hXtFzQ==
+     physical_name : .\FEN_Supprimer_Rapports.wpw
+     type : 2
+   -
+     name : FI_exporter
+     identifier : 0x45e214308144cc6a
+     internal_properties : CAAAAAgAAAAvKwcbqNVdDto9c7ML+aLOrc5oyA1KTFej18PcX6fvETflSwFAORfhe6Aa5q4i3tI6Og==
+     physical_name : .\FI_exporter.wdw
+     type : 8
+   -
+     name : FI_Rapports
+     identifier : 0x45e2020b21ecec6e
+     internal_properties : CAAAAAgAAAC6kOImhcJqdX+SqsskotNbGlvRyYofRUKrAZ/AdYGLba8XtzWmc4iaIAX/+bk3wzWfpw==
+     physical_name : .\FI_Rapports.wdw
+     type : 8
+   -
+     name : FEN_Utilisateur
+     identifier : 0x45f6b7640aa3447a
+     internal_properties : CAAAAAgAAACY9kBcaxAYw4n0ARa1KQkhzOmbw/h9ZHezc2d4sXUn8Q/D2+mlZc+I7lNNq2tlHZN9hQ==
+     physical_name : .\FEN_Utilisateur.wdw
+     type : 2
+   -
+     name : FEN_Annalyse_rapport
+     identifier : 0x4617873308cc9217
+     internal_properties : CAAAAAgAAAA6EGKmBULq9fx1laHjspEAHF/bQ/azyHV2gbTT1lDEJOjWIWF6Vi16nYV/eTm3Q7UfJw==
+     physical_name : .\FEN_Annalyse_rapport.wpw
+     type : 2
+   -
+     name : REQ_EvaluationRisque1
+     identifier : 0x4617928c2a06e736
+     internal_properties : CAAAAAgAAABTr4ufLBkRypdcl/kupZmqlcZg4EXqX41SegpI08PTDTvBm8w/K1FhtGxWomKeWk62vg==
+     physical_name : .\REQ_EvaluationRisque1.WDR
+     type : 5
+   -
+     name : REQ_affichage_risques_par_clients
+     identifier : 0x46178c401bb84e37
+     internal_properties : CAAAAAgAAABO1Kb6SXY+cXjxJoZ0/MVwkO2/51yRIVhKLAhEpcHTPbsXPIIl9vr2GQH7xU2Df3Fb2w==
+     physical_name : .\REQ_affichage_risques_par_clients.WDR
+     type : 5
+   -
+     name : REQ_test
+     identifier : 0x4617933b2cb28fc1
+     internal_properties : CAAAAAgAAAAnIw8TkM1lBtOY1DAet7+3PZyEnLtg3MKO9xh7mO4slGxEfxCTkYodcKgS7rYq1soyMg==
+     physical_name : .\REQ_test.WDR
+     type : 5
+   -
+     name : FEN_Aficher_rapports
+     identifier : 0x46179c366043a562
+     internal_properties : CAAAAAgAAABzz6v/TDlxqrc8gaPQ9mNOUSwIOIMoX1B3ilYBqnyWCv7SkoPNk5PB1Ey2AoJ+em5W3g==
+     physical_name : .\FEN_Aficher_rapports.wpw
+     type : 2
+   -
+     name : REQ_SansNom_Projet_final1
+     identifier : 0x46179e6667312fd8
+     internal_properties : CAAAAAgAAADtacXZ5lPbhF0W6VV9GnG8YcKsDMFOWHtWjc6IgwOLbVO53cJ8I+OX/iaQaCjYoBD4eA==
+     physical_name : .\REQ_SansNom_Projet_final1.WDR
+     type : 5
+   -
+     name : REQ_SansNom_Projet_final2
+     identifier : 0x4617a0d36f5da9fe
+     internal_properties : CAAAAAgAAAB/21dLeCWNnqvguXQLBCcCWTSggLtQ6cKK2P9ZwtQ+sgbaxuOP2KvlCDCqFp5SLqJq6g==
+     physical_name : .\REQ_SansNom_Projet_final2.WDR
+     type : 5
+  other_elements : []
+  analysis : .\Projet_final.ana\Projet_final.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ languages :
+  - fr-FR
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ rad_options :
+  internal_properties : CAAAAAgAAAB1mpstsWvVDjd5VANmkcmAaJUVy7Ld3FvARVW69JudggveVKQD4X2TXohZhN8MhELsTPks9BQCDCLs1A/ppM5AohRLYkUwkG2cXOP/fDewNuKi1MgQqXMeWzw0
+ code_elements :
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      GLOBAL
+      	//Infos de l'utilisateur connecté
+      	Id_u est un entier sur 8 octets=6
+      	Civilite_u est un entier
+      	Nom_u est une chaîne
+      	Prenom_u est une chaine
+      	Login_u est une chaîne
+      	idRole_u est un entier
+      	
+      	//Infos des mesures de sécurité
+      	Mesure0 est un booléen
+      	Mesure1 est un booléen
+      	Mesure2 est un booléen
+      	Mesure3 est un booléen
+      	Mesure4 est un booléen
+      	Mesure5 est un booléen
+      
+      //-------------------------------------------------------
+      //----------------------RAPPORT--------------------------
+      
+      idClientRapport est un entier sur 8 octet
+     type : 196608
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Application Android
+     identifier : 0x4568668404512171
+     code_elements :
+      type_code : 159
+      p_codes : []
+   -
+     name : Application iOS
+     identifier : 0x4568661201f16317
+     code_elements :
+      type_code : 159
+      p_codes : []
+   -
+     name : Application Android1
+     identifier : 0x45897c1d047807d3
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    explorer_type : windows
+    children :
+     -
+       name : Actif
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Actifs
+          explorer_type : element
+          type : 2
+        -
+          name : FI_Mesure_de_securite
+          explorer_type : element
+          type : 8
+     -
+       name : Connexion
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Connexion
+          explorer_type : element
+          type : 2
+     -
+       name : Inscription
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Inscription
+          explorer_type : element
+          type : 2
+     -
+       name : Accueil
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Accueil
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Menu
+          explorer_type : element
+          type : 8
+     -
+       name : Paramètres
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Paramètres
+          explorer_type : element
+          type : 2
+     -
+       name : Client
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Client
+          explorer_type : element
+          type : 2
+     -
+       name : Risques
+       explorer_type : custom_folder
+       children :
+        -
+          name : Gestion Menace Vulnérabilité
+          explorer_type : custom_folder
+          children :
+           -
+             name : FEN_Gestion_Menaces_et_Vulnérabilites
+             explorer_type : element
+             type : 2
+           -
+             name : FI_TableauCorrespondanceAM
+             explorer_type : element
+             type : 8
+           -
+             name : FI_TableauCorrespondanceMV
+             explorer_type : element
+             type : 8
+        -
+          name : Evaluation Risques
+          explorer_type : custom_folder
+          children :
+           -
+             name : FEN_EvaluationRisques
+             explorer_type : element
+             type : 2
+           -
+             name : FEN_AjouterEvaluationRisqueManuelle
+             explorer_type : element
+             type : 2
+           -
+             name : FEN_SupprimerEvaluationRisqueManuelle
+             explorer_type : element
+             type : 2
+     -
+       name : Rapport
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Ajouter_Rapports
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_LecteurPDF
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Supprimer_Rapports
+          explorer_type : element
+          type : 2
+        -
+          name : FEN_Rapports
+          explorer_type : element
+          type : 2
+        -
+          name : FI_Rapports
+          explorer_type : element
+          type : 8
+        -
+          name : FI_exporter
+          explorer_type : element
+          type : 8
+        -
+          name : FEN_Annalyse_rapport
+          explorer_type : element
+          type : 2
+     -
+       name : Administrateur
+       explorer_type : custom_folder
+       children :
+        -
+          name : FEN_Utilisateur
+          explorer_type : element
+          type : 2
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

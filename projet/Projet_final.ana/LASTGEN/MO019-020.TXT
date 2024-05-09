@@ -1,0 +1,7 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Utilisateur_Client		NFI		nouveau fichier
+Utilisateur_Client		FIC-	Utilisateur_Client	Fichier supprimé Utilisateur_Client
+Contrainte_Client_Utilisateur_Client		NWL	Client (IDClient) et Utilisateur_Client (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Utilisateur_Client (IDClient)
+Contrainte_Utilisateur_Utilisateur_Client		NWL	Utilisateur (IDUtilisateur) et Utilisateur_Client (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Utilisateur_Client (IDUtilisateur)
+Contrainte_Utilisateur_Client		DEL	Utilisateur (IDUtilisateur) et Utilisateur_Client (IDUtilisateur)	Liaison supprimée entre les fichiers Utilisateur (IDUtilisateur) et Utilisateur_Client (IDUtilisateur)
+Contrainte_Client_Utilisateur		DEL	Client (IDClient) et Utilisateur_Client (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Utilisateur_Client (IDClient)

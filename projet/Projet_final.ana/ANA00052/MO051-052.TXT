@@ -1,0 +1,4 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Menace_Vulnerabilite		TAR	49	nouvelle taille enregistrement : 49
+Menace_Vulnerabilite	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Menace_Vulnerabilite	Date_modification	RUB+		Date_modification est une nouvelle rubrique

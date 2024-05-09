@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Client		TAR	340	nouvelle taille enregistrement : 340
+Client	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Utilisateur_Evaluation_Risques		TAR	49	nouvelle taille enregistrement : 49
+Utilisateur_Evaluation_Risques	Date_modification	RUB+		Date_modification est une nouvelle rubrique

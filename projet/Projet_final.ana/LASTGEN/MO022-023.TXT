@@ -1,0 +1,9 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Utilisateur_Evaluation_Risque		NFI		nouveau fichier
+Utilisateur_Evaluation_Risques		FIC-	Utilisateur_Evaluation_Risques	Fichier supprimé Utilisateur_Evaluation_Risques
+Contrainte_Evaluation_Risques_Utilisateur_Evaluation_Risque		NWL	Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risque (IDEvaluation_Risques)	Nouvelle liaison entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risque (IDEvaluation_Risques)
+Contrainte_Client_Utilisateur_Evaluation_Risque		NWL	Client (IDClient) et Utilisateur_Evaluation_Risque (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Utilisateur_Evaluation_Risque (IDClient)
+Contrainte_Utilisateur_Utilisateur_Evaluation_Risque		NWL	Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risque (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risque (IDUtilisateur)
+Contrainte_Client_Utilisateur_Evaluation_Risques		DEL	Client (IDClient) et Utilisateur_Evaluation_Risques (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Utilisateur_Evaluation_Risques (IDClient)
+Contrainte_Evaluation_Risques_Utilisateur		DEL	Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risques (IDEvaluation_Risques)	Liaison supprimée entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risques (IDEvaluation_Risques)
+Contrainte_Utilisateur_Evaluation_Risques		DEL	Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risques (IDUtilisateur)	Liaison supprimée entre les fichiers Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risques (IDUtilisateur)

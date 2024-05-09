@@ -1,0 +1,4 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Utilisateur		TAR	683	nouvelle taille enregistrement : 683
+Utilisateur	MotDePasse	RUB+		MotDePasse est une nouvelle rubrique
+Utilisateur	MotDePasse	RUB-		la rubrique MotDePasse est supprimée

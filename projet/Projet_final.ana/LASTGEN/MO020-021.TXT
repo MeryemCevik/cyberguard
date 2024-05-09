@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Contrainte_Client_Utilisateur_Client		MCL	0,1->1,1	
+Contrainte_Utilisateur_Utilisateur_Client		MCL	0,1->1,1	

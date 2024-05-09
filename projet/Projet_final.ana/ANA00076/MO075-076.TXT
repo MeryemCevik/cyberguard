@@ -1,0 +1,3 @@
+//MO075-076.TXT ANA00075 TO ANA00076
+Recommandation		NFI		nouveau fichier
+Contrainte_Recommandation_Menace_Recommandation		NWL	Recommandation (IDRecommandation) et Menace_Recommandation (IDRecommandation)	Nouvelle liaison entre les fichiers Recommandation (IDRecommandation) et Menace_Recommandation (IDRecommandation)

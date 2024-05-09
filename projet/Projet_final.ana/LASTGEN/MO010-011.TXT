@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Actifs		TAR	230	nouvelle taille enregistrement : 230
+Actifs	IDClient	RUB+		IDClient est une nouvelle clé
+Contrainte_Client_Actifs		NWL	Client (IDClient) et Actifs (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Actifs (IDClient)

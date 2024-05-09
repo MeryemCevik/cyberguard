@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Utilisateur		NFI		nouveau fichier
+Client		NFI		nouveau fichier
+Role		NFI		nouveau fichier
+Vulnerabilite		NFI		nouveau fichier

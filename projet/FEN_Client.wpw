@@ -1,0 +1,521 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Client
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Client
+ identifier : 0x2583f21e04ac8106
+ internal_properties : CAAAAAgAAAC2gLEXWlQrum76djQaP8U0ccO7bnw9apaW+Vh8hthPD1IWK3hmK/pHiU+VugHOKRbe1c3NY6MO5psxl1JTUd1DYV79JUFeuzFjzmd91RvX2zQsf38vlmwXKgp2x2YC+X/XQ38/4QrjsRwQVLwESfcjP9oh6XJ9VIeeXKo6XwnvTa2aZOQA0cdyf0ZTg3Pp1RsIMVuvrvFHDviUFq/+E599K0aSTNjv+z7L3MB4IFhz21riaOaYWIdXezRDVb4fW8H1XscmYR1I6mNQduh1k268HtxCJ4niW12pkBrHoGpI5teQvF2+xtYbA5dIKLRHOGPxN8j3y5C5XhPKesH2JPhfcBWq3GsP0AVgJVShvEWbA4CINKUwi1vLn+6/HmVY/HeIic4ltZ+XD6xnn6NXqZfaFd3AsdpBxasRkCdBK5mKjRQ2UXJLRg5r4ApF8M+AdyphYbfIAcMkh4eP5QDYYEHhWaUKphESgF5E50E8Q7YidtHH5ZL/svxj+a0fBq0ko2TfN0brUJ3a0uHgSEHK9h7hOg/sSxI1Gnexv1YCvKHW4RQSQf+v+iL1M7YD7yxmpKYYoUQ+4Ayl0rOHYxqQOxNT8u9Kfbwa4eujRjldujceioiHbmiZgHj9FOM3/grpKg9lYnwTDjb+AUTO8IX05YFM3jiLKpNehSzkdm2wccN6ALCmi1TXHtUNlEfwxxWmlTJF3xaPoAF1QI/JGJ4CTNHc/zPYr/ukGF0YJjYh/cHIVS+VFJ1vr2t7PvVSjCCU2dnxQdpZiU5GNZqsvclgXxp75VPJhc1iVPKc
+ properties :
+  width : 360
+  height : 569
+  heightMin : 650
+ controls :
+  -
+    name : SAI_Type_organisation
+    identifier : 0x2583f21f0509828c
+    internal_properties : CAAAAAgAAACKoApLei7Dpr8eJlpaW1FmCbGjvajzv1E5dQ++Z0F5j4yvZ9e83j2+IYizYPO8J07WsthCmxjI/dBa2aUYTOa+qHrsnO4gxLNSFRydBqC435t2BvLUHI5ZdGvvMlq2XnZunnh9wOYUDoG0P8ALAzc2A9kwuF1++m9MJ6a+uxO+UxUKcJFW/XxVCo87X31wkxWlsXEi7+KIRdnhNQj6aAcoJtL84Yd/dnqxDcLXBx74eEqLCdCQp691aOUZ0L7NnE8mJk6RFOYbOgOPaZkTnWb5RQPi38ezeZ96odri2W3Z91W5F2tP9wjmtU9nC5H/r0tXbZqVnG+Jsj5cJ4ce3xQNPzrJs6u4I3TqNu81xgOWDKnXkm3yZ4cIrtGo6iM8g+oSLdwrAWrvqdOtWSNrCDs2rAOdb+ZWOOKmXI8rYsuV5vbx6J4IRVEfMK+8nA+YP1vYuexUEPJgy5mOy5CdHcHVKFHfDRA24gNUk+T6fbO1S3xVpR9bZrQQY8YADYjjfFVMsGTJBDkDJF3O9qdTJXc+n+lkkcQ97ocXKCaG911cfP8MCOBC8GciKkgy8XplRue87aLtsKO9P4dNTeF190CalEdgF2VReu9RrRTGtB7N0YxFDY1xbl+VE1vUoXDRSuh+r9JGiWjXrR5AEFEPY7i5KYtj/umJvfB1c53/u0qbVP+2Wg7xkTVtQ3doSlwdFecTy688uSvK7CMj1ToxAJUzSNCvkdWnV7jgwavjCBD2Usmc3EnyNi011hEmv3QiMMtwRzpIv+5orEin6vjDJxuIOTFufmuOPDtwBNAUOHuUP9gCl4Qbd/UA3IwOQ9hOqij6O49o759Z0ekBKpWM7RmWpzxMTp977XJueVrr/G27pb0o0YfNaWs+TlIHYtbsp7WhIXX5t9WAKbU0J/Oir1lQUr/QXUuGE3Y2dTLeQEE4AGBytGJjhiGBwkW/TorGe5rsjYcZ11ZGXMvVXGK0nUX/ekw2ugd6xS0gg5rLcamMOVMkcwBTq9HOz87NuC8gzUd7o/9Q8kgQ6Hwe46LLeJQIXh1tgES+SRFK9ue2jor+ElrLc+YGa6Qtd1IaZ9ImDtd0hlXyf1O1/ZZI3BjfrLERMc46528Dsko1tvx1WPm89po/WSnFoDDeCdt5Lv1FoA56hEMeelSnkIEZCcX53WlAh/sqJvHw7Dd05gWWmqfc0ol9Kk4apqkg10IKV9cHtXll7A9zuG198/3SIIKctRpBsyManpD07oW8Bjg7lYbhEViFiQ==
+    properties :
+     x : 11
+     y : 443
+     width : 328
+     height : 61
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_Activite
+    identifier : 0x2583f21f050b828c
+    internal_properties : CAAAAAgAAAAF1qehU018OKS/TLoaoip7w060BcQBtlsSqaANPd1cTrFiyfrsREKQdbEb86YEmLMcMDLkPimp6rifcwVFhqairgoB5e5fL32CAJGHqYMMFI/lWfAyDfYtyUu8QPrznN9vYGUQ7UPS1lHuhWXWIO0aFNN+Y5rwyZQ6kpJFDQFfkd1RrPl3gVtlGDbKCWhmuKlJwTE2rIBScfLPeGjztwxPM//AE48c1/jmrJvtJcqry5X53ePWv8QEWP/0pk6pojFLSC5e3Fy3EazZN2Zy5/VvPplhbuMro48yksVFZQqL0BhJB7af6iPwkls5H4UN6KdL6uebvpUIm4Qzgg01aoDxK3MFF6YNB6fLrfLrotj4Y0n4ERboeMZeJ4cc8m9h7tSBSX9CBGspZtBSx6xXbUhP2KZpxdA1qGY1nJMpY8HFdX3TDubm6wjfyh4mEqx812Z3v/yhvJAnQ/FJInw+X9HVI/sP/bXBW60SOuiCI58fkO3mHbrJJ+6sKmfIIHqlmm2xIPwosEH67MwjPtbBe5VtYrotkQaYomIjyE8PpCqyXdgLPGaMZe1RG/paB/qvvTkR5hMpc95PGf7cttXIlJHKu/gTp6sfPsqJGk78q+zwUho07f3r9MOabU9h1HtbQ7ndGc+CW/DuSTCqefyihRkstisCJIHp1IA/py54ZO7u8Q6mYxrfJyodmbu/DcdXgKZk+5DEc4vDEk93FssqLBK+UTrsKfMTKORC2yJEKd7tvc64xQVYpEaTvoXH8AXiIQ5xZZsMlQoZuM7Bcw+iewIjLg8zAmWszS/6gtUZlS/vZuU4inx5a3B65BZpIEUIo40164oimx9qRVtvD9wbd8av6tp3HmlxLmbUDx0SU4sE/A6KeOlx0SIeVDLsy+di+nrwlUqJef1d6ZuuIsblCVZnf03rtw+07EKYzSlTRTdTk7neszxHpoxpFHHQSU2SSn9/OfSHi8gfCBl7EU8BP16Gd25LLh2CVMck4YkqYBsx4qfw5bm1vJtNIEg7e39ChlWuZIU75DQdGe4e9BJOSI/54FC9tOSizW8iutaFotBSRJSnFKWXgMNh1v2+e5HpvQcvNYhN07CLS1W5EJE2Egw2vkU6ls23Id9VKEoc+1Eh0jakO7hpCjskQPlCItbpL1SXdfX20JMbPExI78e++ZfPwrsoKgpki8d5JYSRy/g93yP3bP0LqIAF85aKgK63WCUzjNCqO2fWbeoNxPRIAGo=
+    properties :
+     x : 13
+     y : 374
+     width : 328
+     height : 61
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_Denomination
+    identifier : 0x2583f21f050d828c
+    internal_properties : CAAAAAgAAADSgh+6+wNASj1Zeqz0gS018Kg7YBAIubsFB3nfDmHrOF4bEdLNMGAPVGvjhoyBksMUKJVporoQ7BlMgTpsJ/8a6I1hQ3vmYBhqk8tKqyApqNgOpnflkZiZ1KZ6VDeTBGCDkedLA6nm1DuI5qv+D5oPuXn6zwaQvy8XpLw7kyYR8gCrb6v68c3wYzWFrW+xU1w35C0nuQvtHBLc/9IG9CHfqI1lhV0TktYlV38L28KcUbr6d2Bv2PPR0gRTzvO04TGc9p8zrUIiVb4v8wuHhht+Rfi5zLl3e1ZMh6KVYbF3oMhBvqcMr86j3qF9r0E7MzMeYAaHdP2VaYkOd6wIu8sK600v9U0lDlqoayot9idVqF0LEEbyUmGT1/y2Rhg/NiD9jtWcbbJr9WS3ZzdSmI0vqtrXktxib6M/nmNWrNk/iwRWCT5JWc/bORpLLaWeDJhJLkAmNhlhbjHQOBVKO908McBFFQEjyJixugiP4lt6vnKS3Ro5k+iZopmFW9PEOBZ0Iete7xEBvpKK4JchhWF7szO4cavkFeBTu7TICd8ENncKcYHeqA6TkvUxozjro5lwrnCGzaClFqY7g/GjqcHgqwZdQY1ylK7i4OHd8BNgepebD17O/v381y2TNVLpL0H5mZvxMPwEYbRgWzWBZzXODEcS396Jbtpp0cS1o9ycX2CgAQeuBQwfYwMbvLyFIAhSlwCZ0sPZInuDxk7jcrKkAzj2Usqf5CA6oRRtCL7XjQosnfqfpArZBGvJUWQEu+rBBd/DBkw/XA6jcQRx91aTiiU1dQ4YJ++WoJdcPh/bSpUo/huO2+6OJJaVP1JwEX/r16L9sOMOy/FXI6XGB7Tj0hwN3aJXXNg+73Fr8pk6VrTw+hJk6Ro41nTyEkwcBgyObU5CfCF/7Yu6MrvAAwBxBX+BPJ4QZMDudV1sUCtHyWNeD0s4srAHmidi6uyysul9C+qUxnjhsEWDPXBYG7C0kSa/vYYw3o9Au+cvZ++XaAEK8wgm2Nsn4no52CJOmnMQEg9cw/KTU8hstqvRDHXh5C7nVSt2f0PiqoJ2ZTIsoKRnoC46erV3RIvA9n6dxw9LiRhKxoZtq5G1eLz/mo8GRa77ODsIDKJfoxeMzfIHuku5BDT+uw5EcBgdePEPlKt/HLw3be1lzWCEt2iqRPMR880oNiKP/1wC12aCKEqkGmWI4HK0Huiz59hQ2m8IA00FRlxOQeqiHlTnVRilqak7+wO+CnSOyQ==
+    properties :
+     x : 12
+     y : 305
+     width : 328
+     height : 61
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_enregistrerClient
+    identifier : 0x2583f27e0836f8b2
+    internal_properties : CAAAAAgAAAAbvxujrutEbMKrL7NOUfY/sbXCKU+DANE/u5v+J2bERSpzo9RQCpxCghssUeVOuZfJyJPE/ua/SMapgtwVTp3x7bAblc7ZdxnX7+9ps4X2z6FPJeP3cJmxdwkOHGutI7itthZoHhJwvCgls5V9VlaLrhCX++hHk8urUUwnm/hhhD/EiPbnmKf7I4++x+WnhxJSkwQmtTWbJjt8OCwQdURcNvxK5QBGBpxMacq66BljEwl8iwJF28wgZGBFNpb4HE2vzJJ4uv+9Mq2yI373hrcbfnh6CirQtFcDRtvy2qXsXOBvQaDqu0IRj89s2tEHQAuw9VQRueN7csaGzHVyLLAPaVx+AfYV7rCd88qbQIepImoA3NcpHyG7z42C0YcWU5rwnUWYEJG/lrCoovcdU7bVWMaNeXpFKc7xktC4xTSC7/Q1/b7oFp+UFPcL2owcMXtN+6/t133j8qvqxR/+OF2IZnTczbC9Fa7kPytUra/uV3eNi/4a6ggNfSKMd+E3u8STnf3+JGZRaE9gQ6XiHkQDDgpldP/9TukEm8nzzAHQtLHrQznxWlXKLk8yEg9nSXx9klbhnTe2oG7meibe+ssrmvGx0kcpKqCTBmgJ9h5CGPAzLKg20OdLZIiJ3HI/MB7rWLfLtaUt0ae4aapNny0Dq0wvIGLC32hK1ZPBXmBGowcW/dGMoJ973nEWQYthgKZDA3YCMjf1UYDgqx6bA/OZk5ACwotOEoawwfRcXuIKJyMI/rSM9DW4Up02k991hWX9OKfSOB+9rWuTH8iprfAxd916flsC5uGloej+a+BIQD5HNfxF4Ltek9a9bvqHne8J8nm/HbfiN0nR4tcmOEhQqA7EQL96DpgClrMY2YBQ4HRgPZxK0Hl6uFNfJ2ljxQXXrk/kr1/IgwmLIZtOnksjXrowzQY0o5NoDiwhkyCxQaD8c8qNHN5nb6K92g==
+    properties :
+     x : 16
+     y : 512
+     width : 320
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         EcranVersFichier()
+         CreerClient(SAI_Nom_client,SAI_Prenom_client,SAI_Email_client,SAI_Denomination,SAI_Activite, SAI_Type_organisation)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : SAI_Nom_client
+    identifier : 0x258409200e9d6068
+    internal_properties : CAAAAAgAAAAwmHgDeT3JZCp+G+wNwhyZamv+n8LvQcEB9Jew/a2u39kRXAPCdyhzGOtAZx+ywCRhhWvumK51QytbPYuAnhTnqTK3tZCSaQZUO3QDG1Ak6Wr0J/a9dj8N1sEoyuJfG5So7eVConx2EI6+2rTtI8LR0xJgP2Vr61gpkGAHB8zZq3RxPz7UUeZDNn136KvcEsblzs8+4EB7NHp+0LW+hSKdO44meNp39vd5oQAK4ysHhck817ImgThvBYJI21o1NSR98+L0OM7dR6E4VSycet6yaTz1gZNkLxspOPndZGJMh3xwZmSgUI6/mrl8tPxoxDeKHD7lgLi3HVcbcs2QMfPthH2DUDc61gTBprqDrVCgk40r0iV/vAGbaHjtXIFF5Mp2oAZuw14FF5UnHSZnV3771ptJSDUtF0NPxcIKurmGVG/6O+NsF59Ltjy72jdQhShKp2NXB0kQnDZ1biWT6a5DGYRwBz9yjcsfl7B/Y2JH63xCSycLlpggS+S5WOCbeWOi77JfGJwDMLDERTLmP+0/1UDcwrQvlTOHYVo+YdStp1ajvOy1LUofuzrZLjN2HatoX4B70SDrll58SQb22KixsnIGzZ91QwRAW7FnfnjwXwNj8TdHsPrlCQQJqmUqh2bWsqcRgKsYSZi/rzxWyyRg3DXrjLvPuwsP1Eg0VdZvSGqiRMmt/s+LIPB2cetbDLE1Z1rvhkf51JTdr0f1nVpe/ZmWaIHJWyPJaAn2g1UH924ApGd9F340zw8npjC3LXQj5V5e0Ii+ZRrFfDGqZqYEeOaKeolTEzHNqU72SETyLEpgI1OkZ6NpvtfwT6AGEwkdj8XgdVsh8v4TWzGuBe9MM1NCO4XCwmOeg7RZYefE9LzYpvGcQWxsA990x5ma6TGPmArVGEfDo39S6Oo7SCXlUrf7qRCDc5bAh3iVsD51M+DY/6M6AZIwBA8Kxyncne6chMK9wyHGX5RhQRrWGUG+W1quiO63jo3w6N9Uy/RmVPHEFSK5qOvjjLIrGmPgIQ/waianvL7RXIfKfi0SeY4zmIAyWhlxVT5lscFQqRxCHcPxdPCUmk5b/FCnDyEbxw5DOyi2t9WPPW001KmddpcxPhXdHrqG/HkOTOEhlEQExG8fwx94v8x/J7T43M3/uRFEb36T2n1al6tMC3E6BZXufWrKfP+XNTLs3ibZaXw6qdQPGeQY5XCN+HY74pK6Ym3lD+2K+dKw54HZEQ==
+    properties :
+     x : 12
+     y : 13
+     width : 328
+     height : 61
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_Prenom_client
+    identifier : 0x258409230e9f6b36
+    internal_properties : CAAAAAgAAAAsnhlqlKwjLAcIcsgjBWNlzjpT7IAumvMb0z9m9h0C22HCYxkXRr4LL4gcyVvr7gOOVs0n0nD/eJpAD/uvgArsFvamttcd2ELUUy9HHlqaoGyiiBHQMY9rtn5NQrXZI4F3ZILIJiOMaZW/2Cw97oYNzfHL+kRKg1iXGQ9av7hGMdncFxxkH9OLhVYLQs53H4euqV0MC+gBo8lWPtJsbCv0wHg+Y+ul04I0GE2zFr0nvKiHZfSnHy7/6N2zjqL4mu3SB+R7wxKYCnR+VJvk5X7i7e3Oa5o4e5Jo4OaaE9GVth/pMoYweNAq7/+Dm6GRIE0qKRnYjZtPBYeDrkx+nlRBJSN3Es6eLy/p3oZmXZ7I2wC2F6wTQjR+9JVcocxdlSBJFhVilLa7papEMl/xPWub1/Sgu5U/1ZVinPp5Yp64i/Ifr/9TLk6sTr++aWlwMo67cTQz8Z7/nEhSpPytLajMgAlem+DKX4JnsQJ7mtAkkJHOLQKnnYgJMg0ved9A90NqroiCgWvlskp/WehmPs8J1KJlGn2EmXy5qVhtvwNitNGquTG+k+Lz9a5Wk0fTco3Acj4C5NNzoJoev0Y/vJWR9Pk/tbP54J/7ziE+MLp5PzcKzo+bkaTB0sscxPLSydukAxrTjgLev20GEi5V05q7jMAIyr2+Yf1yMdkOGiZRH/RB9RFpP+PnF9WL4+ABqOLpMI1XCrijShve/L9g+UAh8ZKvKi/GiYkswZbK1CmhXqIxVWeZ9vLWqtSYgsdNGcfZ/kPUGk1EkxcA/R1TyI7Tlg+tdF9Sr4EMEreG24Zi4YgzDsswAu1di2ILPyVK3VSrqPzg4RoXNvWYoq1dR5/BUwj3O4GZeOkLro/ZdDnsQYqx74sqtL6OuI51bcJEwSpr9/Fnlv7ncSoDNZj+fvFcJHbCHQDsnZAPkJM1gxZnwjzX6B3I+MAuG5BLA+L0c/X+USW/Id7uYb0MLCqpP+1l/wvDUKqCxp/PxarKxuzs06+NXDqVRWGnX09WSCTmmYZ8YSsdvlmhaOa7b5kJfTiqZlsZyKOEV3iusGRunM5iGCH0ZzxcdVA3QyG4lyz/ocX7gOO65/Bf/UDrCiItBxh68J2prb2cF3oeEQczhwUdsLZlUqeEbfB7gA0U62lAc4C6876hXBrPaBEBG2mriT13yxBRXRkRmH4p76ln1NFkPLhw1hE3sYhfM61MkuVYRJjxmwJRRj0vzEssiIZa0cMA
+    properties :
+     x : 13
+     y : 82
+     width : 328
+     height : 61
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Particulier
+    identifier : 0x25840ab2107180f3
+    internal_properties : CAAAAAgAAABpAmWcCfPUTFJQvHYfoYfcxvCuioTqz9L7wv95I1e+oCCJc5AuVenXHMTGRBuYnCkV/pxwy99IdP9NqZz6gEfi4LNn3mK7IRrvN4b+1aZYM/FL2LEfcIyIet0mofD3VOPayN6Lax0XmwPulg923+iMrTydULSHUhjr4gjoeTkYOUO9jeCeOh/cTra0wwo02dd/Fg9poVoIrFU2LDqjbNXrXW5ojzTr8GS8cFDgoA2BcsOuac7cI4HaGTEp/wX19Agmec9YCEXzzuziUQ0m8Xb2Ef2wr94LKwXJunCEB6gAfw51ssJVmZZIvPe5IeVHxitA7RyqUxyhZ+pwEH92Y/KqSZB0pZ7YjNowolO1OjVmdN1QOum08APf4wDM9IEe3upOYIxCq16vv/B2QZnSiL9kpTrnvkKwitwtIyd3Q14JdzF/bXSOtp4gMUZyIW4QjR88EXLuSMLyTw43uiJ1k0TmY+T8/7MIl/9D0QAzEnaaRsq4VAfDIZ4syQ0btV/VwYzMHxv7Swaf69s2ucSbnezLAP6aR4a+EuxnxRO0BHrahe4PuRS18JrY78Sth3eZ25HSaqQzThiVmhRQcysyRZGW+lKbUOzEavtZlEn8/Ml8OVO/+ZeeldHlFcH/1j2316hfHybTvBSxB9QL+WIuy6bwHcdliMFhEqnzcWCgJxCpwpvKbT3LiPcx6hL193vJhhxweyQi+P4tudT/yiWCP2/gBbFVLEzcBveDPAY8MpyYy/upwp0lykaki3RIXGqCnHynD7aryWPjw7y4tFCeGJbH9rvsmKgBDiPHBtjh/vIgpDT9CTjtXwOtGlTpEQIWHYHjoBGJw3CxA+ZVHAXsKamyyNO/QnPuOtxFwnIRNW4tUdQiYn2n1/jNJ29Fqbmxjl6oAI8Rs05Tj2LbablIFzcbIio1m52HwHe6kZTBgHPCDHG2JDcz+w29eKFvhLdrNBDN+c2HsXDOPRmshSTsvNVl+j9kEw==
+    properties :
+     x : 11
+     y : 241
+     width : 133
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton simple
+        type : 14
+      -
+        code : |1+
+         SAI_Denomination.Visible=Faux
+         SAI_Activite.Visible=Faux
+         SAI_Type_organisation.Visible=Faux
+         SAI_Denomination.Etat		= Actif
+         SAI_Activite.Etat			= Actif
+         SAI_Type_organisation.Etat	= Actif
+         BTN_Particulier..CouleurFond = VioletClair
+         BTN_Entreprise..CouleurFond = GrisClair
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Entreprise
+    identifier : 0x25840ab610739055
+    internal_properties : CAAAAAgAAADtJoFhCC8azCyf+fEiRUyJCUfKHLx6xCSzL9CKeuANeoEEQjci9t8fLGEOnVojeVpyWIwn5ooGVOvgdpK+CbrFsppWONvr3qCYv+qeXN4DP1JETxwdhfp854zCXqfuKmRxhFjCv61HJaWW01i6p84ntGQwTzBcs0usBMSOStXTEPdmu3axLw4CqTF0zns3IXg9gBu9rJAQoBg58/yK+m1uHbsOXLYeVNBIj8RZw75+bCGicGxyh97RNBXHY4yIOc3Wc1TiFcMjjYSArUA0PEtnhvlzwU/+uvihZovHcLbaXKiXd0OiajbJXHIuyxpBKX4n2c8BgNN4SZc4ymrzP2nf8Rvues8YtiPphKaMeNk3tgvKqnWVjokEx5ihvA77qef/ag9qwOdbCdx0zV82AGKZuFpgRMCDgMD/2riOBqVlrGyBKyXgnF4ztZGiYS3t+/rGy9MGJwFY0VfrXdq3W7a01a2w85VMwOSPLjmxuL3jbHif/j4wY/8lCPMpBIsnDrVegRBmuirfvMDjV4Wp5bg4jl0Tz3e18mg1+2lPpH3nqttysiHDJbVc4jW3TojjqMoSakZVEog7pvC+UOGXH1hlxZIHgEpuYmVYY/yIw05UxDO6LRDOyvB4KC1LtR2TkmPcGK8kksZnPzVA7fPOO52kYuHwC22/5T8uYg/NPjrOCMMx31uBdwLqYg6Rc/gQO8hAFf+usXF32SlyPNqlMre/jyvfD9gLEvWw6VwoidWw5A03L0wNFzJ6GyGfiqlL6TSaB2ea13y0RO/ZUzUMYMByzQXOB7WswVh4lZMuD7CXdnvE4nah+tbiiqn8zS4kImygglCZLp1YKjtomJDwUC5GakS8l5+qCHZ52sqBDqzKR6Bqqnxkf100Vw7qIN9MqGQhqyLEAgLkZQ==
+    properties :
+     x : 209
+     y : 241
+     width : 132
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton simple
+        type : 14
+      -
+        code : |1+
+         SAI_Denomination.Visible		= Vrai
+         SAI_Activite.Visible			= Vrai
+         SAI_Type_organisation.Visible	= Vrai
+         SAI_Denomination.Etat=Actif
+         SAI_Activite.Etat=Actif
+         SAI_Type_organisation.Etat=Actif
+         BTN_Particulier..CouleurFond	= GrisClair
+         BTN_Entreprise..CouleurFond		= VioletClair
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : SAI_Email_client
+    identifier : 0x2584111f13c39cbf
+    internal_properties : CAAAAAgAAADHoXnNY1pzTqKvzgqFRpro8UVpOvKAzFLRIJSarU4LYmgPhZJjjCNZIS9dTrho7GgT0XE3OFFi8EEfTqqHDk7JBmrYWdvleXnJw4938to5YbEL+k7ZNeiRVhU38Pi5FMTffBwqq0MwymlOPIcdi8LPp0urkEnOFl/fAClA4XDynIHv0sdvH6Mb+02dEQ71cap0anZEKMJsNY40/DLPbEArKyMWk8pMOYfh3GM7DDAhCDYdKU+s7iaGVP08ifH//WBDJaEDgsUoOfS5j2s+X4hbJLyq2RQ39ftDmgNrIetyWfHfMiE3rhhHfeL13IJJnRje3E9iia9JtGnVsBsANuQfG9UTg/1O25buqpKugyaNhUWSjnmPRHvtD3pVtbxVzlJ/bESXCnB7hKdm8sik+4iNMrLHi1/gtNoaNUTsn+94GhfGyGHQdKcS0YF9lEMsThQwPM/CQ6VwqbdFZnqVo6KOUIeBM2WrGehYT2Ue03NVN2KIujONwKn3UkW2EpslHx/hxxUToLRVkb/vSieooeJscDptZYezYQSmQy4WMRBlHvMAbPeGJe2ZnMVcPzGgkzJxmSlwVk3xk3ZrM1P9CurhdbDpTrUTegovvxXRCCBK+E0hj6pNuSFP5i77yesVNZworI/yHD6V9RfrpbekMB7KWpunz9/aQN9Kjthzu9GLsNbwGGphmXQDa6iIitH0lI1B7TjoNOQMEGkxNUKfVsqaZd0Wh9PQpJ1WNJ/NWw5vs0KMNDw3vldUbIPVQRZyQyp1x0BzKPUBk5cxgoRmKYQqJk5iOzsgBkWA6ajJ+DXYuvzI/SCCLsxhQX9U8o61S8UJnzEf095uhkWl4TrSjv9g34NS9E91v587x2QAK74GRmIaaNZM5InqxCvAJhuH2wPtgCZW5NLoVZQUHuOvIaWBFvdb6GRm0GK/fXxAZteroX5iaQgwln1SJe8GfAdLFQK4xvgI26bB5y8FIRH8UPPIEbQuEebgNQlH2KUz63O+GAX425ef2RrRL+ARwXtbRccALiA0hP3i6OJwbOAo8vR5pvr0MdeWEJhIiSObX9f2pVu5btlGIZfDZbR3ND1ip+Kvg8bjKzq6ZKqGekv+1nATuqlQa12QjVddYoZcnoJBk3/fcTHAFbx4y61TmCwh86WW0rUp6SHiXz5187Xly5LjVFoxqUIaVPnwwZELJOU5bDfUdK8KHFiiMD3wyl8KMf5W9YaJk9KX8RpOfyTQQOeu0lY=
+    properties :
+     x : 12
+     y : 148
+     width : 328
+     height : 61
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : LIB_info
+    identifier : 0x258444130a5abe2e
+    internal_properties : CAAAAAgAAAB38h+XwDkFf4zHijnK94sSXz2GzO1TidwmhMghEI1N5NCXiTWrLr2FyTrPH2znDx0Mu54C0pmYABakniXpUNIDK7IBQR5JBXn151IsPVI1jZFStmeSrSmapVSiuFlX4YF25peZBhhIfIrOB9aB4Kxb5QOjbRuyuRHSAdMTM0eHMDchoNw2NcWzxj64bw1NU0qkHr/A2nJbDMstjt9gAovsgjZc8hGZwvieLMAQwUM5/FhQUsQW2J0utydR2i6TKvX5RTxD3C20I4Jkc8oibrH5SZLj58zbeOORXUHwWsZqhzHzfK8J6nfp8kHyDOTzzwZNtXrdaNnjqSv7SdbIPIPP7m32nZ3PhFY7STTzLRCwO5rjCq7WKsBMbPXy+HUZm/8liOT9/SNZ4rQpDVqWiy+lSHUl94Dvd6EdAb2a6XHmfBTE6B8G8Qy4igDMIdF8IeAfqD5RstFjR3c9nC8g2aKn3lW4CcsWyds9to9eFfOJtkF6Dr6L1bOVyWej4E/EHF6lFSP89QZfZNRA+y5Kox9cZZy/fexQL7XjzcRtG+yci+OAH6qaUT+Rapj+LyHfIsQi6mNU1x09TALXh9bvZY094GWq6cTZq+ghhUSE+ZfjyKnTrHfVeqaVvw==
+    properties :
+     x : 12
+     y : 217
+     width : 324
+     height : 24
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Libellé simple
+         
+        type : 14
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2583f21e04b28106
+  internal_properties : CAAAAAgAAABYGj13+tK7no5ag7wdUH4j6VCxxDP8hgAoOF6OrD8pdqSgzjFH0ORWj61UIDTXImlnskW79hcJwN+jKblom2wsSryABEXM4KF31wdtoj2nm+ztRB09xUWX8TMicyfhdKi2OLn6OxnLbfA9DYCnjTlRTjytUYiwSgNKRRh472Htf7uXO3nPeT4q90CbQtF0qP+QgO2aiF31zJaZ1Vj0SL//p6KPdxAx1dUTAeqh7f2pNIEowT/q9UHWmG7Lm4GQaOjx5FBZjwFBdR42wLaw6qTHaHBpE0UM0jdKRVL3UAK8kTNuQ+1OIRu35l3cjWuYa/PEQX8Eq65Lzg==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : MENU__Menu
+  identifier : 0x2583f21e04b08106
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAA1etd1LMC+dlxfnX0M6EgrCf/ide2p9PgAeoLuiXeZ8w2WdxX6rAuv3cFGlYDZQ26wXJBr6HpNSeUsNjteUhDcVbd44vF0bIBsUPi6Q+wkKzFSEi8BYu9Se/x0
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE FEN_Client()<§rad:1§>
+      <§rad:1§>
+      MaFenêtre.DepuisFichier()
+      BTN_Particulier..CouleurFond	= GrisClair
+      BTN_Entreprise..CouleurFond		= GrisClair
+   -
+     code : |1-
+      <§rad:1§>
+     type : 34
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 165
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 177
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 180
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 2
+  procedures :
+   -
+     name : CreerClient
+     procedure_id : 1550352545257254099
+     type_code : 14
+     code : |1+
+      // Résumé : Cette procédure permet de créer un nouveau client en vérifiant les informations saisies
+      //           telles que le nom, prénom, e-mail, et d'autres détails spécifiques à un client particulier 
+      //           ou une entreprise. Les vérifications incluent la présence d'informations obligatoires, 
+      //           la validité des données (par exemple, format de l'e-mail), et l'existence préalable du client.
+      //
+      // Syntaxe :
+      // CreerClient(<nom_client>, <prenom_client>, <email_client>, <denomination>, <activite>, <type>)
+      //
+      // Paramètres :
+      //    nom_client : Le nom du client (chaîne de caractères).
+      //    prenom_client : Le prénom du client (chaîne de caractères).
+      //    email_client : L'adresse e-mail du client (chaîne de caractères).
+      //    denomination : La dénomination de l'entreprise (chaîne de caractères).
+      //    activite : L'activité de l'entreprise (chaîne de caractères).
+      //    type : Le type d'organisation (chaîne de caractères).
+      //
+      // Valeur de retour :
+      //    Aucune
+      //
+      // Exemple :
+      //    CreerClient("Doe", "John", "john.doe@email.com", "", "", "")
+      //    (Cet exemple crée un client particulier sans informations spécifiques à une entreprise.)
+      //
+      // Particularités :
+      //    - La procédure effectue des vérifications sur la validité des informations saisies.
+      //    - Elle affiche des messages d'erreur via des toasts en cas de saisie incorrecte ou d'informations manquantes.
+      //    - Les clients sont enregistrés dans une base de données après les vérifications.
+      //    - En cas de succès, un message de réussite est affiché, sinon, une erreur est signalée.
+      //    - Les champs sont réinitialisés après un enregistrement réussi.
+      //
+      // Note :
+      //    - La procédure suppose que certaines variables (BTN_Particulier, BTN_Entreprise, Client, etc.) 
+      //      ont été déclarées et sont disponibles dans le contexte global.
+      //    - Des fonctions telles que ToastAffiche, VérifieExpressionRégulière, 
+      //      EmailVérifieAdresse, HLitRecherchePremier, HAjoute, ErreurInfo, RemettreFenAZero, etc.
+      //      sont utilisées dans la procédure et doivent être définies au préalable.
+      //    - Certaines parties du code (comme la vérification de l'existence du client) peuvent dépendre 
+      //      de l'implémentation spécifique de la base de données.
+      
+      procédure CreerClient(nom_client,prenom_client,email_client,denomination,activite,type)
+      	//variable pour savoir si les infos sont
+      	toutEstCorrecte est un booléen = Vrai
+      	
+      	//Vérification si saisie vide
+      	SI nom_client="" OU prenom_client="" OU email_client="" ALORS
+      		ToastAffiche("Veuillez remplir les champs.")
+      		toutEstCorrecte=Faux
+      		RETOUR
+      	FIN
+      	
+      	// Vérifier si le nom et le prénom ne contiennent que des lettres
+      	SI PAS VérifieExpressionRégulière(nom_client, "^[A-Za-z]+$") OU PAS VérifieExpressionRégulière(prenom_client, "^[A-Za-z]+$") ALORS
+      		ToastAffiche("Le nom et le prénom ne doivent contenir que des lettres.")
+      		toutEstCorrecte=Faux
+      		RETOUR
+      	FIN
+      	
+      	// Vérification du format du E-mail
+      	SI EmailVérifieAdresse(email_client,emailValideSyntaxe)<>emailAdresseValide ALORS
+      		ToastAffiche("L'identification saisie ne correspond pas a un E-mail.")
+      		toutEstCorrecte=Faux
+      		RETOUR
+      	FIN
+      	
+      	//Vérification si Client existe déjà
+      	HLitRecherchePremier(Client,Email_client,email_client)
+      	SI HTrouve(Client) ALORS 
+      		ToastAffiche("L'e-mail existe déjà.")
+      		toutEstCorrecte = Faux
+      		RETOUR
+      	FIN
+      	
+      	SI BTN_Particulier..CouleurFond=GrisClair ET BTN_Entreprise..CouleurFond=GrisClair alors
+      		ToastAffiche("Veuillez saisir votre fonction.")
+      		toutEstCorrecte = Faux
+      		RETOUR
+      	FIN
+      	
+      	Si BTN_Entreprise..CouleurFond=VioletClair ALORS
+      		Si denomination="" OU activite="" OU type="" alors
+      			ToastAffiche("Vous avez sélectionner Entreprise. Veuillez remplir les champs nécessaire.")
+      			toutEstCorrecte = Faux
+      			RETOUR
+      		FIN			
+      	FIN
+      
+      	//Enregistrement dans la BDD
+      	SI toutEstCorrecte=Vrai ALORS
+      		// Remplissage des champs d'édition
+      		Client.Nom_client = nom_client
+      		Client.Prenom_client = prenom_client
+      		Client.Email_client = email_client
+      		Client.Denomination			= denomination
+      		Client.Activite				= activite
+      		Client.Type_organisation		= type
+      		
+      		// Enregistrement dans la BDD
+      		HAjoute(Client)
+      		
+      		// Vérification de l'ajout
+      		SI ErreurInfo() = "" ALORS
+      			ToastAffiche("Client enregistré avec succès.", toastLong)
+      		
+      			// Récupérer l'ID du client ajouté
+      			id_client est un entier sur 8 octets = Client.IDClient
+      			
+      			//Enregistrement de la liaison Utilisateur_Client
+      			EnregistrerUtilisateurClient(id_client)
+      			
+      			//Remettre à zéro
+      			RemettreFenAZero(nom_client,prenom_client,email_client,denomination,activite,type)
+      		
+      		SINON
+      			// En cas d'erreur lors de l'enregistrement, annuler l'ajout
+      			//HSupprime(Client)
+      			ToastAffiche("Une erreur est survenue lors de l'enregistrement.")
+      		FIN
+      	FIN
+      	
+     type : 458752
+   -
+     name : RemettreFenAZero
+     procedure_id : 1550448009499226199
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // RemettreFenAZero ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure RemettreFenAZero(nom_client,prenom_client,email_client,denomination,activite,type)
+      	nom_client=""
+      	prenom_client=""
+      	email_client=""
+      	denomination=""
+      	activite=""
+      	type=""
+      
+     type : 458752
+   -
+     name : EnregistrerUtilisateurClient
+     procedure_id : 1553558661025328290
+     type_code : 14
+     code : |1+
+      // Résumé : Enregistre une liaison entre un utilisateur et un client dans la table Utilisateurs_Clients.
+      // Syntaxe : EnregistrerUtilisateurClient(clientID)
+      //
+      // Paramètres :
+      //   clientID : Entier, l'ID du client à lier à l'utilisateur.
+      //
+      // Valeur de retour :
+      //   Aucune
+      //
+      // Exemple :
+      //   EnregistrerUtilisateurClient(1)
+      
+      procédure EnregistrerUtilisateurClient(id_client)
+      	// Enregistrement dans la table Utilisateurs_Clients l'id client actuel et l'id utilisateur connecté
+      	Utilisateur_Client.IDClient			= id_client
+      	Utilisateur_Client.IDUtilisateur	= Id_u
+      		
+      	// Ajouter l'enregistrement
+      	HAjoute(Utilisateur_Client)
+      	
+      	
+      	
+      	
+      	
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x1583f14c00434ae1
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

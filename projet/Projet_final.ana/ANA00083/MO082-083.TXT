@@ -1,0 +1,3 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+Rapports		TAR	704	nouvelle taille enregistrement : 704
+Rapports	NomDocument	TAI+	450	la rubrique NomDocument a comme nouvelle taille 501 au lieu de 51

@@ -1,0 +1,7 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Rapport_Evaluation		NFI		nouveau fichier
+Rapports		NFI		nouveau fichier
+Contrainte_Rapports_Rapport_Evaluation		NWL	Rapports (IDRapports) et Rapport_Evaluation (IDRapports)	Nouvelle liaison entre les fichiers Rapports (IDRapports) et Rapport_Evaluation (IDRapports)
+Contrainte_Evaluation_Risques_Rapport_Evaluation		NWL	Evaluation_Risques (IDEvaluation_Risques) et Rapport_Evaluation (IDEvaluation_Risques)	Nouvelle liaison entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Rapport_Evaluation (IDEvaluation_Risques)
+Contrainte_Utilisateur_Rapport_Evaluation		NWL	Utilisateur (IDUtilisateur) et Rapport_Evaluation (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Rapport_Evaluation (IDUtilisateur)
+Contrainte_Client_Rapport_Evaluation		NWL	Client (IDClient) et Rapport_Evaluation (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Rapport_Evaluation (IDClient)

@@ -1,0 +1,5 @@
+//MO066-067.TXT ANA00066 TO ANA00067
+Utilisateur_Evaluation_Risque		TAR	49	nouvelle taille enregistrement : 49
+Utilisateur_Evaluation_Risque	IDEvaluation_Risques	RUB-		la rubrique IDEvaluation_Risques est supprimée
+Rapport_Evaluation		TAR	49	nouvelle taille enregistrement : 49
+Rapport_Evaluation	IDEvaluation_Risques	RUB-		la rubrique IDEvaluation_Risques est supprimée

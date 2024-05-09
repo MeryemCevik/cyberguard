@@ -1,0 +1,3 @@
+//MO085-086.TXT ANA00085 TO ANA00086
+Analyse_rapport		TAR	29	nouvelle taille enregistrement : 29
+Analyse_rapport	nombre_risque	RUB+		nombre_risque est une nouvelle rubrique

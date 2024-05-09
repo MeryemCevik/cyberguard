@@ -1,0 +1,6 @@
+//MO071-072.TXT ANA00071 TO ANA00072
+Rapports		TAR	203	nouvelle taille enregistrement : 203
+Rapports	Auteur	RUB+		Auteur est une nouvelle rubrique
+Rapports	IDClient	RUB+		IDClient est une nouvelle clé
+Rapports	Contenu	RUB-		la rubrique Contenu est supprimée
+Contrainte_Client_Rapports		NWL	Client (IDClient) et Rapports (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Rapports (IDClient)

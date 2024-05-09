@@ -1,0 +1,4 @@
+//MO061-062.TXT ANA00061 TO ANA00062
+Utilisateur_Evaluation_Risque	IDEvaluation_Risque	NNR	IDEvaluation_Risques	ATTENTION : la clé IDEvaluation_Risques a pour nouveau nom IDEvaluation_Risque
+Rapport_Evaluation	IDEvaluation_Risque	NNR	IDEvaluation_Risques	ATTENTION : la clé IDEvaluation_Risques a pour nouveau nom IDEvaluation_Risque
+Evaluation_Risques	IDEvaluation_Risque	NNR	IDEvaluation_Risques	ATTENTION : la clé IDEvaluation_Risques a pour nouveau nom IDEvaluation_Risque

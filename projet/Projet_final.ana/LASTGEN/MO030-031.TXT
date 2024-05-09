@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Actifs		TAR	310	nouvelle taille enregistrement : 310
+Actifs	Type_modele	RUB+		Type_modele est une nouvelle rubrique
+Actifs	Systeme_d_exploitation	RUB+		Systeme_d_exploitation est une nouvelle rubrique

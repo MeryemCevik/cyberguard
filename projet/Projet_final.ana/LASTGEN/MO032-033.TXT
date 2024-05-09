@@ -1,0 +1,7 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+MesureDeSecurite		TAR	22	nouvelle taille enregistrement : 22
+MesureDeSecurite	Donnees_Perso	RUB+		Donnees_Perso est une nouvelle rubrique
+MesureDeSecurite	Secu_double_authentif	RUB+		Secu_double_authentif est une nouvelle rubrique
+MesureDeSecurite	Antivirus	RUB+		Antivirus est une nouvelle rubrique
+MesureDeSecurite	Maj	RUB+		Maj est une nouvelle rubrique
+MesureDeSecurite	Politiq_acces	RUB+		Politiq_acces est une nouvelle rubrique

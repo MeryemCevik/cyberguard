@@ -1,0 +1,11 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Role		TAR	127	nouvelle taille enregistrement : 127
+Role	IDUtilisateur	RUB+		IDUtilisateur est une nouvelle clé
+Evaluation_Risques_Auto		TAR	21	nouvelle taille enregistrement : 21
+Evaluation_Risques_Auto	Niveau_risque	RUB+		Niveau_risque est une nouvelle rubrique
+Evaluation_Risques_Manuelle		TAR	33	nouvelle taille enregistrement : 33
+Evaluation_Risques_Manuelle	Probabilite	RUB+		Probabilite est une nouvelle rubrique
+Evaluation_Risques_Manuelle	Gravite	RUB+		Gravite est une nouvelle rubrique
+Evaluation_Risques_Manuelle	Impact	RUB+		Impact est une nouvelle rubrique
+Evaluation_Risques_Manuelle	Niveau_risque	RUB+		Niveau_risque est une nouvelle rubrique
+Contrainte_Utilisateur_Role		NWL	Utilisateur (IDUtilisateur) et Role (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Role (IDUtilisateur)

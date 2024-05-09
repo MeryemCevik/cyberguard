@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Utilisateur		TAR	267	nouvelle taille enregistrement : 267
+Utilisateur	Mdp	CNW	Mot de passe$Chaîne	la rubrique Mdp a pour nouveau type Mot de passe

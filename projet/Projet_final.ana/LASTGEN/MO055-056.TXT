@@ -1,0 +1,3 @@
+//MO055-056.TXT ANA00055 TO ANA00056
+Evaluation_Risques		TAR	117	nouvelle taille enregistrement : 117
+Evaluation_Risques	IDClient	RUB-		la rubrique IDClient est supprimée

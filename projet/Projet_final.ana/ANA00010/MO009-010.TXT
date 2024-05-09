@@ -1,0 +1,7 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Utilisateur		TAR	700	nouvelle taille enregistrement : 700
+Utilisateur	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Utilisateur	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Role		TAR	135	nouvelle taille enregistrement : 135
+Role	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Role	Date_modification	RUB+		Date_modification est une nouvelle rubrique

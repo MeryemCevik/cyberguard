@@ -1,0 +1,8 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+Evaluation_Risques1		NFI		nouveau fichier
+Evaluation_Risques		FIC-	Evaluation_Risques	Fichier supprimé Evaluation_Risques
+Contrainte_Menace_Evaluation_Risques		DEL	Menace (IDMenace) et Evaluation_Risques (IDMenace)	Liaison supprimée entre les fichiers Menace (IDMenace) et Evaluation_Risques (IDMenace)
+Contrainte_Actifs_Evaluation_Risques		DEL	Actifs (IDActifs) et Evaluation_Risques (IDActifs)	Liaison supprimée entre les fichiers Actifs (IDActifs) et Evaluation_Risques (IDActifs)
+Contrainte_Evaluation_Risques_Utilisateur_Evaluation_Risque		DEL	Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risque (IDEvaluation_Risques)	Liaison supprimée entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risque (IDEvaluation_Risques)
+Contrainte_Client_Evaluation_Risques		DEL	Client (IDClient) et Evaluation_Risques (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Evaluation_Risques (IDClient)
+Contrainte_Evaluation_Risques_Rapport_Evaluation		DEL	Evaluation_Risques (IDEvaluation_Risques) et Rapport_Evaluation (IDEvaluation_Risques)	Liaison supprimée entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Rapport_Evaluation (IDEvaluation_Risques)

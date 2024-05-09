@@ -1,0 +1,4 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+Utilisateur_Evaluation_Risque		FIC-	Utilisateur_Evaluation_Risque	Fichier supprimé Utilisateur_Evaluation_Risque
+Contrainte_Utilisateur_Utilisateur_Evaluation_Risque		DEL	Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risque (IDUtilisateur)	Liaison supprimée entre les fichiers Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risque (IDUtilisateur)
+Contrainte_Evaluation_risque_Utilisateur_Evaluation_Risque		DEL	Evaluation_risque (IDEvaluation_risque) et Utilisateur_Evaluation_Risque (IDEvaluation_risque)	Liaison supprimée entre les fichiers Evaluation_risque (IDEvaluation_risque) et Utilisateur_Evaluation_Risque (IDEvaluation_risque)

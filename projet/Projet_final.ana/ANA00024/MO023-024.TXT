@@ -1,0 +1,28 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Vulnerabilite		TAR	186	nouvelle taille enregistrement : 186
+Vulnerabilite	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Vulnerabilite	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Menace		TAR	190	nouvelle taille enregistrement : 190
+Menace	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Menace	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Actifs		TAR	208	nouvelle taille enregistrement : 208
+Actifs	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Actifs	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Evaluation_Risques		TAR	125	nouvelle taille enregistrement : 125
+Evaluation_Risques	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Actifs_Menace		NFI		nouveau fichier
+Vulnerabilite_Menace		NFI		nouveau fichier
+Types_actifs		TAR	135	nouvelle taille enregistrement : 135
+Types_actifs	Catégorie_types_actifs	RUB+		Catégorie_types_actifs est une nouvelle rubrique
+Types_actifs	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Types_actifs	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Actifs_Menace		FIC-	Actifs_Menace	Fichier supprimé Actifs_Menace
+Vulnerabilite_Menace		FIC-	Vulnerabilite_Menace	Fichier supprimé Vulnerabilite_Menace
+Contrainte_Menace_Actifs_Menace		NWL	Menace (IDMenace) et Actifs_Menace (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Actifs_Menace (IDMenace)
+Contrainte_Actifs_Actifs_Menace		NWL	Actifs (IDActifs) et Actifs_Menace (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Actifs_Menace (IDActifs)
+Contrainte_Menace_Vulnerabilite_Menace		NWL	Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)
+Contrainte_Vulnerabilite_Vulnerabilite_Menace		NWL	Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)	Nouvelle liaison entre les fichiers Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)
+Contrainte_Menace_Actifs		DEL	Menace (IDMenace) et Actifs_Menace (IDMenace)	Liaison supprimée entre les fichiers Menace (IDMenace) et Actifs_Menace (IDMenace)
+Contrainte_Actifs_Menace		DEL	Actifs (IDActifs) et Actifs_Menace (IDActifs)	Liaison supprimée entre les fichiers Actifs (IDActifs) et Actifs_Menace (IDActifs)
+Contrainte_Vulnerabilite_Menace		DEL	Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)	Liaison supprimée entre les fichiers Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)
+Contrainte_Menace_Vulnerabilite		DEL	Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)	Liaison supprimée entre les fichiers Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)

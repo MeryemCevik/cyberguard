@@ -1,0 +1,4 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+Rapport_Evaluation		TAR	65	nouvelle taille enregistrement : 65
+Rapport_Evaluation	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Rapport_Evaluation	Date_modification	RUB+		Date_modification est une nouvelle rubrique

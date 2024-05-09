@@ -1,0 +1,9 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Utilisateur		TAR	250	nouvelle taille enregistrement : 250
+Utilisateur	Civilite	RUB+		Civilite est une nouvelle rubrique
+Utilisateur	Prenom_utilisateur	RUB+		Prenom_utilisateur est une nouvelle rubrique
+Utilisateur	IDRole	RUB+		IDRole est une nouvelle clé
+Role_Utilisateur		FIC-	Role_Utilisateur	Fichier supprimé Role_Utilisateur
+Contrainte_Role_Utilisateur		NWL	Role (IDRole) et Utilisateur (IDRole)	Nouvelle liaison entre les fichiers Role (IDRole) et Utilisateur (IDRole)
+Contrainte_Role_Utilisateur		DEL	Role (IDRole) et Role_Utilisateur (IDRole)	Liaison supprimée entre les fichiers Role (IDRole) et Role_Utilisateur (IDRole)
+Contrainte_Utilisateur_Role		DEL	Utilisateur (IDUtilisateur) et Role_Utilisateur (IDUtilisateur)	Liaison supprimée entre les fichiers Utilisateur (IDUtilisateur) et Role_Utilisateur (IDUtilisateur)

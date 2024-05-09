@@ -1,0 +1,3 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+Rapports		TAR	194	nouvelle taille enregistrement : 194
+Rapports	Rapport	RUB+		Rapport est une nouvelle rubrique

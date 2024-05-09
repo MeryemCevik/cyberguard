@@ -1,0 +1,10 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+Actifs_Menace_Vulnerabilite		TAR	57	nouvelle taille enregistrement : 57
+Actifs_Menace_Vulnerabilite	IDActifs	RUB+		IDActifs est une nouvelle clé
+Actifs_Menace_Vulnerabilite	IDMenace	RUB+		IDMenace est une nouvelle clé
+Actifs_Menace_Vulnerabilite	IDVulnerabilite	RUB+		IDVulnerabilite est une nouvelle clé
+Actifs_Menace_Vulnerabilite	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Actifs_Menace_Vulnerabilite	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Contrainte_Actifs_Actifs_Menace_Vulnerabilite		NWL	Actifs (IDActifs) et Actifs_Menace_Vulnerabilite (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Actifs_Menace_Vulnerabilite (IDActifs)
+Contrainte_Menace_Actifs_Menace_Vulnerabilite		NWL	Menace (IDMenace) et Actifs_Menace_Vulnerabilite (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Actifs_Menace_Vulnerabilite (IDMenace)
+Contrainte_Vulnerabilite_Actifs_Menace_Vulnerabilite		NWL	Vulnerabilite (IDVulnerabilite) et Actifs_Menace_Vulnerabilite (IDVulnerabilite)	Nouvelle liaison entre les fichiers Vulnerabilite (IDVulnerabilite) et Actifs_Menace_Vulnerabilite (IDVulnerabilite)

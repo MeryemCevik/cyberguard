@@ -1,0 +1,3 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+MesureDeSecurite		TAR	23	nouvelle taille enregistrement : 23
+MesureDeSecurite	Secu_mdp	RUB+		Secu_mdp est une nouvelle rubrique

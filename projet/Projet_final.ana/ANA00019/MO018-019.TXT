@@ -1,0 +1,6 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Actifs		TAR	192	nouvelle taille enregistrement : 192
+Actifs	IDTypes_actifs	RUB+		IDTypes_actifs est une nouvelle clé
+Actifs	Type_actif	RUB-		la rubrique Type_actif est supprimée
+Types_actifs		NFI		nouveau fichier
+Contrainte_Types_actifs_Actifs		NWL	Types_actifs (IDTypes_actifs) et Actifs (IDTypes_actifs)	Nouvelle liaison entre les fichiers Types_actifs (IDTypes_actifs) et Actifs (IDTypes_actifs)

@@ -1,0 +1,14 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+Utilisateur_Evaluation_Risque		TAR	53	nouvelle taille enregistrement : 53
+Utilisateur_Evaluation_Risque	IDEvaluation_risque	RUB+		IDEvaluation_risque est une nouvelle clé
+Rapport_Evaluation		TAR	53	nouvelle taille enregistrement : 53
+Rapport_Evaluation	IDEvaluation_risque	RUB+		IDEvaluation_risque est une nouvelle clé
+Evaluation_risque		TAR	125	nouvelle taille enregistrement : 125
+Evaluation_risque	IDMenace	RUB+		IDMenace est une nouvelle clé
+Evaluation_risque	IDActifs	RUB+		IDActifs est une nouvelle clé
+Evaluation_risque	IDClient	RUB+		IDClient est une nouvelle clé
+Contrainte_Menace_Evaluation_risque		NWL	Menace (IDMenace) et Evaluation_risque (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Evaluation_risque (IDMenace)
+Contrainte_Actifs_Evaluation_risque		NWL	Actifs (IDActifs) et Evaluation_risque (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Evaluation_risque (IDActifs)
+Contrainte_Client_Evaluation_risque		NWL	Client (IDClient) et Evaluation_risque (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Evaluation_risque (IDClient)
+Contrainte_Evaluation_risque_Utilisateur_Evaluation_Risque		NWL	Evaluation_risque (IDEvaluation_risque) et Utilisateur_Evaluation_Risque (IDEvaluation_risque)	Nouvelle liaison entre les fichiers Evaluation_risque (IDEvaluation_risque) et Utilisateur_Evaluation_Risque (IDEvaluation_risque)
+Contrainte_Evaluation_risque_Rapport_Evaluation		NWL	Evaluation_risque (IDEvaluation_risque) et Rapport_Evaluation (IDEvaluation_risque)	Nouvelle liaison entre les fichiers Evaluation_risque (IDEvaluation_risque) et Rapport_Evaluation (IDEvaluation_risque)

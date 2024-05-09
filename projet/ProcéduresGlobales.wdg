@@ -1,0 +1,73 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : ProcéduresGlobales
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x157cab400031ff7c
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  type_code : 31
+  p_codes : []
+  procedures :
+   -
+     name : EnregistrerMesuresDeSecurite
+     procedure_id : 1560910390914272764
+     type_code : 15
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // EnregistrerMesuresDeSecurite ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure EnregistrerMesuresDeSecurite()
+      
+      //Déclaration
+      idMesureSecurite est un entier sur 8 octets	
+      
+      // Remplissage des champs d'édition
+      MesureDeSecurite.Secu_mdp				= FI_Mesure_de_securite.SEL_mdp
+      MesureDeSecurite.Politiq_acces			= FI_Mesure_de_securite.SEL_acces
+      MesureDeSecurite.Secu_double_authentif	= FI_Mesure_de_securite.SEL_anthentif
+      MesureDeSecurite.Antivirus				= FI_Mesure_de_securite.SEL_antivirus
+      MesureDeSecurite.Maj					= FI_Mesure_de_securite.SEL_maj
+      
+      // Enregistrement dans la BDD
+      HAjoute(MesureDeSecurite)
+      
+      SI ErreurInfo() = "" ALORS
+      	ToastAffiche("Utilisateur enregistré avec succès.", toastLong)
+      	
+      	// Récupérer l'ID de cet enregistrement
+      	idMesureSecurite = MesureDeSecurite.IDMesureDeSecurite
+      	
+      SINON
+      	// En cas d'erreur lors de l'enregistrement
+      	ToastAffiche("Une erreur est survenue lors de l'enregistrement.")
+      FIN
+      
+      RENVOYER idMesureSecurite
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : COL_SansNom1
+resources :
+ string_res :
+  identifier : 0x157cab400030ff7c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

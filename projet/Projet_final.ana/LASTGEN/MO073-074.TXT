@@ -1,0 +1,8 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+Menace_Recommandation		TAR	49	nouvelle taille enregistrement : 49
+Menace_Recommandation	IDRecommandation	RUB+		IDRecommandation est une nouvelle clé
+Menace_Recommandation	IDMenace	RUB+		IDMenace est une nouvelle clé
+Menace_Recommandation	Date_creation	RUB+		Date_creation est une nouvelle rubrique
+Menace_Recommandation	Date_modification	RUB+		Date_modification est une nouvelle rubrique
+Contrainte_Recommandation_Menace_Recommandation		NWL	Recommandation (IDRecommandation) et Menace_Recommandation (IDRecommandation)	Nouvelle liaison entre les fichiers Recommandation (IDRecommandation) et Menace_Recommandation (IDRecommandation)
+Contrainte_Menace_Menace_Recommandation		NWL	Menace (IDMenace) et Menace_Recommandation (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Menace_Recommandation (IDMenace)

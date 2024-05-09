@@ -1,0 +1,8 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+Actifs_Menace_Vulnerabilite		NFI		nouveau fichier
+Actifs_Menace		FIC-	Actifs_Menace	Fichier supprimé Actifs_Menace
+Vulnerabilite_Menace		FIC-	Vulnerabilite_Menace	Fichier supprimé Vulnerabilite_Menace
+Contrainte_Menace_Actifs_Menace		DEL	Menace (IDMenace) et Actifs_Menace (IDMenace)	Liaison supprimée entre les fichiers Menace (IDMenace) et Actifs_Menace (IDMenace)
+Contrainte_Actifs_Actifs_Menace		DEL	Actifs (IDActifs) et Actifs_Menace (IDActifs)	Liaison supprimée entre les fichiers Actifs (IDActifs) et Actifs_Menace (IDActifs)
+Contrainte_Menace_Vulnerabilite_Menace		DEL	Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)	Liaison supprimée entre les fichiers Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)
+Contrainte_Vulnerabilite_Vulnerabilite_Menace		DEL	Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)	Liaison supprimée entre les fichiers Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)

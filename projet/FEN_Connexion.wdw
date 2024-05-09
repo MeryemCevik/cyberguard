@@ -1,0 +1,260 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Connexion
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Connexion
+ identifier : 0x2570d76e05d2f913
+ internal_properties : CAAAAAgAAAAXRyTdvkSwLTX+wttW9+FxdfOsYq4JKI4rMzFmTAZ+B/dXXXvnUBUiQtmPIZsmp8Otcvb9EligeIEZy/xYlmA5V3o42XrbkMBHd0rO1dil9e9/Sace4FH1wkplqtOGaICD/yOASPr3xbGOqbp6YjsgjGpUw0Ise7/vAGw/My9xbZI3Jh1ghcRZp6Nl9ETpp/+Z7rD1m4F43GL3T1+95m18PN1Besi09YKZ5MTcMn4GpPUpF6PH9OAfQTZ/qYd1crD4p/FjTgRGFvAwTzvQlihJCAPsX8mLTVB3+gnR9yGJicwaqnqmBIUUjUSMmFb5+jV1wSxGDuES6vNpcVqxMyuenmLdLmqA0xNWVnq/hj0IHtJyEWvcVuP1HDma3ztNP34kY7TguRbDlJVTRGuwYIAE10JjoPJxBLkyqD/2zSR4qfzbfnRt7BLS4WrnRhtU3UIeCeVSZaXS8C6rA7E/L8QyKq/0p2pY47+zHwM6KUESSrhq2FnlIz8rQ+K3JLt3+VtcwvYLpF+9+kXo1Rs2H4t0aww0tViZS7qeMGNgJFKPxtNnGtP7XtG1/hbtYU3O687sbVWSXbp33dvLjepttvA+SHznUglsleIZFdDIpX6IUlTgHAirLKFIQ0HEu2kVaEj/155n8tXCjhEPVgz93mXkchuABJN/vE5BdfHgyFT7GbHpvtK2fSQyxfjX4S5aD/gwQonerBG1g4LgyItiIR055VNizQdjrtDbjWbVrG3YUQG+siTtx70FVXOHyKpB341fuUGWjeXvVT8=
+ properties :
+  width : 360
+  height : 331
+  heightMin : 412
+ controls :
+  -
+    name : BTN_Se_connecter
+    identifier : 0x2570d76e05d5f913
+    internal_properties : CAAAAAgAAAC05kDcWwU2PRx5mQWBk7prOa3aU17gXm2fUBJ7uT50KG+WeRyOFRrd1f2T24xlVoHp8ia3sfMGzykjFkO64d6xKe8Z+wk9NAE4TgT+VA+EDnD8oTR7l/A7XZqAyzT4n6IK/rYqxxwFpRCohmGWRWSqeU+maU3kiXvWjLO0cgwfmNjJc6tiGyA0WFCVHowelqmFlBvH2Nj8y2TBn3tHtCvrPbUBbudVmwk0MAUTw2wMjLoP6OO2SbQophYVPJaI/m+FchSw8JHh9hMsg0xXZlGFINKwVkjWNDuFLC9kpimGhoadg5BM+eJZIfW0tL3jbunKn9INX4UvFsz4eMfSxJ6BBxLkTSTrVkQvgcatsC8PwNRW8quzgQ1Xba++L3+mxcwWi6Nkbr83ior2YglJJ+TD/rSX6YQ7MVJjQIyCZdR4lbJDb47WVLeMxqV3hPjob/G3zU0BafOjmqF8aekahIeCFMJezU5b2NPbtoIPuoKH9gT+/lXPdU/SDNnLwi5KuI+MSpBtkbGAOZoD/pzTDUG2IyPkjyikQco7emi+qaShU24A0pQyGbhPoQLBzYSSjj/uyxGgkvrtWVH5GVnrfUjmNyJopTj4tS1u4f9826k7V+HgQ4O3H6qMI69oL49iIQXQbV6+xkw46g4v4A1qQvIO1HnCn7fthqGJzKKcC9PX8gR/dGwdHyKsMWwpAAzgHQlkWF11o0bwmlnZpLVyLNj8ZNHDolXE2s5K6/KsrLQuA99gROQOImVoiFt8e8UfaUHZEPEe7qE5KZFJCVa8Fx3UOHYb7RchU5zBu1rw9ae/S26T0cG+R2+ip8ySNZCq1xIZezYTDMLxZ72YITCfPrWPx12Na2m0kZ2yGTamjrWLjQO0ktkHGzC3+ZTXHmufUy+Mk81sdZiB8roKBVgIMB1VEoSYtoi1vqZlIzk+0uFwi2rGRXjcz42UWNtmcQ==
+    properties :
+     x : 14
+     y : 223
+     width : 320
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         EcranVersFichier()
+         ConnecterCompte(SAI_Email,SAI_MotDePasse)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : SAI_Email
+    identifier : 0x2570d872065bf304
+    internal_properties : CAAAAAgAAAAO6RrUHIcYnrrdckKy6sS0Md4hMZKm/BP9s5IJ+InkQJn8p1SDLxTvkhxLAwTJOXWbZgAxDk8Z+77bmu4wgQGMgpGswDE427Sptb+JiNL5Ui8Fz1UXh5eLuma+GH3Ju2wkS1VRA8bE65JbNlsm/fmQlqEh6yrknpNUS7LfqeJ6MrLwIjXhgFUR9T8u/2Qc8zV4CO3Fr9Vnx7TBs2P1UsdIbrn7PkTKRns8ZIxgYzkM4E9lfbJ3nEVdtZhEVNTmIXmX9OaFR7sDEqGqAjHNPJgCxZ8uyrn/y5Cn4B3aJqLVFDdV3+C1y5c57fkiyLt0Ka88vNoHynmZRzjIEcOIR4IJjv7nSVKDGajTuGdDfOGP1mc3rbJgfxxSRsfstCsivqQR+G+gKqcKQGDvYPp9YbF+p4JWLe24XkTJYcSj+V/+45s29u7eUMotfEEeA5bjujPyNHVM62YFAeT1WMbAQOm4tADiHY6443ZXUp25MlwKDe/LayBaJURuhjRv9fmiPItsZJyPAzK6OMnmROqJdwHmmM7GSVd+mO5E1m+KhHGGh6r8FPWC1mcXkz9eZSstFvo89cFlqoXKlhcpM5aCIFvjW2ZvOSDyPd+nrcoEWH4DuoSaTlRUB0Tl7o7De79sHRSIjigQ/jX4JVbY5Z8LU/Oor/dM7Fer/H0jY4BBodCmJ5DBhE7zIWEfDHdwgScFqxnWYBL+G+Y75kpquy3fjJjTOCb4otQuTQIlTZ89/GJnv5q8y/Wxffnw+iT2HOvQmYUG8SNGQvmRnCTWb4O4mzxx2bPB0STOA8WEmyskEr2GGXPCdhG6Xsyta5hEcZQaWGfM5VJUhv1AQ8xbiFw463lv+mBOddmjLiQRwATRuMvYMNVXJ/JVkYLfUwEs0ueZZsPup8gRt3UUoY2pz9lzM9EQLCeQ10tMsrUq70bFSVeQ+gQq4abZEYJtULfyUyodh2na9HmuO1vnkIiDiBdpQ6beAFd311scfjXmuV0sl+H+5WYJZePXx0Ur0ldEOEKMGAueuF6gcTbsHQKUkGCR4WIlVItNhaL4t2gmu1c4Z/g3K226JQXNyECcUwRQKnjBNKdr63anAOMotnN72q3ZjcuXgPoJ65R9N9r0K7StoHKdl/jSiQP8qDMOom3nC+MjQtuK1GU+74ou6WFc9shPFLiU8QqnD1OEry3TrSyhqyi3vRdZ/VRITch1SX0fs8BviNhETy1tYoL1EAFY/zF9+3E=
+    properties :
+     x : 14
+     y : 15
+     width : 328
+     height : 67
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_MotDePasse
+    identifier : 0x2570d88a065f5095
+    internal_properties : CAAAAAgAAADMv2u9DiDUOSyI5oRnlx5w+ooBJ1c9BegfplqykErnPRaEcm/wXPBCFUazXGBgInxRC+6k2AJZRpnuIqJaU+ltJaSx1nHlAqnyvp5sifFsjoJl19Imb/7EnO1rqGsd8K9TbDyoJg1ZSnPgNRJgLdM4tzzL5hnxVnSArbQ9fcvTbBqqTKmSgqGuKgqKeJXiJskj9QUtAmMKQIH5mjx0vp8KGLreQ9rWUX30JpVayTI2HXh1+i37Ls0n7Dw3S4waC++pEij3bg51hTeKOoDVik3gfqljAj5HjlM+OTlV314l1nkwM25Oe2i08cF9EcBDRR/YfY3A/dvR0QmJarkyPbCCzhH2rDhOcomgxwP/0iHb36ja9OviroVKSk+HNKCG4DGjpabjI24FtJvWFXsqgLanPPXq8hsOrTmauvXotb1nHS/5bD1sY7z4p7YOoMEJ7+pyK7F9S2Ptrbd+cjr877qXAYYDld3HxCM7lrG/YxtSLThciz6JoX5ZQmKIQ6u6YbLKGKPLcMRtp4gOJ/mALGrOtxSD7RgiaFqw/KXxKWEFMHHDIpLuKIc+A89S0ZmLrb+SF11D9NFrOBaR7wEDf+o+r04kx9TkcdxGozVZPC0NijEZl9WLP6d6opyo9ONrZZAMcCWQ5PfO0Qprb6ETaU9wft7O6GZb4d7SHVd2Tvi4Q1jAwA3TM13mw1LDdAat3rGbicUzX1eupILdCUfSsJ7kiBon7guiwrLNczM6nyqgPgTXR1ipE/PiZcHSemidzdWk6dQvGwNNbueJGEfHTtdoBMAzj8kvZghxS99mAs1Tyo21zlUUPtbp42IwMvIUKPm+LLLXEIBJgWzHfl4Dt6laNVieLD+0PqDohmMd3+cKnOfIJz4BGKLo2QijxRVMq/M8YwbO0a7u+AgqG3b5deKzbMuE8TKNfgxttuDxX05GzdBXrD4xyKGynsosTGR3iuGC8aWmQzmt9IY12IGvkYbuNUHSPxou41jE8tnFH1jYh1ZK8rwprkW3UaVlOYW250m0J5N9w2Cm9rLh+S4UQnYZG/Y614YPnjTqg9btjqByCq/t0xZ5bZpjlppg/fLIazAXT7/iP3UdRe4CbTp7079AQ6ho0B93oEGHgw6A7SjzjncYrnJ6Me9y0ZOsBN835wOeDW5rj4NjZiv/cKJmp7Izqxwq79SutnVwirIl0KNSVxpWK2M0coWFUmS7QStY7TT7tNWAAesYhsMTWkQBNgQ58L+FbUkdv0I=
+    properties :
+     x : 10
+     y : 117
+     width : 332
+     height : 67
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : LIB_login
+    identifier : 0x257c25790904d72e
+    internal_properties : CAAAAAgAAACwJ42cqlrIIFJFQ56PiV5MrCOy0zR1ZMQYY5dHg5s5/XIEmDbLDCyk95kKyY9L/6IRIb8EBeJM7JpUYOAflYznE1WqhZCGt1nxsZl3W9N+pL+dQrzHlQcd58at58kOgSDAREKkFCqs18dEtyWKwIpICcOwtyX3cOr/sAfLkVKly/0DgAQrmwGBrkOa/QLADz4iy993/RxG36SKSF+EqhtMu021Lwos0L087aN096N/xJGQeRwD/T7gVqpmkSH5tC1BJQ2lqW5ZivwcGSpDG0rAUoWSthe5ii5Ko4x1CbLFyuNE74m5hgXGiM/BokDB9gb7x973YfK7TWitNSwKVI/WUjhlnyykF5G7rRmSCLw6J6/+fWow5SZNMBVAe+XPlhwlU5Z+6V/1RtRdYOGZY5wYfEqEOT96hpiHDihgdEilh+3j3Sg3sl0WehAegbMR1AJ62AX8OftITTwNo/CXHISQj0DCfUTvgzL7VM+ytp+oSvqGem1YwVfcktk9woqQvs4K2OrFEUjwKaKSnLODGjLyTnEddNUalQKws6FVNGeb8W6zqAUIQIM3FAwmkRWxSOw9rFHuSjv8mttRVXvDcbuUcI8f9KC9m5Yw0+nihes2cosREJCfamFr+Lmx
+    properties :
+     x : 15
+     y : 82
+     width : 327
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Libellé simple
+         
+        type : 14
+  -
+    name : LIB_mdp
+    identifier : 0x257c25cc091d1a6c
+    internal_properties : CAAAAAgAAABrAnT+VCKqfTV2T3A9WFqNyyrHxUob/TO+pkg+3l3H86fhA0QEJXYYziR51HN3oAbgQN7SN8gIO3foCsCr7rCQrBSSOxpsMrjzc4eGXGubhWZJFUAvPMaWf6s+JkXxJ7HU3Oq8sUTugAf0EiaACjq5PlO1D+LAOD1+ORmkhEGuUwGOJ4cW1S4L+32hNOpxJt07TMWE/4VNoXX7I7rSVcFulTfYvk1tzUmj4/dPqDSddujn8TWclCwsTh6imhfT7/oaFtPVu0Kb3RgVl0djOtHOsMI4ctIkG0P6GgfD0IJyvNb/HJsVfPAW4OKFtMIyrTw6IgOUSeBquXPNT/55FYTm6ueH6DB66YgMOwYTGF7kaaEM0cAwgcpDNv6rBMtXu+a9usYf2rfRV559Mj1aUZysdA9l9xRh7NSEu00NDJgZAPWbwtZhCNM2tFC3QyeY9uG0ZB66fwvqcQxcTaLuqtrGhK5LvZFuyDUSX3qw98LC3nZQLIEl3Enw6PamuDtAqAiWs2jj6Xyjb+dVDAsd2eMQBofqWqQ141VanCCzsGac
+    properties :
+     x : 11
+     y : 184
+     width : 332
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Libellé simple
+         
+        type : 14
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2570d76e05d9f913
+  internal_properties : CAAAAAgAAACMdIRNQViMljULZevjuqfsC9eLMzqE+CjDpg7MSAzaDdGLoP0CHtayJ6tozNprf0XjVfyzK311Fh01fid9H7oWQeL9L5SoLJmcjG5PWSHVZJYeqqKwRWg/P+OJf5HqjmmfFEy7bCO2lEf9uWfR3EUeHK7B3/A1fEyWOkh5fuBoQqt6vIXmffc0xGbPDGPUsbFNN9v2gvbE6yIhgB/0egrhSU92n7NCac1VwQMd0Y/iIGKvI3DV1bv1w8BrNbk8uiwolXQEuhODlofwHJfd1sA8OzxHY1YPAH5nPm6v7i5xGi06ymYv6EkJ2b2mWJYdBCjEoamIJIISU1rPcCs=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+  procedures :
+   -
+     name : ConnecterCompte
+     procedure_id : 1548152658706339481
+     type_code : 14
+     code : |1-
+      // Résumé : Procédure de connexion d'un utilisateur.
+      // Syntaxe : ConnecterCompte(<email>, <mdp>)
+      //
+      // Paramètres :
+      //    email : Chaîne - Représente l'adresse e-mail de l'utilisateur.
+      //    mdp : Chaîne - Représente le mot de passe de l'utilisateur.
+      // Valeur de retour :
+      //    Aucune
+      //
+      // Exemple :
+      //    ConnecterCompte("utilisateur@email.com", "MotDePasse123")
+      //
+      // Description :
+      //    Cette procédure gère le processus d'authentification des utilisateurs en vérifiant
+      //    les saisies, validant le format de l'adresse e-mail, recherchant l'utilisateur correspondant
+      //    dans la base de données, vérifiant le mot de passe, et ouvrant la fenêtre d'accueil
+      //    en cas de succès. Elle contribue à assurer une expérience utilisateur sécurisée.
+      //
+      
+      procédure ConnecterCompte(email,mdp)
+      	//Vérification si saisies vide
+      	SI email="" ALORS
+      		ToastAffiche("Veuillez saisir un e-mail.")
+      		DonneFocus(email)
+      		RETOUR
+      	FIN
+      	SI mdp="" ALORS
+      		ToastAffiche("Veuillez saisir un mot de passe.")
+      		DonneFocus(mdp)
+      		RETOUR
+      	FIN
+      	
+      	// Vérification du format du E-mail
+      	SI EmailVérifieAdresse(email,emailValideSyntaxe)<>emailAdresseValide ALORS
+      		ToastAffiche("L'identification saisie ne correspond pas a un E-mail.")
+      		RETOUR
+      	FIN
+      	
+      	//Vérification de la correspondance login
+      	loginBon est un booléen = Faux
+      	mdpBon est un booléen = Faux
+      	
+      	HLitRecherchePremier(Utilisateur,email,email)
+      	SI PAS Htrouve(Utilisateur) alors 
+      		ToastAffiche("Le nom d’utilisateur ou le mot de passe est incorrect. Veuillez essayer à nouveau.")
+      	Sinon
+      		loginBon=Vrai
+      	FIN
+      	
+      		
+      	
+      	//Vérification de la correspondance mdp
+      	si Utilisateur.Mdp <> mdp alors
+      		ToastAffiche("Le nom d’utilisateur ou le mot de passe est incorrect. Veuillez essayer à nouveau.")
+      	SINON
+      		mdpBon=Vrai
+      	FIN
+      	
+      	Si loginBon = Vrai ET mdpBon = Vrai alors
+      		//enregistrer l'id dans la variable globale
+      		Id_u			= Utilisateur.IDUtilisateur
+      		Civilite_u		= Utilisateur.Civilite
+      		Nom_u				= Utilisateur.Nom_utilisateur
+      		Prenom_u			= Utilisateur.Prenom_utilisateur
+      		Login_u			= Utilisateur.Email
+      		idRole_u			= Utilisateur.IDRole
+      		//ouvre fenêtre accueil
+      		si idRole_u = 2 alors
+      			OuvreFenêtreMobile(FEN_Accueil)
+      		FIN
+      		SI idRole_u = 0 ALORS
+      			OuvreFenêtreMobile(FEN_Utilisateur)
+      		fin
+      		SI idRole_u = 1 ALORS
+      			ToastAffiche("Pour accéder à l'application, veuillez contacter l'administrateur.")
+      		FIN
+      	FIN
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x17ea78d6006a25f6
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

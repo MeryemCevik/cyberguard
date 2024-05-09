@@ -1,0 +1,19 @@
+//MO086-087.TXT ANA00086 TO ANA00087
+Utilisateur		FCNX+	MaConnexion1	
+Client		FCNX+	MaConnexion1	
+Role		FCNX+	MaConnexion1	
+Menace		FCNX+	MaConnexion1	
+Actifs		FCNX+	MaConnexion1	
+Utilisateur_Client		FCNX+	MaConnexion1	
+Actifs_Menace		FCNX+	MaConnexion1	
+Types_actifs		FCNX+	MaConnexion1	
+Rapport_Evaluation		FCNX+	MaConnexion1	
+Rapports		FCNX+	MaConnexion1	
+MesureDeSecurite		FCNX+	MaConnexion1	
+Menace_Vulnerabilite		FCNX+	MaConnexion1	
+Vulnerabilite		FCNX+	MaConnexion1	
+Evaluation_risque		FCNX+	MaConnexion1	
+Recommandation		FCNX+	MaConnexion1	
+Menace_Recommandation		FCNX+	MaConnexion1	
+Analyse_rapport		FCNX+	MaConnexion1	
+MaConnexion1		CNX+		

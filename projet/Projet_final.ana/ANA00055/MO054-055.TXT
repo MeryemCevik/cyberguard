@@ -1,0 +1,2 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+Contrainte_Client_Evaluation_Risques		DEL	Client (IDClient) et Evaluation_Risques (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Evaluation_Risques (IDClient)

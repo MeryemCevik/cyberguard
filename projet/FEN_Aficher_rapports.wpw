@@ -1,0 +1,511 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Aficher_rapports
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Aficher_rapports
+ identifier : 0x26179c3619b1a552
+ internal_properties : CAAAAAgAAAAf7rSUi56cMqXG7wAB42C67Brl+MmYbeeIR0HyQBd29LhGmrBO/4a5+ToHAVxU3s5DSYf5x/5/WOSsSHqLdzrSCBbQ7S4ryyPzOTgxjthDg22+/FQBml9XApjQwoaKabMOVEwpDop0iMGfm/4dSfNPE0lO5mVIwpQSF1WWqXhikSRoPNbIH/tJ3GO2lQsuGSHDzv1urONzAeJcDiBAVT7z+VQ5zG3gECJBF+YLbfUMYJZKJ6glhjOBpVrP9IiqPek9yVClJs/3EfXzmYZaTuZSLptg4nrl+BlSEw9R+5LUVakD+K9Mi6MuzJ2EeCVoMkWYnKqPtaCKpN40YWhv5/DvMAss3jLDa8jnBW6rKnbpX51AMMIFVfZ0DYB/xgOhw1PfC9TNXUkxqs6Z0rcgwahJ+g5EKiI1pOhLzTy4qg7G/eCfguRVwl1uLC25cBvBvXYElrwWObNDqa5QRieXH62NUJ5zAAUWfVatWlQfjo0EUkKWNKSTUI3z5BI05+5p5wiIpPtlVJkLlkxI4D+w5kkMGlugdEnWvPajVZyIolVV2irm5biW2yCQO5az6+CkkU8Y7RBjG1vELEZ2Em1Dcr+dkT7BN1BmKqH+XXElCsUB0RYLktV0ayIM7mUpkDx9X8TJ+MoSa4dukkAyJAWs9/L52H6ZyTRv2bHCOqEOAiiaxOBbeGDic8AJxs9wIbCqzngleHw4wOMR3/7pO7+Mujc4LR31H45NsvR8SguItj/qkwMzRhuWsQPJWFSLmMHuN6HUEbQ+gzFMOawsyneCo+gHeviQqmWgPt+0zOJtAoBJyUnZPmj549L21KbKWuzySA==
+ properties :
+  width : 414
+  height : 569
+  heightMin : 650
+ controls :
+  -
+    name : SAI_Titre
+    identifier : 0x26179c3619b2a552
+    internal_properties : CAAAAAgAAAAr6G2Bwewx928JvL2UT/8ZimAgQO+yYUxUvA7Uk/pCgDJ90YprjsesJynhdc/b3wi/4bMioFF1wRB+fsfxuDyYqjQeZjNorOQMgVmLhVVcrefh8UYYIX9hOk2gRsSZvS9mGjVOOOTu2sejBXb+178NSMcsb5kVSfqCD+c89QHscBLgTxZNlQLkpFptyd7sqUhVcpTFVbLKe8y8oRzsZ2EvQWMR4Ij5GUEd5KJKIt0HuQXOtWeLLKLbFl9p25KgYH1fMaSSg4I3qDF1pTgHwojRfWmnkXRHlZBrq9jHxHEIE8d9bAWG+5uKbjx+OO44aYULGPi0/sTU3H7jTYiIhyVEsWgde6a1byVadMG+ZSZgawav+Y2OU971VrG7z7RzUeSXz6dsntrEKrdaAwzAWkhlUzJ9BGS6r6lovLXCIQfrczFMsWJTdFAHfrFBHCHF3uYH3sssvZ3QSYXyoBC4N/svrAROARk92nIsOVLKjKYfQ+6u9ARpqkbOKGd3c9AIgvWZxq8YZiDxkdN6bCDddv0OZ7GYNuSAG9hFblPtKSy3CneJnm7UeUAM7iuwP7PNogfOiAVHmmTysGjRuBrnMGGfFhcQgfnsfDebOcAtAQbGMGKxWmbMi25iI+BHeROQK+NlyGm4quLFd9l7bnGFbFv01THtOCJ7batLPZibLRXq3WdbMZ9Ww+ZG2sipU18KajMfLoa0hJc/GTLKdasf/+QZ+Y93e9I4GSfOx+nkBJw9B7ykrmktXU3oN9xUTHO0yCTD8G/RyN0hG/PKLX9Tc0/hdktNDbLXXZ3APTr25FZP6qlm4U2hYIbMz4IVl4zM9zyg2JyOVodoTgdRCbjWMw0nL9bFOs7o2PO+LCNftmfgdZnQnp3omABWGwuwRwrn8I9kZ+810dnsY/B4hklWgKAKngoq8s1QLERzZMak6M8Ph5N2oF5HgJz/iy7m2JxKM47RlF2TRrliqeNceTwh9OXNeObpnUtoX4mG5LbC2aHaViA+aq1t7jSVtnEC/6/t/NZscJXGhIha2XzoloONYr2DzLI6NMVQiusUYQUJEedAsg4+wmRBWBAmNeZmo1nbi1mdhhAPUyN/X+rpCCwtqgaFFHi31U1hVk1O4xEJyAw1RRmG3JyganY6f13nhpBo98oYpMaWrCc0YDl39DUiMblToGEkMujLAWCfz3s0kA==
+    properties :
+     x : 16
+     y : 20
+     width : 382
+     height : 61
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_rapport
+    identifier : 0x26179c3619b3a552
+    internal_properties : CAAAAAgAAAAWUAWlTL6qL0yRusdCNBew9ZqH1jg59/AhexKljjLmpP5swJKf9hCoeHjRQgI2PIbnGGvEGbXcw91NxqMEEYEXZk8OBji2IoQk9082hwmGUr4IDmNfzjvfqDKrpWSQzJlUNSNxA+dnOJCt8HL14RZfD0T6TH0+JnhUhLm9/71t0A94xxiRU1jVmKkEnbcPTzGwsOQsEO8UF4VSmJrRegIUeaIlQCPsrfy5iLvgnQm14WfWceC2iBt5KqoDkd+Qln6rBBxPip2iKpyWLLUZBGsxLlDxghmichMd0dj98H5eT3nvqufTsIT/je32KV4tji603TmQyPRjkhPPXkTysvc1qi8idznc6mKdGHAfb1a1Csq77DxTsPr226M/snbeE24v6lWFzUw62oQ00BSHJviNit3Q9oiB/ZfT3DcnnDF93ESqGiPZsvQ0JuuP8yY//FccNQgZZo1INWaRwlgchQwjDdXNuZyZ+uO79hcQg4hmyzjTNzBW6onNyyHb6goGBM/PkZHtAqGT6iHFdmBik9pOM9lRUNgbtp3pGTKjD9jT6UFNkEo80sizySDd1uYMUVmccuAf70ZMItCBFni/PSlBcnK3TuU8euAgQ+0NP+EqNKKVbo0nPasfD+Jt2VylX12uA0NKpF6AoeFa3z4GZDT0SaHwKeeSZxZgc3pu33GcaA+ZZwfPSrIyCcvPIVJCcxqYHMgeZJg7PpIppdA8BgrgwsuhOKpuw+ijtbCf2fugdL9zMDRwDXhICpcs64nuPVbbALEP6f9+srqZG2YhqBrPDyeUJZPptBg0lSkZ150Qn5Oe94nlfiZRqJIgavKRDbtAvZJIauf7LTo+QcDuoqz+rYkZry58m4EeMnHBEtuUP2XCLi0TQbjzztaV1CZiDaOfMB+n11+PJ4sUBe27BTpMBUPzhuwNepidumsWJN+IpwsPh+NObsKgtUXQzw==
+    properties :
+     x : 67
+     y : 285
+     width : 205
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton simple
+        type : 14
+      -
+        code : |1-
+         GenererRapport()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : COMBO_Client
+    identifier : 0x26179c3619b4a552
+    internal_properties : CAAAAAgAAAAEmzNy9jaPXeJid3r+rMykrgLyXJo3tWfMYuYG0RHBZj2+0SWKWn3QvxvJsTpbwLP9vPeDTbXbsC3eiMxqSmrrTvvEn6lTZPNdAVSvCLYGXaodvOKbxtfdl+iuWjU+NTrvI9pr3ntqXCqqjv/70P7M5lG2205QyUUCa1sqGUvrzR6rgvo/MardIVTNOYTnoPdTuBN9WmJ5FmAbCOO0UAoMjviQndOTkUznaHhImWQzliyrg3a6MlNj2/bOCtbUgNvcEjPIo9WGlCp9GFVqkSOV4yWzI/4WXJFEY/lqJ7gLL56zysA6bsKnD3rFw2g13L1oygkZJ4NFBNLDJXXo1Xr1dP3osqKQsRawxEeKkiyKkqA8FJR+Osr8zbq02EXmgTldyLZZQkp+RVWiLoyX8kNJdgmj7PUufZboy5L8eSak8CPGCIAlIILex0qPCtMN3nUXTUiCvPgkqATWKH/BqZveL9GE0U/1PHzJCh9QR7VBRZPvi2QR2zDkQZvrNJlHjjE/rpXnfhSB0oAfL8vFDoYNbFdZ70beJVb74pxs7dMvXoIOED+QhKaWJ7Qh7qdpffd51Ntpf9kkPyP0gJOWQyR+PXEh7nm6e7UQ2WscI8dTOKchz3VwP3Rx4ctxeopc88ABxHxUp7yHZyEYo2YYwIyjx3U51g2tk/CYGbBzzCowHQd3JFF8cKwgrD8PxZvmLyHKyTvsZRxpSAU2eEarvaS14y5KVOsepXXyqHbBwmSns3pXXKi4/7qXkAfmPEH4+64oQOUghr2QHPYZHRaqEO5fVwcw9LP45GwXLGKDSa1WVG3x72xN/VVmI3wL9kBtaYWlX+pLhBGFsXi7gFyfL6wOJlgFIC7AreWHQpg2UGPmZ9UroEv+LpLSUC2CovBmNvVKfsPZKJ3uQum2ORcbF8ZgEtuSs2uhL8wjXSJJoRMLTXlHpreEc+gaLnJdBqtZFmrnZa7vnqY7Yd6BpwvdeGsip6dkBAtxpTrbCdWUL+gCgNoUwozlX8DPf6PHsd/EaASj/IBPGiYVLEy06kUzNCcBPvi/kxPciTZY7eC1tnZQyZF/ZamjEv/glRJsqS2QvaHIg4bJPxwnRvNWyXnkeyzUXZsyM0UZm9toNgddkkyomdnMvxk1SmOrz+i8xK0QWKuWLfJpYPt8boFlvreLFVzyDOJ5ZzXa6NZ7rtz/rlmTW6Z4ZierzFNdhhbYexX2N55rcxMsqKmxzmaBmCIO/ngQfvnuinvP64iA58F/fdA62SvoHpYhpC2O1gMkI317a5wZYYhcu14hsXuAeJEgXFiKBoG4NoJFwI3eg61dXYM7M/WVpglLTp1PvZyUbb6DgpDys0tgXphybv0vaTZPDPcdShuea9WgxwA71nBcSP/RjyyQd5EN4ZbJrYjCmoGzK+Ux91xxmLUXLqzs9QnPHo+3VgboJLgH6W0pBPYx0JjcT8LiN/Ts+e/5Tv0NmcMingei4IKsAiHrV04Smh7sVfzAW+MqTXFTIiy/8PSUuITtDzy0bJcX1A4X3mUnrnvGcmRfrwgGLVqfxZ1hbHcz8zfDZVu5kZO9DOTzFTzOZaycnQmCE4QdZ4lUYKMqAFfe4kafs40oKGhEELd/vJmn2lDfMmJcpZ+XkvXr7OREf40R17aBb2QGDcmXSDkxkCIqj09ACPDc281x0AUFrmW0FtZQLeT8QD/HuRudJSbgDIw95tipidbhApwGKpfDm63YyOQt6RWkaJzkMMFWvKJy6N0krFZtEFQkXxqGff28VF1NzcwPcjzq/saWpOYE1QAQOvibXEENPJeOqtI6mLVDKZmZ2FqTAEJAsah0viLNa/0ccuEF
+    properties :
+     x : 17
+     y : 96
+     width : 327
+     height : 42
+    dropdown :
+     internal_properties : CAAAAAgAAACGCDMIJTLjc7i3D2C1lDHfOaGCTGaI5Ddg0vsdVcJClnjApLdNXdTugcff/6kpYOcJem82hnaO60Q4XRe8Ks8M8Lgu88o5CyV+My+8PW7ARxfKCiRJg/xhdIADt5JKDuMDnKCtt9VFTaEgM30Mf/+xX4KYX5ipmMRrukdoSHavqjhzxXXrDNXUh3XzbehS0dEaXjd4SwG1sSbxaMRrkOMI580x58bd2pUc/4BAMdsKNbiLblexy7DYD02GVSL0+dNQcAVWDCETTX/Gs+qWBR5QnnUoQm7LfibdvB/wLTRgvQglOwTNtYhTuOh44+NYMY4UKFnFtp74MaFHu5Kf/ZW1LzQvOLRK8mgkTEOMoOePgWCKeVjq0ARPc4xic9yfRpunudOtpeayHlMBbe/ozMfiqnPOY6oUX826RBiY84ZS9+aC9wQL30RZCxFqSochnultJzNW0d4XwcV36RToNZa7AmaYx0YFtaPUQyJl6h2hKqtqkmvSteW6miVnGG83PMFI3H/OK+bV3Qn7oOZ08Ou2j6lFpjuDL/8cb2Bh+sOZDOtXIxo9Unl90Jg6O90Y3NSRYRfAhzIftAuUp/btkrUUvk4V/I1pJLzKa0bxSCwOvpoARdMupkluT+6EWuoCNVCxwz4OisIV
+     type : 7
+    type : 14
+    code_elements :
+     type_code : 23
+     p_codes :
+      -
+        code : |1-
+         // Version 1
+         // Description 
+         // Combo liste simple
+         InitialisationCOMBO_client()
+        type : 14
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1+
+         SAI_Client=COMBO_Client..ValeurAffichée
+        type : 33
+      -
+        type : 17
+        enabled : false
+  -
+    name : SAI_Client
+    identifier : 0x26179c3619b5a552
+    internal_properties : CAAAAAgAAAAzdPDqKM+hNqoUN0cQuCv8vNstGUz3wGNSvPfIFrB6LCGdN4ftt81M2IC820dO8POETJw6sXX7NBd0fB9/aLvY40044IYtbQzflsf5EIZW8PuUAVzuwExLgJc1JxgLV5Uq+2bKRPi1JcLyeydY0NlHt98ZfbQSkmhlSGX9TisEWLqI9kEGipdLeiIzIdVx1woevqqa+aoMbrV9l6mogLSUdYjhJRsjpcIoNihuJxrcnhc0dOjN0YKaFVc6HP6YXZqTB/K7xYxT9lasImoTTSgGuN+x81R2yY8xdF8SqiT4xdQ9Pa5stUxM+sgII7PncCKQuDUQEkpjSiO3CursyUdGAjdvtX/CxrU+kn+jJnA14lxCp8PEFF5k4RZmpgxM04m0sV0LCsesMt4yzY4rHKbvSo9G4ZUjsb9IEDfcLG/gaynCRoZufPU6SMbBr7Y2EnGd+LB3Wj60m4/wXorliLNdMYK98jvXW3n/SOwuUuvvIvIMCz+a0Xc5XLyqcuyQhFks3qVyhoBLXi61jDHHdoUGHzp6p9T0bb7wu4dkFEIPFA28jxoyykRiYWQbjgAI59tqFivG0ZbiFVnSbVyUrM3+1FJqg/CiZYw6Wg+v4W5zR6YC1GC9lA3MY6cXKb8+UIR6xOksw2ltpkD6ZVcnJ+nyk+yvstFiGGZnpQgpP7i4GSLwLTzosrN8XV0mP++K8QsL304r//1Et8fT/rIuC+cKh2jBGS/sclFo79cyZAflhnUOmUM3QBYYIPE6l/Q7fKrHXZI8NmXqqZsSdx9qcul8bVHe5OU+NyZKq3q8GFjJY2Z3iNTAeg4Vb6xNmRaNwYhBQsOGml6dXDnUNJsn/sjtjKApUsJpBiLKd4H7O1jncQhZU7cratloZdCDw+70fk+QmX5wqBq9kDYMXcsmOZEE9jxDcZ7AYYwqvGvmoObXC9OXw4kBQDC+wsbyxKR6s3+XhfUH1iUBLHOrKOfFRJkvQIFVOG7hMRbwiBDIkd73SWw/RnnVaoVNEiFJwjbNS6eIDuNT/cVFNIvG1BP+/yXgP/DjRjPe5jk/Vmv4AhWpdcPXLEHbPaQlA3gQNCl88ahmcXNZFEqnlKuNpUu18sBfnpOWBwEkI+q7UfDGgcUgLSQHCJhQ0S2X4Hb6c55ZgOqCHwQOJ4pCRqBLhtXV66MpNEZUnP7VZr6/VAkOcT+fqLIUpUBYD4g=
+    properties :
+     x : 543
+     y : 281
+     width : 356
+     height : 44
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SEL_format
+    identifier : 0x26179c3619b6a552
+    internal_properties : CAAAAAgAAAAdrM/5Dzbld8SxUzVXSkOA9uasdLdTyBxgbcup6x1G2cjHyYhnZlSmi+0BFBOdg0WWo2plLm6MNJ9MJoO/8nv12O8Zztta+J8GjhEgMlbc985WMABNg7WYwHtFMKBosBKklXAUCkeK6xabR/DJfC00/uwItE/lHkdwrztFHxhKTWlH7zyzZZgwOxPiPVyITUj/4aWEXu5o/bfoZe9gvUWWiufsi2vnyrpOMseTKWLxqAgNKxR59XblqlLwUW5QnQEr/3Z/9trSwOIAOqBA6gpZ63+zLpdEnUdOtTseWZfJTJG/eFKXv4Uy2qIZGXHkHDJuun0jd5W1aeyNR93LmKxovW2TEbs2vZFfboiR9VBmAA3e51v6plbbBFAy6MtaRvGo5w0iGc/rCd56RdA7fjhpToHBB4cTIa4O4idKWIsGfcofn7nNNvzanXAMvCqDywvL81LvuKk06qfTsN2eyLO+ARSku5thQl2j77SKo9SocKNZzAIvOl2TlQ5kv6gXzZ0P74HbGCsdjc0If3UQa/WUJ05PvUk14tZM2nqrTuKNl1iOjFCxka8RCEz2FJ6JTzdDzMJddxJ07whSPE20IyArV+EvLCYZDstYIqPZkNpb3Lxq8rE6Q6529ixb027cOd16MoEMTbKl7DRHOAbYwtJTV9k8XjCRtfNlA95wU+PXaKoix4BprDKiG3VCtq3uzNkNFxtlrZNjM/i1iR+52tiBh76ZncaeiMA3JndX7/Sg1TFCQv2ftgjaGV3Na30YiwfNiv24ef3himfIuIjPtifZPzuILeISZSYYxU+Qv3s54Vc2esl4p1aW3I8y2AS4ld04v6Bm77GLOLRDdWltnqWjoJB6opmvWA1CMfqD8/+Pj/ArNxddrO8H/Lq2r/KZSu4Tzy7ykjdYHeadkLhEK+OVBc87lSxsEvmiPC9BcZmcVfeKaCEg13VJePIS7Msh4pK7I+QibtmKT2yOF5hD6CUeo6McJRv+8jnF2xngbQsO85AEQrNV+Ohjv3GzbUKG7crSbnYpEKnvMRAGWt2isDIHOuC2NFkRqEh/Nzm7FRJL6zbW+Z6aVkO2HRvrwmY=
+    properties :
+     x : 10
+     y : 153
+     width : 197
+     height : 93
+    options :
+     -
+       name : pdf
+       internal_properties : CAAAAAgAAAD3kBGykz4WrgtgXmqi1r0EuhCdxv8XzLmaZf8zZzsDjE0r3zVK+igYgLBqCIw0dwkHYw68FoSC1RNFL3rn1bfc4xMPr+e0H/sEPsxBVajak51bDfOXN7f/ADI3UHbUeQoTHxk+Ugq/ZusZOH2wNkUIej6iPTROh8AuQLIuq0TYDWBu6duHY7GWQywOvVffdoZgVkJpa1uSyHZVB7KHrtzZGvE4kXoeClN/EQnI43Bq6GI6NkxDmcSKch+xnsRGLgKOTjQpNeEEvjL5HsJCx0Ri8w==
+     -
+       name : csv
+       internal_properties : CAAAAAgAAABvMmx5c04KXRGXMONhfrjS1usz3KDCLvR9fWIxQ7eWzvdu93scENyqPIiQVkvWlF/vaWpkN/KblkZTzr85njgW4zPVPV7M/p1JCpSEwO16Mt0JyzcCrseDrMuUrsXLrmwoyp8XwinYb9Nm8qR6Hb42koOuQHNFT8o+oZTDJZspf8RRB16umqFCMY3cqLWSM8jw4ySUMrbMxhLq3ypEsDT2LxEtN3wumURmcUZ6iDxmjXVuJyx/L6nrYTB0Urs7JxB4bR0oUkc2Q0HzL4bBJSAj
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Sélecteur simple
+        type : 14
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x26179c3619b9a552
+  internal_properties : CAAAAAgAAAAOrPcpRBCVcDCcTf7fCjQNtzLTZp3iYOKKmkX9H2B+/buLTyo0+TkDMvj/e5eYczjyUS6UB8hi2ZrObFzDhAWLhc+Nxk7DF32r+yeBTuEjC6wx2KmBcfmjpS9KTyu1qAheBE3WT+0nAfTZbdwD2YVJFmjBXSR8NmcmmdBEqdvrJdWhSRupfzw8+XJJ1ONm3o1C8tu84lOjFkjLm9JOAqU9yURNGXK/ew+dm3Djb7/3grMiPbPmwQVM5Ir5rWOGeIYRxJKH6+UlSxqyTtgSkKTd6PBT2RmwQuFivcx9Dpya85XIJYusg3kVACcWSynaqa0eG0HC6WgBBA==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : MENU__Menu
+  identifier : 0x25c09bcc022ec72e
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAA1etd1LMC+dlxfnX0M6EgrCf/ide2p9PgAeoLuiXeZ8w2WdxX6rAuv3cFGlYDZQ26wXJBr6HpNSeUsNjteUhDcVbd44vF0bIBsUPi6Q+wkKzFSEi8BYu9Se/x0
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE FEN_Aficher_rapports()<§rad:1§>
+      <§rad:1§>
+      MaFenêtre.DepuisFichier()
+   -
+     code : |1-
+      <§rad:1§>
+     type : 34
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 165
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 177
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 180
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      <§rad:1§>
+      <§rad:1§>
+      <§rad:1§>
+     type : 2
+  procedures :
+   -
+     name : InitialisationCOMBO_client
+     procedure_id : 1591912749058729298
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // InitialisationCOMBO_client ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure InitialisationCOMBO_client()
+      //np stocke la concét° de prénom et nom client
+      np est une chaîne
+      //Recherche les clients d'un utilisateur donné pour les affichés
+      POUR TOUT Utilisateur_Client
+      	SI Utilisateur_Client.IDUtilisateur = Id_u ALORS
+      		POUR TOUT Client
+      			SI Client.IDClient = Utilisateur_Client.IDClient ALORS
+      				np = Client.Nom_client + " " + Client.Prenom_client
+      				ListeAjoute(COMBO_client, np)
+      			FIN
+      		FIN
+      	FIN
+      FIN
+      
+     type : 458752
+   -
+     name : TrouverIdClient
+     procedure_id : 1591912749058794834
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // TrouverIdClient ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure TrouverIdClient(nomClient)
+      
+      valeurComboClient est une chaine
+      valeurComboClient = nomClient
+      
+      // Extraction du Nom et Prénom à partir de la valeur de la combo
+      Nomm est une chaîne
+      Nomm = ExtraitChaîne(valeurComboClient, 1, " ")
+      Prenom est une chaîne
+      Prenom = ExtraitChaîne(valeurComboClient, 2, " ")
+      
+      //Recherche de l'id correspondant
+      ID_ClientSelectionne est un entier sur 8 octet
+      ID_ClientSelectionne = -1
+      
+      POUR TOUT Client
+      	SI Client.Nom_client = Nomm ET Client.Prenom_client = Prenom ALORS
+      		// Trouvé le client correspondant
+      		ID_ClientSelectionne = Client.IDClient
+      		//Info(ID_ClientSelectionne)
+      		SORTIR // Sortir de la boucle puisque l'id a été trouvé
+      	FIN
+      FIN
+      
+      RENVOYER ID_ClientSelectionne
+     type : 458752
+   -
+     name : GenererRapport
+     procedure_id : 1591912749058860370
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // GenererRapport ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure GenererRapport()
+      	idClientRapport = TrouverIdClient(SAI_Client)
+      	formatDoc	est une chaine
+      	toutEstBon	est un booléen	= Vrai
+      	nomFichierPDF est une chaine = fRepDonnées+[fsep] +"\Rapport\"+ SAI_Titre +  ".PDF"
+      	nomFichierCSV est une chaine = fRepDonnées+[fsep] +"\Rapport\"+ SAI_Titre +  ".CSV"
+      	
+      	//Vérif si tout est rempli
+      	SELON SEL_format
+      		CAS 0
+      			formatDoc="pdf"
+      		CAS 1
+      			formatDoc="csv"
+      		AUTRE CAS
+      			ToastAffiche("Veuillez remplir les champs.")
+      			toutEstBon=Faux
+      			RETOUR
+      	FIN
+      	//Vérif champ client
+      	si SAI_Client = "" alors
+      		ToastAffiche("Veuillez remplir les champs.")
+      		toutEstBon=Faux
+      		RETOUR
+      	FIN
+      	//Si SAI_Titre existe déjà demande la modif (NomDoc)
+      	pour TOUT Rapports
+      		SI SAI_Titre  = Rapports.Titre ALORS
+      			ToastAffiche("Ce rapport existe déjà.")
+      			toutEstBon=Faux
+      			RETOUR
+      		FIN
+      	FIN
+      	
+      	//PARTIE Génération du rapport selon les spécificités
+      	si toutEstBon = Vrai alors
+      		//Vérification sil existent des éval risque pour ce client
+      		SI HRecherchePremier(Evaluation_risque, IDClient, idClientRapport) ALORS
+      			//Si c vrai on génère le rapport par rapport au format de document
+      			//-----------PDF------------
+      			SI formatDoc="pdf" ALORS
+      				EnregistrerPDF(nomFichierPDF)
+      			FIN
+      			SI formatDoc="csv" ALORS
+      				EnregistrerCSV(nomFichierCSV)
+      			FIN
+      		SINON
+      			//Sinon on lui affiche un message
+      			ToastAffiche("Aucune estimation de risques. Veuillez générer des estimations de risques pour ce client.")
+      		FIN
+      	FIN
+     type : 458752
+   -
+     name : EnregistrerPDF
+     procedure_id : 1591912749058925906
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // EnregistrerPDF ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure EnregistrerPDF(nomFichier)
+      
+      	// Impression au format PDF
+      	iDestination(iPDFGénérique,nomFichier)
+      	
+      	// On passe les paramètres de la requête
+      	iInitRequêteEtat(ETAT_Evaluation_risque,idClientRapport)
+      	
+      	// Imprimer
+      	iImprimeEtat(ETAT_Evaluation_risque)
+      	
+      	//Enregistrer dans Rapports
+      	HAttacheMémo(Rapports,ContenuDocument,nomFichier,hMémoBin)
+      	Rapports.NomDocument	= nomFichier
+      	Rapports.Format			= "PDF"
+      	Rapports.Titre			= SAI_Titre
+      	Rapports.IDClient		= idClientRapport
+      	Rapports.Auteur			= Id_u
+      	HAjoute(Rapports)
+      	idrapport		est un entier sur 8 octets	= Rapports.IDRapports
+      	
+      	//Enregistrement dans Rapport_Evaluation
+      	ResExécution	est un booléen
+      	ResExécution = HExécuteRequête(REQ_EvaluationRisque)
+      	SI ResExécution = Vrai ALORS
+      		// Parcours du résultat de la requête
+      		POUR TOUT REQ_EvaluationRisque
+      			Rapport_Evaluation.IDEvaluation_risque	= REQ_EvaluationRisque.IDEvaluation_risque
+      			//						info(REQ_EvaluationRisque.IDEvaluation_risque)
+      			Rapport_Evaluation.IDRapports			= idrapport
+      			//						info(Rapports.IDRapports)
+      			HAjoute(Rapport_Evaluation)	
+      		FIN
+      	FIN
+      	
+      	//Enregistrement dans Analyse_rapport
+      //	Nombre_risque est une chaîne 
+      //	somme_risque est un numérique
+      ////	POUR TOUT Analyse_rapport 
+      //	POUR TOUT Evaluation_risque  
+      //		si Evaluation_risque.IDClient=idClientRapport ALORS
+      //			somme_risque = somme_risque+ Evaluation_risque.Niveau_risque
+      //		FIN
+      //		
+      //	FIN
+      	
+      	// Affiche le fichier au client
+      	OuvreFenêtreMobile(FEN_LecteurPDF,nomFichier)
+     type : 458752
+   -
+     name : EnregistrerCSV
+     procedure_id : 1591912749058991442
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //EnregistrerCSV (<nomFichierCSV>)
+      //
+      // Paramètres :
+      // 	nomFichierCSV : <indiquez ici le rôle de nomFichierCSV>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // <Indiquez ici un exemple d'utilisation>
+      //
+      procédure EnregistrerCSV(nomFichierCSV)
+      	nNumFichier		est un entier
+      	sLigneAEcrire	est une chaîne
+      	ResExécution	est un booléen
+      	
+      	nNumFichier = fOuvre(nomFichierCSV, foCréationSiInexistant)
+      	SI nNumFichier <> -1 ALORS
+      		ResExécution = HExécuteRequête(REQ_EvaluationRisque,hRequêteDéfaut,idClientRapport)
+      		SI ResExécution = Vrai ALORS
+      			sLigneAEcrire = "RAPPORT DE L'ANALYSE DE RISQUES"
+      			fEcritLigne(nNumFichier, sLigneAEcrire)
+      			sLigneAEcrire = "Menace check" + TAB + ""+ TAB + "Client n° : " + TAB +idClientRapport
+      			fEcritLigne(nNumFichier, sLigneAEcrire)
+      			sLigneAEcrire = "Numéro du risque" + TAB + "Nom du risque" + TAB + "Description du risque"+ TAB + "Probabilité" + TAB + "Gravité"+ TAB+ "Impact"+TAB+"Vulnérabilités"+TAB+"Nom de l'actif"+TAB+"Recommandations"
+      			fEcritLigne(nNumFichier, sLigneAEcrire)
+      			// Parcours du résultat de la requête
+      			POUR TOUT REQ_EvaluationRisque
+      				//Contenu du csv
+      				sLigneAEcrire = REQ_EvaluationRisque.IDEvaluation_risque + TAB + REQ_EvaluationRisque.Nom_menace + TAB + REQ_EvaluationRisque.Description_menace+ TAB + REQ_EvaluationRisque.Probabilite+TAB+REQ_EvaluationRisque.Gravite+TAB+REQ_EvaluationRisque.NiveauRisque+TAB+REQ_EvaluationRisque.Vulnerabilites+TAB+REQ_EvaluationRisque.Nom_actif+TAB+REQ_EvaluationRisque.Recommandations
+      				fEcritLigne(nNumFichier, sLigneAEcrire)
+      			FIN
+      			fFerme(nNumFichier)
+      		FIN
+      	FIN
+      	//Enregistrement dans la BDD
+      	HAttacheMémo(Rapports,ContenuDocument,nomFichierCSV,hMémoBin)
+      	Rapports.NomDocument	= nomFichierCSV
+      	Rapports.Format			= "CSV"
+      	Rapports.Titre			= SAI_Titre
+      	Rapports.IDClient		= idClientRapport
+      	Rapports.Auteur			= Id_u
+      	HAjoute(Rapports)
+      	idrapport		est un entier sur 8 octets	= Rapports.IDRapports
+      	
+      	//Enregistrement dans Rapport_Evaluation
+      	ResExécut	est un booléen
+      	ResExécut = HExécuteRequête(REQ_EvaluationRisque)
+      	SI ResExécut = Vrai ALORS
+      		// Parcours du résultat de la requête
+      		POUR TOUT REQ_EvaluationRisque
+      			Rapport_Evaluation.IDEvaluation_risque	= REQ_EvaluationRisque.IDEvaluation_risque
+      			//						info(REQ_EvaluationRisque.IDEvaluation_risque)
+      			Rapport_Evaluation.IDRapports			= idrapport
+      			//						info(Rapports.IDRapports)
+      			HAjoute(Rapport_Evaluation)	
+      		FIN
+      	FIN
+      	ToastAffiche("Le rapport de risques est enregistrés.",toastCourt)
+      	//On ouvre la fenêtre FI_Rapports
+      //	iDestination(iPDFGénérique,nomFichierCSV)
+      //	iInitRequêteEtat(ETAT_Evaluation_risque,idClientRapport)
+      //	iImprimeEtat(ETAT_Evaluation_risque)
+      //	OuvreFenêtreMobile(FI_Rapports)
+      //	
+      	
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x16179c360114a5ee
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

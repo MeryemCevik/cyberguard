@@ -1,0 +1,4 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Client		TAR	272	nouvelle taille enregistrement : 272
+Client	Nom_client	RUB+		Nom_client est une nouvelle rubrique
+Client	Prenom_client	RUB+		Prenom_client est une nouvelle rubrique

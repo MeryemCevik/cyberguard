@@ -1,0 +1,3 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Actifs		TAR	235	nouvelle taille enregistrement : 235
+Actifs	Nombre_actif	RUB+		Nombre_actif est une nouvelle rubrique

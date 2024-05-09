@@ -1,0 +1,5 @@
+//MO083-084.TXT ANA00083 TO ANA00084
+Contrainte_Rapports_Rapport_Evaluation		NWL	Rapports (IDRapports) et Rapport_Evaluation (IDRapports)	Nouvelle liaison entre les fichiers Rapports (IDRapports) et Rapport_Evaluation (IDRapports)
+Contrainte_Evaluation_risque_Rapport_Evaluation		NWL	Evaluation_risque (IDEvaluation_risque) et Rapport_Evaluation (IDEvaluation_risque)	Nouvelle liaison entre les fichiers Evaluation_risque (IDEvaluation_risque) et Rapport_Evaluation (IDEvaluation_risque)
+Contrainte_Rapports_Rapport_Evaluation		DEL	Rapports (IDRapports) et Rapport_Evaluation (IDRapports)	Liaison supprimée entre les fichiers Rapports (IDRapports) et Rapport_Evaluation (IDRapports)
+Contrainte_Evaluation_risque_Rapport_Evaluation		DEL	Evaluation_risque (IDEvaluation_risque) et Rapport_Evaluation (IDEvaluation_risque)	Liaison supprimée entre les fichiers Evaluation_risque (IDEvaluation_risque) et Rapport_Evaluation (IDEvaluation_risque)

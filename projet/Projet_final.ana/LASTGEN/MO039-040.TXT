@@ -1,0 +1,5 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+Vulnerabilite		TAR	190	nouvelle taille enregistrement : 190
+Vulnerabilite	Niveau_risque	RUB+		Niveau_risque est une nouvelle rubrique
+Menace	Niveau_risque	RUB+		Niveau_risque est une nouvelle rubrique
+Menace	Impact_menace	RUB-		la rubrique Impact_menace est supprimée

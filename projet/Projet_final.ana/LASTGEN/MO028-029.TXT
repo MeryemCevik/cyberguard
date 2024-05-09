@@ -1,0 +1,2 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Contrainte_Types_actifs_Actifs		MCL	1,1->0,1	

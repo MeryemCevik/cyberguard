@@ -1,0 +1,7 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Role		TAR	119	nouvelle taille enregistrement : 119
+Role	IDUtilisateur	RUB-		la rubrique IDUtilisateur est supprimée
+Utilisateur_Client		NFI		nouveau fichier
+Utilisateur_Evaluation_Auto		NFI		nouveau fichier
+Utilisateur_Evaluation_Manuelle		NFI		nouveau fichier
+Contrainte_Utilisateur_Role		DEL	Utilisateur (IDUtilisateur) et Role (IDUtilisateur)	Liaison supprimée entre les fichiers Utilisateur (IDUtilisateur) et Role (IDUtilisateur)

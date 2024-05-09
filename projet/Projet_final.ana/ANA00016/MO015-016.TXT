@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Actifs		TAR	185	nouvelle taille enregistrement : 185
+Actifs	Type_actif	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique Type_actif a pour nouveau type Entier non signé sur 1 octet

@@ -1,0 +1,31 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Evaluation_Risques		NNF*	Evaluation_Risques_Manuelle	nouveau nom Evaluation_Risques
+Evaluation_Risques		TAR	109	nouvelle taille enregistrement : 109
+Evaluation_Risques	IDEvaluation_Risques	NNR	IDEvaluation_Risques_Manuelle	ATTENTION : la clé IDEvaluation_Risques_Manuelle a pour nouveau nom IDEvaluation_Risques
+Evaluation_Risques	Type_evaluation	RUB+		Type_evaluation est une nouvelle rubrique
+Evaluation_Risques	IDActifs	RUB+		IDActifs est une nouvelle clé
+Evaluation_Risques	IDMenace	RUB+		IDMenace est une nouvelle clé
+Evaluation_Risques	IDVulnerabilite	RUB+		IDVulnerabilite est une nouvelle clé
+Role_Utilisateur		NFI		nouveau fichier
+Utilisateur_Client		NFI		nouveau fichier
+Utilisateur_Evaluation_Risques		NFI		nouveau fichier
+Actifs_Menace		NFI		nouveau fichier
+Vulnerabilite_Menace		NFI		nouveau fichier
+Evaluation_Risques_Auto		FIC-	Evaluation_Risques_Auto	Fichier supprimé Evaluation_Risques_Auto
+Utilisateur_Client		FIC-	Utilisateur_Client	Fichier supprimé Utilisateur_Client
+Utilisateur_Evaluation_Auto		FIC-	Utilisateur_Evaluation_Auto	Fichier supprimé Utilisateur_Evaluation_Auto
+Utilisateur_Evaluation_Manuelle		FIC-	Utilisateur_Evaluation_Manuelle	Fichier supprimé Utilisateur_Evaluation_Manuelle
+Contrainte_Utilisateur_Client		NWL	Utilisateur (IDUtilisateur) et Utilisateur_Client (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Utilisateur_Client (IDUtilisateur)
+Contrainte_Client_Utilisateur		NWL	Client (IDClient) et Utilisateur_Client (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Utilisateur_Client (IDClient)
+Contrainte_Role_Utilisateur		NWL	Role (IDRole) et Role_Utilisateur (IDRole)	Nouvelle liaison entre les fichiers Role (IDRole) et Role_Utilisateur (IDRole)
+Contrainte_Utilisateur_Role		NWL	Utilisateur (IDUtilisateur) et Role_Utilisateur (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Role_Utilisateur (IDUtilisateur)
+Contrainte_Menace_Actifs		NWL	Menace (IDMenace) et Actifs_Menace (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Actifs_Menace (IDMenace)
+Contrainte_Actifs_Menace		NWL	Actifs (IDActifs) et Actifs_Menace (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Actifs_Menace (IDActifs)
+Contrainte_Vulnerabilite_Evaluation_Risques		NWL	Vulnerabilite (IDVulnerabilite) et Evaluation_Risques (IDVulnerabilite)	Nouvelle liaison entre les fichiers Vulnerabilite (IDVulnerabilite) et Evaluation_Risques (IDVulnerabilite)
+Contrainte_Menace_Evaluation_Risques		NWL	Menace (IDMenace) et Evaluation_Risques (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Evaluation_Risques (IDMenace)
+Contrainte_Actifs_Evaluation_Risques		NWL	Actifs (IDActifs) et Evaluation_Risques (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Evaluation_Risques (IDActifs)
+Contrainte_Client_Utilisateur_Evaluation_Risques		NWL	Client (IDClient) et Utilisateur_Evaluation_Risques (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Utilisateur_Evaluation_Risques (IDClient)
+Contrainte_Evaluation_Risques_Utilisateur		NWL	Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risques (IDEvaluation_Risques)	Nouvelle liaison entre les fichiers Evaluation_Risques (IDEvaluation_Risques) et Utilisateur_Evaluation_Risques (IDEvaluation_Risques)
+Contrainte_Utilisateur_Evaluation_Risques		NWL	Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risques (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Utilisateur_Evaluation_Risques (IDUtilisateur)
+Contrainte_Vulnerabilite_Menace		NWL	Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)	Nouvelle liaison entre les fichiers Vulnerabilite (IDVulnerabilite) et Vulnerabilite_Menace (IDVulnerabilite)
+Contrainte_Menace_Vulnerabilite		NWL	Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Vulnerabilite_Menace (IDMenace)

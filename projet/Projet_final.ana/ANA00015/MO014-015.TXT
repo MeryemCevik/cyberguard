@@ -1,0 +1,3 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Client		TAR	323	nouvelle taille enregistrement : 323
+Client	Email_client	RUB+		Email_client est une nouvelle rubrique

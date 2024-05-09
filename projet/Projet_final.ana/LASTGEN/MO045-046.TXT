@@ -1,0 +1,4 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+MesureDeSecurite		TAR	23	nouvelle taille enregistrement : 23
+MesureDeSecurite	Chiffrement_Donnees_Perso	NNR	Donnees_Perso	ATTENTION : la rubrique Donnees_Perso a pour nouveau nom Chiffrement_Donnees_Perso
+MesureDeSecurite	chiffrement	RUB-		la rubrique chiffrement est supprimée

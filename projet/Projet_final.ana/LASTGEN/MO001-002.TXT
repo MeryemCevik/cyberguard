@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Menace		NFI		nouveau fichier
+Actifs		NFI		nouveau fichier
+Evaluation_Risques_Auto		NFI		nouveau fichier
+Evaluation_Risques_Manuelle		NFI		nouveau fichier

@@ -1,0 +1,2 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+Rapports	NomDocument	NNR	NomDoc	ATTENTION : la rubrique NomDoc a pour nouveau nom NomDocument

@@ -1,0 +1,4 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Actifs		TAR	556	nouvelle taille enregistrement : 556
+Actifs	AdresseIP	RUB+		AdresseIP est une nouvelle rubrique
+Actifs	AdresseMac	RUB+		AdresseMac est une nouvelle rubrique

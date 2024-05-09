@@ -1,0 +1,2 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Utilisateur	Mdp	NNR	MotDePasse	ATTENTION : la rubrique MotDePasse a pour nouveau nom Mdp

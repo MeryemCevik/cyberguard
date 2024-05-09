@@ -1,0 +1,2 @@
+//MO078-079.TXT ANA00078 TO ANA00079
+Rapports	ContenuDocument	NNR	Contenu	ATTENTION : la rubrique Contenu a pour nouveau nom ContenuDocument

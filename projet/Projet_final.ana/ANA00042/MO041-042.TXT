@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Menace		TAR	440	nouvelle taille enregistrement : 440
+Menace	Description_menace	TAI+	150	la rubrique Description_menace a comme nouvelle taille 301 au lieu de 151

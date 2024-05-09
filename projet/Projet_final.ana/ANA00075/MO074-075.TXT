@@ -1,0 +1,3 @@
+//MO074-075.TXT ANA00074 TO ANA00075
+Recommandation		FIC-	Recommandation	Fichier supprimé Recommandation
+Contrainte_Recommandation_Menace_Recommandation		DEL	Recommandation (IDRecommandation) et Menace_Recommandation (IDRecommandation)	Liaison supprimée entre les fichiers Recommandation (IDRecommandation) et Menace_Recommandation (IDRecommandation)

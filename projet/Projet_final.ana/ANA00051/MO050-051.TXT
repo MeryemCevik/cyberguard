@@ -1,0 +1,11 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+Actifs_Menace		NFI		nouveau fichier
+Menace_Vulnerabilite		NFI		nouveau fichier
+Actifs_Menace_Vulnerabilite		FIC-	Actifs_Menace_Vulnerabilite	Fichier supprimé Actifs_Menace_Vulnerabilite
+Contrainte_Actifs_Actifs_Menace		NWL	Actifs (IDActifs) et Actifs_Menace (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Actifs_Menace (IDActifs)
+Contrainte_Menace_Menace_Vulnerabilite		NWL	Menace (IDMenace) et Menace_Vulnerabilite (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Menace_Vulnerabilite (IDMenace)
+Contrainte_Vulnerabilite_Menace_Vulnerabilite		NWL	Vulnerabilite (IDVulnerabilite) et Menace_Vulnerabilite (IDVulnerabilite)	Nouvelle liaison entre les fichiers Vulnerabilite (IDVulnerabilite) et Menace_Vulnerabilite (IDVulnerabilite)
+Contrainte_Menace_Actifs_Menace		NWL	Menace (IDMenace) et Actifs_Menace (IDMenace)	Nouvelle liaison entre les fichiers Menace (IDMenace) et Actifs_Menace (IDMenace)
+Contrainte_Actifs_Actifs_Menace_Vulnerabilite		DEL	Actifs (IDActifs) et Actifs_Menace_Vulnerabilite (IDActifs)	Liaison supprimée entre les fichiers Actifs (IDActifs) et Actifs_Menace_Vulnerabilite (IDActifs)
+Contrainte_Menace_Actifs_Menace_Vulnerabilite		DEL	Menace (IDMenace) et Actifs_Menace_Vulnerabilite (IDMenace)	Liaison supprimée entre les fichiers Menace (IDMenace) et Actifs_Menace_Vulnerabilite (IDMenace)
+Contrainte_Vulnerabilite_Actifs_Menace_Vulnerabilite		DEL	Vulnerabilite (IDVulnerabilite) et Actifs_Menace_Vulnerabilite (IDVulnerabilite)	Liaison supprimée entre les fichiers Vulnerabilite (IDVulnerabilite) et Actifs_Menace_Vulnerabilite (IDVulnerabilite)

@@ -1,0 +1,10 @@
+//MO064-065.TXT ANA00064 TO ANA00065
+Utilisateur_Evaluation_Risque	IDEvaluation_Risques	NNR	IDEvaluation_Risque	ATTENTION : la clé IDEvaluation_Risque a pour nouveau nom IDEvaluation_Risques
+Rapport_Evaluation	IDEvaluation_Risques	NNR	IDEvaluation_Risque	ATTENTION : la clé IDEvaluation_Risque a pour nouveau nom IDEvaluation_Risques
+Evaluation_risque		NFI		nouveau fichier
+Evaluation_Risque		FIC-	Evaluation_Risque	Fichier supprimé Evaluation_Risque
+Contrainte_Menace_Evaluation_Risques		DEL	Menace (IDMenace) et Evaluation_Risque (IDMenace)	Liaison supprimée entre les fichiers Menace (IDMenace) et Evaluation_Risque (IDMenace)
+Contrainte_Actifs_Evaluation_Risques		DEL	Actifs (IDActifs) et Evaluation_Risque (IDActifs)	Liaison supprimée entre les fichiers Actifs (IDActifs) et Evaluation_Risque (IDActifs)
+Contrainte_Client_Evaluation_Risques		DEL	Client (IDClient) et Evaluation_Risque (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Evaluation_Risque (IDClient)
+Contrainte_Evaluation_Risques_Rapport_Evaluation		DEL	Evaluation_Risque (IDEvaluation_Risque) et Rapport_Evaluation (IDEvaluation_Risque)	Liaison supprimée entre les fichiers Evaluation_Risque (IDEvaluation_Risque) et Rapport_Evaluation (IDEvaluation_Risque)
+Contrainte_Evaluation_Risques_Utilisateur_Evaluation_Risque		DEL	Evaluation_Risque (IDEvaluation_Risque) et Utilisateur_Evaluation_Risque (IDEvaluation_Risque)	Liaison supprimée entre les fichiers Evaluation_Risque (IDEvaluation_Risque) et Utilisateur_Evaluation_Risque (IDEvaluation_Risque)
